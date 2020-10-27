@@ -1,0 +1,135 @@
+﻿@{
+    Layout = null;
+}
+@model CriadoParaVoceWeb.Models.tbFALE_CONOSCO
+
+<!DOCTYPE html>
+
+<html lang="pt-br">
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Fale Conosco</title>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+    @*<link href="layout/styles/layout.css" rel="stylesheet" type="text/css" media="all">*@
+    <script src="~/Scripts/jquery-3.1.1.min.js"></script>
+    <script src="~/Scripts/bootstrap.min.js"></script>
+    <link href="~/Content/layout.css" rel="stylesheet" />
+    <link href="~/Content/bootstrap.min.css" rel="stylesheet" />
+    <link href="~/Content/formulario.css" rel="stylesheet" />
+</head>
+<body>
+    <div class="form-container">
+        <div class="page-header">
+            <h1>Fale Conosco</h1>
+        </div>
+        <div class="container body-content">
+            @using (Html.BeginForm())
+            {
+                @Html.AntiForgeryToken()
+                <div class="panel panel-primary">
+                    <div id="teste" class="panel-heading">
+                        <h4> Preencha as Informações</h4>
+                    </div>
+                    <div class="panel-body">
+                        <div>
+                            <p>Envie-nos sua mensagem :</p>
+                            <div style="margin-top:28px">
+                                <br>
+                                <form action="/action_page.php" target="_blank">
+                                    <div class="row">
+                                        <div class="form-group col-md-12">
+                                            <label class="control-label">Nome: </label>
+                                            @Html.TextBoxFor(model => model.NOME, new { @class = "form-control", placeholder = "Seu Nome Completo" })
+                                            @Html.ValidationMessageFor(model => model.NOME, "", new { @class = "text-danger" })
+                                        </div>
+                                    </div>
+                                    <div class="row">
+                                        <div class="form-group col-md-10">
+                                            <label class="control-label">Email: </label>
+                                            @Html.TextBoxFor(model => model.EMAIL, new { @class = "form-control", placeholder = "Email para a receber a resposta" })
+                                            @Html.ValidationMessageFor(model => model.EMAIL, "", new { @class = "text-danger" })
+                                        </div>
+                                    </div>
+                                    <div class="row">
+                                        <div class="form-group col-md-12">
+                                           <label class="control-label">Assunto : </label>
+                                           @Html.TextBoxFor(model => model.Assunto, new { @class = "form-control", placeholder = "Sobre qual tema você deseja falar ? " })
+                                           @Html.ValidationMessageFor(model => model.Assunto, "", new { @class = "text-danger" })
+                                        </div>
+                                     </div>
+                                    <div class="row">
+                                        <div class="form-group col-md-12">
+                                            <label class="control-label">Mensagem: </label>
+                                            @Html.TextBoxFor(model => model.MSG, new { @class = "form-control", placeholder = "Mensagem" })
+                                            @Html.ValidationMessageFor(model => model.MSG, "", new { @class = "text-danger" })
+                                        </div>
+                                    </div>
+                                    <div class="row">
+                                        <div class="form-group col-md-12">
+                                            <label class="control-label">Telefone: </label>
+                                            @Html.TextBoxFor(model => model.TELEFONE, new { @class = "form-control", placeholder = "( ) 0000-0000" })
+                                            @Html.ValidationMessageFor(model => model.TELEFONE, "", new { @class = "text-danger" })
+                                        </div>
+                                    </div>
+                                    @*<div class="row">
+                                        <div class="form-group col-md-6">
+                                            <label class="control-label">Status: </label>
+                                            @Html.CheckBoxFor(model => model.STATUS_MSG, 1, false)
+                                            @Html.ValidationMessageFor(model => model.STATUS_MSG, "", new { @class = "text-danger" });
+                                        </div>
+                                    </div>*@
+                                    <div class="row">
+                                        <div class="form-group col-md-6">
+                                            <label class="control-label">Mensagem Terminada: </label>
+                                            @Html.RadioButtonFor(model => model.CodigoUsuario, 1, false)
+                                            @Html.ValidationMessageFor(model => model.CodigoUsuario, "", new { @class = "text-danger" })
+                                        </div>
+                                    </div>
+
+                                    <div class="row">
+                                        <div>
+                                            <input type="submit" class="btn btn-primary" value="Cadastrar" />
+                                        </div>
+                                    </div>
+                                    @*<input class="form-group col-md-4" type="text" placeholder="Name" required name="Name"><br /><br />
+        <input class="form-group col-md-4" type="text" placeholder="Email" required name="Email" /><br /><br />
+        <input class="form-group col-md-3" type="text" placeholder="Assunto" required name="Assunto"><br /><br />
+        <input class="form-group col-md-12" type="text" placeholder="Menssagem" required name="Menssagem"><br />*@
+                                    @*<p>
+            <button class="w3-button w3-black" type="submit">
+                <i class=""></i> Envie Menssagem
+            </button>
+        </p>*@
+                                </form>
+                                <!-- Image of location/map -->
+                                <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3658.571442710341!2d-46.66872558502322!3d-23.5119408847075!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x94cef7f9e40d4e0f%3A0x6a5be8e7baca879!2sRua%20Samarit%C3%A1%2C%201015%20-%20Jardim%20das%20Laranjeiras%2C%20S%C3%A3o%20Paulo%20-%20SP%2C%2002518-080!5e0!3m2!1spt-BR!2sbr!4v1572523868798!5m2!1spt-BR!2sbr" width="600" height="450" frameborder="0" style="border:0;" allowfullscreen=""></iframe>
+                                <p><i class=""></i> São Paulo, Brasil</p>
+                                <p><i class=""></i> Telefone: (11) 2254-9582</p>
+                                <p><i class=""> </i> Email: CriadoParaVoce@Outlook.com</p>
+                            </div>
+                        </div>
+                      
+                    </div>
+                </div>
+                <div class="row">
+                    <div>
+                        <button type="submit" class="btn btn-primary">@Html.ActionLink("Voltar", "Index", "Home")</button>
+                    </div>
+                </div>
+                <div class="panel-footer">
+                </div>
+                <div class="row">
+                    <div>
+                        
+                    </div>
+                </div>
+                <div class="panel-footer">
+                </div>
+            }
+        </div>
+    </div>
+
+</body>
+</html>
+@**@

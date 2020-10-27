@@ -1,0 +1,155 @@
+﻿
+@{
+    Layout = null;
+}
+@model CriadoParaVoceWeb.Models.tbFuncionario
+<!DOCTYPE html>
+
+<html lang="pt-br">
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Cadastrar Funcionário</title>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+    @*<link href="layout/styles/layout.css" rel="stylesheet" type="text/css" media="all">*@
+    <script src="~/Scripts/jquery-3.1.1.min.js"></script>
+    <script src="~/Scripts/bootstrap.min.js"></script>
+    <link href="~/Content/layout.css" rel="stylesheet" />
+    <link href="~/Content/bootstrap.min.css" rel="stylesheet" />
+    <link href="~/Content/formulario.css" rel="stylesheet" />
+</head>
+<body>
+    <div class="form-container"> 
+        <div class="page-header">
+            <h1>Cadastrar Funcionário</h1>
+        </div>
+        <div class="container body-content">
+            @using (Html.BeginForm())
+            {
+                @Html.AntiForgeryToken()
+                <div class="panel panel-primary">
+                    <div id="teste" class="panel-heading">
+                        <h4> Preencha com suas Informações do Funcionário</h4>
+                    </div>
+                    <div class="panel-body">
+                        <div class="row">
+                            <div class="form-group col-md-12">
+                                <label class="control-label">Nome: </label>
+                                @Html.TextBoxFor(Model => Model.NomeFuncionario, new { @class = "form-control", placeholder = "Seu Nome Completo" })
+                                @Html.ValidationMessageFor(Model => Model.NomeFuncionario, "", new { @class = "text-danger" })
+                            </div>
+                        </div>
+                        <div class="row">
+                            <div class="form-group col-md-3">
+                                <label class="control-label">CPF: </label>
+                                @Html.TextBoxFor(Model => Model.CpfFuncionario, new { @class = "form-control", placeholder = "000.000.000-00" })
+                                @Html.ValidationMessageFor(Model => Model.CpfFuncionario, "", new { @class = "text-danger" })
+                            </div>
+                        </div>
+                        <div class="row">
+                            <div class="form-group col-md-6">
+                                <label class="control-label">Email: </label>
+                                @Html.TextBoxFor(Model => Model.EmailFuncionario, new { @class = "form-control", placeholder = "Digite Seu Email" })
+                                @Html.ValidationMessageFor(Model => Model.EmailFuncionario, "", new { @class = "text-danger" })
+                            </div>
+                        </div>
+                        <div class="row">
+                            <div class="form-group col-md-2">
+                                <label class="control-label">CEP: </label>
+                                @Html.TextBoxFor(Model => Model.CEP, new { @class = "form-control", placeholder = "Digite seu CEP" })
+                                @Html.ValidationMessageFor(Model => Model.CEP, "", new { @class = "text-danger" })
+                            </div>
+                        </div>
+                        <div class="row">
+                            <div class="form-group col-md-6">
+                                <label class="control-label">Logradouro: </label>
+                                @Html.TextBoxFor(Model => Model.Logradouro, new { @class = "form-control", placeholder = "Digite Sua Rua" })
+                                @Html.ValidationMessageFor(Model => Model.Logradouro, "", new { @class = "text-danger" })
+                            </div>
+                        </div>
+                        <div class="row">
+                            <div class="form-group col-md-6">
+                                <label class="control-label">Cidade: </label>
+                                @Html.TextBoxFor(Model => Model.Cidade, new { @class = "form-control", placeholder = "Digite sua Cidade" })
+                                @Html.ValidationMessageFor(Model => Model.Cidade, "", new { @class = "text-danger" })
+                            </div>
+                        </div>
+                        <div class="row">
+                            <div class="form-group col-md-3">
+                                <label class="control-label">Bairro: </label>
+                                @Html.TextBoxFor(Model => Model.Bairro, new { @class = "form-control", placeholder = "Digite seu Bairro" })
+                                @Html.ValidationMessageFor(Model => Model.Bairro, "", new { @class = "text-danger" })
+                            </div>
+                        </div>
+                        <div class="row">
+                            <div class="form-group col-md-2">
+                                <label class="control-label">Número: </label>
+                                @Html.TextBoxFor(Model => Model.Numero, new { @class = "form-control", placeholder = "Digite seu Número" })
+                                @Html.ValidationMessageFor(Model => Model.Numero, "", new { @class = "text-danger" })
+                            </div>
+                        </div>
+                        <div class="row">
+                            <div class="form-group col-md-2">
+                                <label class="control-label">UF: </label>
+                                @Html.TextBoxFor(Model => Model.UF, new { @class = "form-control", placeholder = "Informe seu UF" })
+                                @Html.ValidationMessageFor(Model => Model.UF, "", new { @class = "text-danger" })
+                            </div>
+                        </div>
+                        <div class="row">
+                            <div class="form-group col-md-12">
+                                <label class="control-label">Complemento: </label>
+                                @Html.TextBoxFor(Model => Model.Complemento, new { @class = "form-control", placeholder = "Digite Seu Complemento" })
+                                @Html.ValidationMessageFor(Model => Model.Complemento, "", new { @class = "text-danger" })
+                            </div>
+                        </div>
+                        <div class="row">
+                            <div class="form-group col-md-6">
+                                <label class="control-label">Cargo: </label>
+                                <div class="form-check">
+                                    <label class="control-label">Administrador: </label>
+                                    @Html.RadioButtonFor(Model => Model.CodigoCargo, 1, false)
+                                    @Html.ValidationMessageFor(Model => Model.CodigoCargo, "", new { @class = "text-danger" })
+                                </div>
+                                <div class="form-check">
+                                    <label class="control-label">Funcionário: </label>
+                                    @Html.RadioButtonFor(Model => Model.CodigoCargo, 2, false)
+                                    @Html.ValidationMessageFor(Model => Model.CodigoCargo, "", new { @class = "text-danger" })
+                                </div>
+                            </div>
+                        </div>
+                        <div class="row">
+                            <div class="form-group col-md-1">
+                                <label class="control-label">Sexo: </label>
+                                @Html.TextBoxFor(Model => Model.Sexo, new { @class = "form-control", placeholder = "F/M" })
+                                @Html.ValidationMessageFor(Model => Model.Sexo, "", new { @class = "text-danger" })
+                            </div>
+                        </div>
+                        <div class="row">
+                            <div class="form-group col-md-2">
+                                <label class="control-label">Data de Nascimento: </label>
+                                @Html.TextBoxFor(Model => Model.NascimentoFuncionario, new { @class = "form-control", placeholder = "00/00/0000" })
+                                @Html.ValidationMessageFor(Model => Model.NascimentoFuncionario, "", new { @class = "text-danger" })
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="row">
+                    <div>
+                        <input type="submit" value="Cadastrar" class="btn btn-primary" />
+                    </div>
+                </div>
+                <div class="panel-footer">
+                </div>
+                <div class="row">
+                    <div>
+                        <button type="submit" class="btn btn-primary">@Html.ActionLink("Voltar", "Index", "Home")</button> 
+                    </div>
+                </div>
+                <div class="panel-footer">
+                </div>
+            }
+        </div>
+    </div>
+
+</body>
+</html>

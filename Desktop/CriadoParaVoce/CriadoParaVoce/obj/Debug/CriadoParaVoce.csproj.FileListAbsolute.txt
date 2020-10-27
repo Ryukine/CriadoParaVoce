@@ -1,0 +1,416 @@
+C:\Users\Ecileide\Downloads\Thiago\CriadoParaVoce\CriadoParaVoce\bin\Debug\CriadoParaVoce.exe.config
+C:\Users\Ecileide\Downloads\Thiago\CriadoParaVoce\CriadoParaVoce\bin\Debug\CriadoParaVoce.exe
+C:\Users\Ecileide\Downloads\Thiago\CriadoParaVoce\CriadoParaVoce\bin\Debug\CriadoParaVoce.pdb
+C:\Users\Ecileide\Downloads\Thiago\CriadoParaVoce\CriadoParaVoce\bin\Debug\BLL.dll
+C:\Users\Ecileide\Downloads\Thiago\CriadoParaVoce\CriadoParaVoce\bin\Debug\TCC.dll
+C:\Users\Ecileide\Downloads\Thiago\CriadoParaVoce\CriadoParaVoce\bin\Debug\Telas.exe
+C:\Users\Ecileide\Downloads\Thiago\CriadoParaVoce\CriadoParaVoce\bin\Debug\BLL.pdb
+C:\Users\Ecileide\Downloads\Thiago\CriadoParaVoce\CriadoParaVoce\bin\Debug\TCC.pdb
+C:\Users\Ecileide\Downloads\Thiago\CriadoParaVoce\CriadoParaVoce\bin\Debug\Telas.pdb
+C:\Users\Ecileide\Downloads\Thiago\CriadoParaVoce\CriadoParaVoce\bin\Debug\Telas.exe.config
+C:\Users\Ecileide\Downloads\Thiago\CriadoParaVoce\CriadoParaVoce\obj\Debug\CriadoParaVoce.csprojAssemblyReference.cache
+C:\Users\Ecileide\Downloads\Thiago\CriadoParaVoce\CriadoParaVoce\obj\Debug\CriadoParaVoce.FrmApresentacao.resources
+C:\Users\Ecileide\Downloads\Thiago\CriadoParaVoce\CriadoParaVoce\obj\Debug\CriadoParaVoce.Properties.Resources.resources
+C:\Users\Ecileide\Downloads\Thiago\CriadoParaVoce\CriadoParaVoce\obj\Debug\CriadoParaVoce.csproj.GenerateResource.cache
+C:\Users\Ecileide\Downloads\Thiago\CriadoParaVoce\CriadoParaVoce\obj\Debug\CriadoParaVoce.csproj.CoreCompileInputs.cache
+C:\Users\Ecileide\Downloads\Thiago\CriadoParaVoce\CriadoParaVoce\obj\Debug\CriadoParaVoce.csproj.CopyComplete
+C:\Users\Ecileide\Downloads\Thiago\CriadoParaVoce\CriadoParaVoce\obj\Debug\CriadoParaVoce.exe
+C:\Users\Ecileide\Downloads\Thiago\CriadoParaVoce\CriadoParaVoce\obj\Debug\CriadoParaVoce.pdb
+C:\Users\Ecileide\Downloads\Thiago\CriadoParaVoce\CriadoParaVoce\obj\Debug\CriadoParaVoce.Form1.resources
+C:\Users\Ecileide\Downloads\Thiago\CriadoParaVoce\CriadoParaVoce\obj\Debug\CriadoParaVoce.FrmLogin.resources
+C:\Users\Ecileide\Downloads\Thiago\CriadoParaVoce\CriadoParaVoce\obj\Debug\CriadoParaVoce.Funcionário.FrmFuncionarioCadastro.resources
+C:\Users\Ecileide\Downloads\Thiago\CriadoParaVoce\CriadoParaVoce\obj\Debug\CorretoraConvenios.Sistema.FrmConsultaCep.resources
+C:\Users\Ecileide\Downloads\Thiago\CriadoParaVoce\CriadoParaVoce\obj\Debug\CriadoParaVoce.FrmSistema.resources
+C:\Users\Ecileide\Downloads\Thiago\Criado Para Você\CriadoParaVoce\CriadoParaVoce\bin\Debug\CriadoParaVoce.exe.config
+C:\Users\Ecileide\Downloads\Thiago\Criado Para Você\CriadoParaVoce\CriadoParaVoce\bin\Debug\CriadoParaVoce.exe
+C:\Users\Ecileide\Downloads\Thiago\Criado Para Você\CriadoParaVoce\CriadoParaVoce\bin\Debug\CriadoParaVoce.pdb
+C:\Users\Ecileide\Downloads\Thiago\Criado Para Você\CriadoParaVoce\CriadoParaVoce\bin\Debug\BLL.dll
+C:\Users\Ecileide\Downloads\Thiago\Criado Para Você\CriadoParaVoce\CriadoParaVoce\bin\Debug\TCC.dll
+C:\Users\Ecileide\Downloads\Thiago\Criado Para Você\CriadoParaVoce\CriadoParaVoce\bin\Debug\Telas.exe
+C:\Users\Ecileide\Downloads\Thiago\Criado Para Você\CriadoParaVoce\CriadoParaVoce\bin\Debug\BLL.pdb
+C:\Users\Ecileide\Downloads\Thiago\Criado Para Você\CriadoParaVoce\CriadoParaVoce\bin\Debug\TCC.pdb
+C:\Users\Ecileide\Downloads\Thiago\Criado Para Você\CriadoParaVoce\CriadoParaVoce\bin\Debug\Telas.pdb
+C:\Users\Ecileide\Downloads\Thiago\Criado Para Você\CriadoParaVoce\CriadoParaVoce\bin\Debug\Telas.exe.config
+C:\Users\Ecileide\Downloads\Thiago\Criado Para Você\CriadoParaVoce\CriadoParaVoce\obj\Debug\CriadoParaVoce.csprojAssemblyReference.cache
+C:\Users\Ecileide\Downloads\Thiago\Criado Para Você\CriadoParaVoce\CriadoParaVoce\obj\Debug\CriadoParaVoce.Form1.resources
+C:\Users\Ecileide\Downloads\Thiago\Criado Para Você\CriadoParaVoce\CriadoParaVoce\obj\Debug\CriadoParaVoce.FrmApresentacao.resources
+C:\Users\Ecileide\Downloads\Thiago\Criado Para Você\CriadoParaVoce\CriadoParaVoce\obj\Debug\CriadoParaVoce.FrmLogin.resources
+C:\Users\Ecileide\Downloads\Thiago\Criado Para Você\CriadoParaVoce\CriadoParaVoce\obj\Debug\CriadoParaVoce.FrmSistema.resources
+C:\Users\Ecileide\Downloads\Thiago\Criado Para Você\CriadoParaVoce\CriadoParaVoce\obj\Debug\CriadoParaVoce.Funcionário.FrmFuncionarioCadastro.resources
+C:\Users\Ecileide\Downloads\Thiago\Criado Para Você\CriadoParaVoce\CriadoParaVoce\obj\Debug\CriadoParaVoce.Properties.Resources.resources
+C:\Users\Ecileide\Downloads\Thiago\Criado Para Você\CriadoParaVoce\CriadoParaVoce\obj\Debug\CorretoraConvenios.Sistema.FrmConsultaCep.resources
+C:\Users\Ecileide\Downloads\Thiago\Criado Para Você\CriadoParaVoce\CriadoParaVoce\obj\Debug\CriadoParaVoce.csproj.GenerateResource.cache
+C:\Users\Ecileide\Downloads\Thiago\Criado Para Você\CriadoParaVoce\CriadoParaVoce\obj\Debug\CriadoParaVoce.csproj.CoreCompileInputs.cache
+C:\Users\Ecileide\Downloads\Thiago\Criado Para Você\CriadoParaVoce\CriadoParaVoce\obj\Debug\CriadoParaVoce.csproj.CopyComplete
+C:\Users\Ecileide\Downloads\Thiago\Criado Para Você\CriadoParaVoce\CriadoParaVoce\obj\Debug\CriadoParaVoce.exe
+C:\Users\Ecileide\Downloads\Thiago\Criado Para Você\CriadoParaVoce\CriadoParaVoce\obj\Debug\CriadoParaVoce.pdb
+C:\Users\Ecileide\Downloads\Thiago\Criado Para Você\CriadoParaVoce\CriadoParaVoce\obj\Debug\CorretoraConvenios.Funcionário.FrmFuncionarioConsulta.resources
+C:\Users\Ecileide\Downloads\Thiago\Criado Para Você\CriadoParaVoce\CriadoParaVoce\obj\Debug\FranquiaHavaianas.Categoria.FrmCadastroCategoria.resources
+C:\Users\Ecileide\Downloads\Thiago\Criado Para Você\CriadoParaVoce\CriadoParaVoce\obj\Debug\ControleFarmacia.Negocio.Categoria.FrmConsultaCategoria.resources
+C:\Users\Ecileide\Downloads\Thiago\Criado Para Você\CriadoParaVoce\CriadoParaVoce\obj\Debug\CorretoraConvenios.Cliente.FrmClienteCadastro.resources
+C:\Users\Ecileide\Downloads\Thiago\Criado Para Você\CriadoParaVoce\CriadoParaVoce\obj\Debug\FranquiaHavaianas.Cliente.FrmClienteConsulta.resources
+C:\Users\Ecileide\Downloads\Thiago\Criado Para Você\CriadoParaVoce\CriadoParaVoce\obj\Debug\FranquiaHavaianas.Fornecedor.FrmCadastroFornecedor.resources
+C:\Users\Ecileide\Downloads\Thiago\Criado Para Você\CriadoParaVoce\CriadoParaVoce\obj\Debug\ControleFarmacia.Negocio.Fornecedor.FrmConsultaFornecedor.resources
+C:\Users\Ecileide\Downloads\Thiago\Criado Para Você\CriadoParaVoce\CriadoParaVoce\obj\Debug\FranquiaHavaianas.Produto.FrmProdutoCadastro.resources
+C:\Users\Ecileide\Downloads\Thiago\Criado Para Você\CriadoParaVoce\CriadoParaVoce\obj\Debug\FranquiaHavaianas.Produto.FrmProdutoConsulta.resources
+Z:\Thiago_27667\Criado Para Você\CriadoParaVoce\CriadoParaVoce\bin\Debug\CriadoParaVoce.exe.config
+Z:\Thiago_27667\Criado Para Você\CriadoParaVoce\CriadoParaVoce\bin\Debug\CriadoParaVoce.exe
+Z:\Thiago_27667\Criado Para Você\CriadoParaVoce\CriadoParaVoce\bin\Debug\BLL.dll
+Z:\Thiago_27667\Criado Para Você\CriadoParaVoce\CriadoParaVoce\bin\Debug\TCC.dll
+Z:\Thiago_27667\Criado Para Você\CriadoParaVoce\CriadoParaVoce\bin\Debug\Telas.exe
+Z:\Thiago_27667\Criado Para Você\CriadoParaVoce\CriadoParaVoce\bin\Debug\BLL.pdb
+Z:\Thiago_27667\Criado Para Você\CriadoParaVoce\CriadoParaVoce\bin\Debug\TCC.pdb
+Z:\Thiago_27667\Criado Para Você\CriadoParaVoce\CriadoParaVoce\bin\Debug\Telas.pdb
+Z:\Thiago_27667\Criado Para Você\CriadoParaVoce\CriadoParaVoce\bin\Debug\Telas.exe.config
+Z:\Thiago_27667\Criado Para Você\CriadoParaVoce\CriadoParaVoce\obj\Debug\CriadoParaVoce.csprojAssemblyReference.cache
+Z:\Thiago_27667\Criado Para Você\CriadoParaVoce\CriadoParaVoce\obj\Debug\FranquiaHavaianas.Categoria.FrmCadastroCategoria.resources
+Z:\Thiago_27667\Criado Para Você\CriadoParaVoce\CriadoParaVoce\obj\Debug\ControleFarmacia.Negocio.Categoria.FrmConsultaCategoria.resources
+Z:\Thiago_27667\Criado Para Você\CriadoParaVoce\CriadoParaVoce\obj\Debug\CorretoraConvenios.Cliente.FrmClienteCadastro.resources
+Z:\Thiago_27667\Criado Para Você\CriadoParaVoce\CriadoParaVoce\obj\Debug\FranquiaHavaianas.Cliente.FrmClienteConsulta.resources
+Z:\Thiago_27667\Criado Para Você\CriadoParaVoce\CriadoParaVoce\obj\Debug\AppProva.ContasPagar.FrmCadastroLancamentoContas.resources
+Z:\Thiago_27667\Criado Para Você\CriadoParaVoce\CriadoParaVoce\obj\Debug\AppProva.ContasPagar.FrmCadastroNomeTitulo.resources
+Z:\Thiago_27667\Criado Para Você\CriadoParaVoce\CriadoParaVoce\obj\Debug\AppProva.ContasPagar.FrmGestaoContasPagar.resources
+Z:\Thiago_27667\Criado Para Você\CriadoParaVoce\CriadoParaVoce\obj\Debug\AppProva.ContasPagar.FrmListagemNomeTitulo.resources
+Z:\Thiago_27667\Criado Para Você\CriadoParaVoce\CriadoParaVoce\obj\Debug\CriadoParaVoce.Form1.resources
+Z:\Thiago_27667\Criado Para Você\CriadoParaVoce\CriadoParaVoce\obj\Debug\FranquiaHavaianas.Fornecedor.FrmCadastroFornecedor.resources
+Z:\Thiago_27667\Criado Para Você\CriadoParaVoce\CriadoParaVoce\obj\Debug\ControleFarmacia.Negocio.Fornecedor.FrmConsultaFornecedor.resources
+Z:\Thiago_27667\Criado Para Você\CriadoParaVoce\CriadoParaVoce\obj\Debug\CriadoParaVoce.FrmApresentacao.resources
+Z:\Thiago_27667\Criado Para Você\CriadoParaVoce\CriadoParaVoce\obj\Debug\CriadoParaVoce.FrmLogin.resources
+Z:\Thiago_27667\Criado Para Você\CriadoParaVoce\CriadoParaVoce\obj\Debug\CriadoParaVoce.FrmSistema.resources
+Z:\Thiago_27667\Criado Para Você\CriadoParaVoce\CriadoParaVoce\obj\Debug\Telas_Inf2DM.Funcionalidades.FrmVender.resources
+Z:\Thiago_27667\Criado Para Você\CriadoParaVoce\CriadoParaVoce\obj\Debug\CriadoParaVoce.Funcionário.FrmFuncionarioCadastro.resources
+Z:\Thiago_27667\Criado Para Você\CriadoParaVoce\CriadoParaVoce\obj\Debug\CorretoraConvenios.Funcionário.FrmFuncionarioConsulta.resources
+Z:\Thiago_27667\Criado Para Você\CriadoParaVoce\CriadoParaVoce\obj\Debug\FranquiaHavaianas.Produto.FrmProdutoCadastro.resources
+Z:\Thiago_27667\Criado Para Você\CriadoParaVoce\CriadoParaVoce\obj\Debug\FranquiaHavaianas.Produto.FrmProdutoConsulta.resources
+Z:\Thiago_27667\Criado Para Você\CriadoParaVoce\CriadoParaVoce\obj\Debug\CriadoParaVoce.Properties.Resources.resources
+Z:\Thiago_27667\Criado Para Você\CriadoParaVoce\CriadoParaVoce\obj\Debug\CorretoraConvenios.Sistema.FrmConsultaCep.resources
+Z:\Thiago_27667\Criado Para Você\CriadoParaVoce\CriadoParaVoce\obj\Debug\CriadoParaVoce.csproj.GenerateResource.cache
+Z:\Thiago_27667\Criado Para Você\CriadoParaVoce\CriadoParaVoce\obj\Debug\CriadoParaVoce.csproj.CoreCompileInputs.cache
+Z:\Thiago_27667\Criado Para Você\CriadoParaVoce\CriadoParaVoce\obj\Debug\CriadoParaVoce.csproj.CopyComplete
+Z:\Thiago_27667\Criado Para Você\CriadoParaVoce\CriadoParaVoce\obj\Debug\CriadoParaVoce.exe
+Z:\Thiago_27667\Criado Para Você\CriadoParaVoce\CriadoParaVoce\obj\Debug\CriadoParaVoce.pdb
+Z:\Criado Para Você\Criado Para Você\CriadoParaVoce\CriadoParaVoce\bin\Debug\CriadoParaVoce.exe.config
+Z:\Criado Para Você\Criado Para Você\CriadoParaVoce\CriadoParaVoce\bin\Debug\CriadoParaVoce.exe
+Z:\Criado Para Você\Criado Para Você\CriadoParaVoce\CriadoParaVoce\bin\Debug\CriadoParaVoce.pdb
+Z:\Criado Para Você\Criado Para Você\CriadoParaVoce\CriadoParaVoce\bin\Debug\BLL.dll
+Z:\Criado Para Você\Criado Para Você\CriadoParaVoce\CriadoParaVoce\bin\Debug\TCC.dll
+Z:\Criado Para Você\Criado Para Você\CriadoParaVoce\CriadoParaVoce\bin\Debug\Telas.exe
+Z:\Criado Para Você\Criado Para Você\CriadoParaVoce\CriadoParaVoce\bin\Debug\BLL.pdb
+Z:\Criado Para Você\Criado Para Você\CriadoParaVoce\CriadoParaVoce\bin\Debug\TCC.pdb
+Z:\Criado Para Você\Criado Para Você\CriadoParaVoce\CriadoParaVoce\bin\Debug\Telas.pdb
+Z:\Criado Para Você\Criado Para Você\CriadoParaVoce\CriadoParaVoce\bin\Debug\Telas.exe.config
+Z:\Criado Para Você\Criado Para Você\CriadoParaVoce\CriadoParaVoce\obj\Debug\CriadoParaVoce.csprojAssemblyReference.cache
+Z:\Criado Para Você\Criado Para Você\CriadoParaVoce\CriadoParaVoce\obj\Debug\ControleFarmacia.Negocio.Categoria.FrmConsultaCategoria.resources
+Z:\Criado Para Você\Criado Para Você\CriadoParaVoce\CriadoParaVoce\obj\Debug\CorretoraConvenios.Cliente.FrmClienteCadastro.resources
+Z:\Criado Para Você\Criado Para Você\CriadoParaVoce\CriadoParaVoce\obj\Debug\AppProva.ContasPagar.FrmCadastroLancamentoContas.resources
+Z:\Criado Para Você\Criado Para Você\CriadoParaVoce\CriadoParaVoce\obj\Debug\AppProva.ContasPagar.FrmCadastroNomeTitulo.resources
+Z:\Criado Para Você\Criado Para Você\CriadoParaVoce\CriadoParaVoce\obj\Debug\AppProva.ContasPagar.FrmGestaoContasPagar.resources
+Z:\Criado Para Você\Criado Para Você\CriadoParaVoce\CriadoParaVoce\obj\Debug\AppProva.ContasPagar.FrmListagemNomeTitulo.resources
+Z:\Criado Para Você\Criado Para Você\CriadoParaVoce\CriadoParaVoce\obj\Debug\CriadoParaVoce.Form1.resources
+Z:\Criado Para Você\Criado Para Você\CriadoParaVoce\CriadoParaVoce\obj\Debug\ControleFarmacia.Negocio.Fornecedor.FrmConsultaFornecedor.resources
+Z:\Criado Para Você\Criado Para Você\CriadoParaVoce\CriadoParaVoce\obj\Debug\CriadoParaVoce.FrmApresentacao.resources
+Z:\Criado Para Você\Criado Para Você\CriadoParaVoce\CriadoParaVoce\obj\Debug\CriadoParaVoce.FrmLogin.resources
+Z:\Criado Para Você\Criado Para Você\CriadoParaVoce\CriadoParaVoce\obj\Debug\CriadoParaVoce.FrmSistema.resources
+Z:\Criado Para Você\Criado Para Você\CriadoParaVoce\CriadoParaVoce\obj\Debug\Telas_Inf2DM.Funcionalidades.FrmVender.resources
+Z:\Criado Para Você\Criado Para Você\CriadoParaVoce\CriadoParaVoce\obj\Debug\CriadoParaVoce.Funcionário.FrmFuncionarioCadastro.resources
+Z:\Criado Para Você\Criado Para Você\CriadoParaVoce\CriadoParaVoce\obj\Debug\CorretoraConvenios.Funcionário.FrmFuncionarioConsulta.resources
+Z:\Criado Para Você\Criado Para Você\CriadoParaVoce\CriadoParaVoce\obj\Debug\CriadoParaVoce.Properties.Resources.resources
+Z:\Criado Para Você\Criado Para Você\CriadoParaVoce\CriadoParaVoce\obj\Debug\CorretoraConvenios.Sistema.FrmConsultaCep.resources
+Z:\Criado Para Você\Criado Para Você\CriadoParaVoce\CriadoParaVoce\obj\Debug\CriadoParaVoce.csproj.GenerateResource.cache
+Z:\Criado Para Você\Criado Para Você\CriadoParaVoce\CriadoParaVoce\obj\Debug\CriadoParaVoce.csproj.CoreCompileInputs.cache
+Z:\Criado Para Você\Criado Para Você\CriadoParaVoce\CriadoParaVoce\obj\Debug\CriadoParaVoce.csproj.CopyComplete
+Z:\Criado Para Você\Criado Para Você\CriadoParaVoce\CriadoParaVoce\obj\Debug\CriadoParaVoce.exe
+Z:\Criado Para Você\Criado Para Você\CriadoParaVoce\CriadoParaVoce\obj\Debug\CriadoParaVoce.pdb
+Z:\Criado Para Você\Criado Para Você\CriadoParaVoce\CriadoParaVoce\obj\Debug\CriadoParaVoce.Empresa.FrmEmpresa.resources
+Z:\Criado Para Você\Criado Para Você\CriadoParaVoce\CriadoParaVoce\obj\Debug\CriadoParaVoce.Categoria.FrmCadastroCategoria.resources
+Z:\Criado Para Você\Criado Para Você\CriadoParaVoce\CriadoParaVoce\obj\Debug\CriadoParaVoce.Cliente.FrmClienteConsulta.resources
+Z:\Criado Para Você\Criado Para Você\CriadoParaVoce\CriadoParaVoce\obj\Debug\CriadoParaVoce.Fornecedor.FrmCadastroFornecedor.resources
+Z:\Criado Para Você\Criado Para Você\CriadoParaVoce\CriadoParaVoce\obj\Debug\CriadoParaVoce.Produto.FrmProdutoCadastro.resources
+Z:\Criado Para Você\Criado Para Você\CriadoParaVoce\CriadoParaVoce\obj\Debug\CriadoParaVoce.Produto.FrmProdutoConsulta.resources
+Z:\Criado Para Você\Criado Para Você\CriadoParaVoce\CriadoParaVoce\obj\Debug\CriadoParaVoce.Funcionalidade.FrmVenda.resources
+C:\Users\Ecileide\Desktop\Criado Para Você\Criado Para Você\CriadoParaVoce\CriadoParaVoce\bin\Debug\CriadoParaVoce.exe.config
+C:\Users\Ecileide\Desktop\Criado Para Você\Criado Para Você\CriadoParaVoce\CriadoParaVoce\bin\Debug\CriadoParaVoce.exe
+C:\Users\Ecileide\Desktop\Criado Para Você\Criado Para Você\CriadoParaVoce\CriadoParaVoce\bin\Debug\CriadoParaVoce.pdb
+C:\Users\Ecileide\Desktop\Criado Para Você\Criado Para Você\CriadoParaVoce\CriadoParaVoce\bin\Debug\BLL.dll
+C:\Users\Ecileide\Desktop\Criado Para Você\Criado Para Você\CriadoParaVoce\CriadoParaVoce\bin\Debug\TCC.dll
+C:\Users\Ecileide\Desktop\Criado Para Você\Criado Para Você\CriadoParaVoce\CriadoParaVoce\bin\Debug\Telas.exe
+C:\Users\Ecileide\Desktop\Criado Para Você\Criado Para Você\CriadoParaVoce\CriadoParaVoce\bin\Debug\BLL.pdb
+C:\Users\Ecileide\Desktop\Criado Para Você\Criado Para Você\CriadoParaVoce\CriadoParaVoce\bin\Debug\TCC.pdb
+C:\Users\Ecileide\Desktop\Criado Para Você\Criado Para Você\CriadoParaVoce\CriadoParaVoce\bin\Debug\Telas.pdb
+C:\Users\Ecileide\Desktop\Criado Para Você\Criado Para Você\CriadoParaVoce\CriadoParaVoce\bin\Debug\Telas.exe.config
+C:\Users\Ecileide\Desktop\Criado Para Você\Criado Para Você\CriadoParaVoce\CriadoParaVoce\obj\Debug\CriadoParaVoce.csprojAssemblyReference.cache
+C:\Users\Ecileide\Desktop\Criado Para Você\Criado Para Você\CriadoParaVoce\CriadoParaVoce\obj\Debug\CriadoParaVoce.Categoria.FrmCadastroCategoria.resources
+C:\Users\Ecileide\Desktop\Criado Para Você\Criado Para Você\CriadoParaVoce\CriadoParaVoce\obj\Debug\ControleFarmacia.Negocio.Categoria.FrmConsultaCategoria.resources
+C:\Users\Ecileide\Desktop\Criado Para Você\Criado Para Você\CriadoParaVoce\CriadoParaVoce\obj\Debug\CorretoraConvenios.Cliente.FrmClienteCadastro.resources
+C:\Users\Ecileide\Desktop\Criado Para Você\Criado Para Você\CriadoParaVoce\CriadoParaVoce\obj\Debug\CriadoParaVoce.Cliente.FrmClienteConsulta.resources
+C:\Users\Ecileide\Desktop\Criado Para Você\Criado Para Você\CriadoParaVoce\CriadoParaVoce\obj\Debug\AppProva.ContasPagar.FrmCadastroLancamentoContas.resources
+C:\Users\Ecileide\Desktop\Criado Para Você\Criado Para Você\CriadoParaVoce\CriadoParaVoce\obj\Debug\AppProva.ContasPagar.FrmCadastroNomeTitulo.resources
+C:\Users\Ecileide\Desktop\Criado Para Você\Criado Para Você\CriadoParaVoce\CriadoParaVoce\obj\Debug\AppProva.ContasPagar.FrmGestaoContasPagar.resources
+C:\Users\Ecileide\Desktop\Criado Para Você\Criado Para Você\CriadoParaVoce\CriadoParaVoce\obj\Debug\AppProva.ContasPagar.FrmListagemNomeTitulo.resources
+C:\Users\Ecileide\Desktop\Criado Para Você\Criado Para Você\CriadoParaVoce\CriadoParaVoce\obj\Debug\CriadoParaVoce.Empresa.FrmEmpresa.resources
+C:\Users\Ecileide\Desktop\Criado Para Você\Criado Para Você\CriadoParaVoce\CriadoParaVoce\obj\Debug\CriadoParaVoce.Form1.resources
+C:\Users\Ecileide\Desktop\Criado Para Você\Criado Para Você\CriadoParaVoce\CriadoParaVoce\obj\Debug\CriadoParaVoce.Fornecedor.FrmCadastroFornecedor.resources
+C:\Users\Ecileide\Desktop\Criado Para Você\Criado Para Você\CriadoParaVoce\CriadoParaVoce\obj\Debug\ControleFarmacia.Negocio.Fornecedor.FrmConsultaFornecedor.resources
+C:\Users\Ecileide\Desktop\Criado Para Você\Criado Para Você\CriadoParaVoce\CriadoParaVoce\obj\Debug\CriadoParaVoce.FrmApresentacao.resources
+C:\Users\Ecileide\Desktop\Criado Para Você\Criado Para Você\CriadoParaVoce\CriadoParaVoce\obj\Debug\CriadoParaVoce.FrmLogin.resources
+C:\Users\Ecileide\Desktop\Criado Para Você\Criado Para Você\CriadoParaVoce\CriadoParaVoce\obj\Debug\CriadoParaVoce.FrmSistema.resources
+C:\Users\Ecileide\Desktop\Criado Para Você\Criado Para Você\CriadoParaVoce\CriadoParaVoce\obj\Debug\CriadoParaVoce.Funcionalidade.FrmVenda.resources
+C:\Users\Ecileide\Desktop\Criado Para Você\Criado Para Você\CriadoParaVoce\CriadoParaVoce\obj\Debug\Telas_Inf2DM.Funcionalidades.FrmVender.resources
+C:\Users\Ecileide\Desktop\Criado Para Você\Criado Para Você\CriadoParaVoce\CriadoParaVoce\obj\Debug\CriadoParaVoce.Funcionário.FrmFuncionarioCadastro.resources
+C:\Users\Ecileide\Desktop\Criado Para Você\Criado Para Você\CriadoParaVoce\CriadoParaVoce\obj\Debug\CorretoraConvenios.Funcionário.FrmFuncionarioConsulta.resources
+C:\Users\Ecileide\Desktop\Criado Para Você\Criado Para Você\CriadoParaVoce\CriadoParaVoce\obj\Debug\CriadoParaVoce.Produto.FrmProdutoCadastro.resources
+C:\Users\Ecileide\Desktop\Criado Para Você\Criado Para Você\CriadoParaVoce\CriadoParaVoce\obj\Debug\CriadoParaVoce.Produto.FrmProdutoConsulta.resources
+C:\Users\Ecileide\Desktop\Criado Para Você\Criado Para Você\CriadoParaVoce\CriadoParaVoce\obj\Debug\CriadoParaVoce.Properties.Resources.resources
+C:\Users\Ecileide\Desktop\Criado Para Você\Criado Para Você\CriadoParaVoce\CriadoParaVoce\obj\Debug\CorretoraConvenios.Sistema.FrmConsultaCep.resources
+C:\Users\Ecileide\Desktop\Criado Para Você\Criado Para Você\CriadoParaVoce\CriadoParaVoce\obj\Debug\CriadoParaVoce.csproj.GenerateResource.cache
+C:\Users\Ecileide\Desktop\Criado Para Você\Criado Para Você\CriadoParaVoce\CriadoParaVoce\obj\Debug\CriadoParaVoce.csproj.CoreCompileInputs.cache
+C:\Users\Ecileide\Desktop\Criado Para Você\Criado Para Você\CriadoParaVoce\CriadoParaVoce\obj\Debug\CriadoParaVoce.csproj.CopyComplete
+C:\Users\Ecileide\Desktop\Criado Para Você\Criado Para Você\CriadoParaVoce\CriadoParaVoce\obj\Debug\CriadoParaVoce.exe
+C:\Users\Ecileide\Desktop\Criado Para Você\Criado Para Você\CriadoParaVoce\CriadoParaVoce\obj\Debug\CriadoParaVoce.pdb
+C:\Users\Ecileide\Desktop\Criado Para Você\Criado Para Você\CriadoParaVoce\CriadoParaVoce\obj\Debug\CriadoParaVoce.Cargo.FrmCargoCadastro.resources
+C:\Users\Ecileide\Desktop\Criado Para Você\Criado Para Você\CriadoParaVoce\CriadoParaVoce\obj\Debug\CriadoParaVoce.Cargo.FrmCargoConsulta.resources
+C:\Users\Ecileide\Desktop\Criado Para Você\Criado Para Você\CriadoParaVoce\CriadoParaVoce\obj\Debug\CriadoParaVoce.Funcionalidade.FrmConsultaDaVenda.resources
+C:\Users\Ecileide\Desktop\Criado Para Você\Criado Para Você\CriadoParaVoce\CriadoParaVoce\obj\Debug\CriadoParaVoce.Funcionalidade.FrmConsultaVenda.resources
+C:\Users\Ecileide\Desktop\Criado Para Você\Criado Para Você\CriadoParaVoce\CriadoParaVoce\obj\Debug\CriadoParaVoce.Funcionalidade.FrmGastos.resources
+C:\Users\Ecileide\Desktop\Criado Para Você\Criado Para Você\CriadoParaVoce\CriadoParaVoce\obj\Debug\CriadoParaVoce.Funcionalidade.FrmRelatorio.resources
+C:\Users\Ecileide\Desktop\Criado Para Você\Criado Para Você\CriadoParaVoce\CriadoParaVoce\obj\Debug\CriadoParaVoce.Funcionalidade.FrmConsultaGasto.resources
+Z:\TCC_ATUALIZADAÇOOOO\Desktop\CriadoParaVoce\CriadoParaVoce\obj\Debug\CriadoParaVoce.csprojAssemblyReference.cache
+Z:\TCC_ATUALIZADAÇOOOO\Desktop\CriadoParaVoce\CriadoParaVoce\obj\Debug\CriadoParaVoce.Cargo.FrmCargoCadastro.resources
+Z:\TCC_ATUALIZADAÇOOOO\Desktop\CriadoParaVoce\CriadoParaVoce\obj\Debug\CriadoParaVoce.Cargo.FrmCargoConsulta.resources
+Z:\TCC_ATUALIZADAÇOOOO\Desktop\CriadoParaVoce\CriadoParaVoce\obj\Debug\CriadoParaVoce.Categoria.FrmCadastroCategoria.resources
+Z:\TCC_ATUALIZADAÇOOOO\Desktop\CriadoParaVoce\CriadoParaVoce\obj\Debug\ControleFarmacia.Negocio.Categoria.FrmConsultaCategoria.resources
+Z:\TCC_ATUALIZADAÇOOOO\Desktop\CriadoParaVoce\CriadoParaVoce\obj\Debug\CorretoraConvenios.Cliente.FrmClienteCadastro.resources
+Z:\TCC_ATUALIZADAÇOOOO\Desktop\CriadoParaVoce\CriadoParaVoce\obj\Debug\CriadoParaVoce.Cliente.FrmClienteConsulta.resources
+Z:\TCC_ATUALIZADAÇOOOO\Desktop\CriadoParaVoce\CriadoParaVoce\obj\Debug\AppProva.ContasPagar.FrmCadastroLancamentoContas.resources
+Z:\TCC_ATUALIZADAÇOOOO\Desktop\CriadoParaVoce\CriadoParaVoce\obj\Debug\AppProva.ContasPagar.FrmCadastroNomeTitulo.resources
+Z:\TCC_ATUALIZADAÇOOOO\Desktop\CriadoParaVoce\CriadoParaVoce\obj\Debug\AppProva.ContasPagar.FrmGestaoContasPagar.resources
+Z:\TCC_ATUALIZADAÇOOOO\Desktop\CriadoParaVoce\CriadoParaVoce\obj\Debug\AppProva.ContasPagar.FrmListagemNomeTitulo.resources
+Z:\TCC_ATUALIZADAÇOOOO\Desktop\CriadoParaVoce\CriadoParaVoce\obj\Debug\CriadoParaVoce.Empresa.FrmEmpresa.resources
+Z:\TCC_ATUALIZADAÇOOOO\Desktop\CriadoParaVoce\CriadoParaVoce\obj\Debug\CriadoParaVoce.Form1.resources
+Z:\TCC_ATUALIZADAÇOOOO\Desktop\CriadoParaVoce\CriadoParaVoce\obj\Debug\CriadoParaVoce.Fornecedor.FrmCadastroFornecedor.resources
+Z:\TCC_ATUALIZADAÇOOOO\Desktop\CriadoParaVoce\CriadoParaVoce\obj\Debug\ControleFarmacia.Negocio.Fornecedor.FrmConsultaFornecedor.resources
+Z:\TCC_ATUALIZADAÇOOOO\Desktop\CriadoParaVoce\CriadoParaVoce\obj\Debug\CriadoParaVoce.FrmApresentacao.resources
+Z:\TCC_ATUALIZADAÇOOOO\Desktop\CriadoParaVoce\CriadoParaVoce\obj\Debug\CriadoParaVoce.FrmLogin.resources
+Z:\TCC_ATUALIZADAÇOOOO\Desktop\CriadoParaVoce\CriadoParaVoce\obj\Debug\CriadoParaVoce.FrmSistema.resources
+Z:\TCC_ATUALIZADAÇOOOO\Desktop\CriadoParaVoce\CriadoParaVoce\obj\Debug\CriadoParaVoce.Funcionalidade.FrmConsultaDaVenda.resources
+Z:\TCC_ATUALIZADAÇOOOO\Desktop\CriadoParaVoce\CriadoParaVoce\obj\Debug\CriadoParaVoce.Funcionalidade.FrmConsultaGasto.resources
+Z:\TCC_ATUALIZADAÇOOOO\Desktop\CriadoParaVoce\CriadoParaVoce\obj\Debug\CriadoParaVoce.Funcionalidade.FrmConsultaVenda.resources
+Z:\TCC_ATUALIZADAÇOOOO\Desktop\CriadoParaVoce\CriadoParaVoce\obj\Debug\CriadoParaVoce.Funcionalidade.FrmGastos.resources
+Z:\TCC_ATUALIZADAÇOOOO\Desktop\CriadoParaVoce\CriadoParaVoce\obj\Debug\CriadoParaVoce.Funcionalidade.FrmRelatorio.resources
+Z:\TCC_ATUALIZADAÇOOOO\Desktop\CriadoParaVoce\CriadoParaVoce\obj\Debug\CriadoParaVoce.Funcionalidade.FrmVenda.resources
+Z:\TCC_ATUALIZADAÇOOOO\Desktop\CriadoParaVoce\CriadoParaVoce\obj\Debug\Telas_Inf2DM.Funcionalidades.FrmVender.resources
+Z:\TCC_ATUALIZADAÇOOOO\Desktop\CriadoParaVoce\CriadoParaVoce\obj\Debug\CriadoParaVoce.Funcionário.FrmFuncionarioCadastro.resources
+Z:\TCC_ATUALIZADAÇOOOO\Desktop\CriadoParaVoce\CriadoParaVoce\obj\Debug\CorretoraConvenios.Funcionário.FrmFuncionarioConsulta.resources
+Z:\TCC_ATUALIZADAÇOOOO\Desktop\CriadoParaVoce\CriadoParaVoce\obj\Debug\CriadoParaVoce.Produto.FrmProdutoCadastro.resources
+Z:\TCC_ATUALIZADAÇOOOO\Desktop\CriadoParaVoce\CriadoParaVoce\obj\Debug\CriadoParaVoce.Produto.FrmProdutoConsulta.resources
+Z:\TCC_ATUALIZADAÇOOOO\Desktop\CriadoParaVoce\CriadoParaVoce\obj\Debug\CriadoParaVoce.Properties.Resources.resources
+Z:\TCC_ATUALIZADAÇOOOO\Desktop\CriadoParaVoce\CriadoParaVoce\obj\Debug\CorretoraConvenios.Sistema.FrmConsultaCep.resources
+Z:\TCC_ATUALIZADAÇOOOO\Desktop\CriadoParaVoce\CriadoParaVoce\obj\Debug\CriadoParaVoce.csproj.GenerateResource.cache
+Z:\TCC_ATUALIZADAÇOOOO\Desktop\CriadoParaVoce\CriadoParaVoce\obj\Debug\CriadoParaVoce.csproj.CoreCompileInputs.cache
+Z:\TCC_ATUALIZADAÇOOOO\Desktop\CriadoParaVoce\CriadoParaVoce\obj\Debug\CriadoParaVoce.exe
+Z:\TCC_ATUALIZADAÇOOOO\Desktop\CriadoParaVoce\CriadoParaVoce\obj\Debug\CriadoParaVoce.pdb
+Z:\TCC_ATUALIZADAÇOOOO\Desktop\CriadoParaVoce\CriadoParaVoce\bin\Debug\CriadoParaVoce.exe.config
+Z:\TCC_ATUALIZADAÇOOOO\Desktop\CriadoParaVoce\CriadoParaVoce\bin\Debug\CriadoParaVoce.exe
+Z:\TCC_ATUALIZADAÇOOOO\Desktop\CriadoParaVoce\CriadoParaVoce\bin\Debug\CriadoParaVoce.pdb
+Z:\TCC_ATUALIZADAÇOOOO\Desktop\CriadoParaVoce\CriadoParaVoce\bin\Debug\BLL.dll
+Z:\TCC_ATUALIZADAÇOOOO\Desktop\CriadoParaVoce\CriadoParaVoce\bin\Debug\TCC.dll
+Z:\TCC_ATUALIZADAÇOOOO\Desktop\CriadoParaVoce\CriadoParaVoce\bin\Debug\Telas.exe
+Z:\TCC_ATUALIZADAÇOOOO\Desktop\CriadoParaVoce\CriadoParaVoce\bin\Debug\BLL.pdb
+Z:\TCC_ATUALIZADAÇOOOO\Desktop\CriadoParaVoce\CriadoParaVoce\bin\Debug\TCC.pdb
+Z:\TCC_ATUALIZADAÇOOOO\Desktop\CriadoParaVoce\CriadoParaVoce\bin\Debug\Telas.pdb
+Z:\TCC_ATUALIZADAÇOOOO\Desktop\CriadoParaVoce\CriadoParaVoce\bin\Debug\Telas.exe.config
+Z:\TCC_ATUALIZADAÇOOOO\Desktop\CriadoParaVoce\CriadoParaVoce\obj\Debug\CriadoParaVoce.csproj.CopyComplete
+Z:\TCC_ATUALIZADAÇOOOO\Desktop\CriadoParaVoce\CriadoParaVoce\obj\Debug\CriadoParaVoce.Funcionalidade.FrmFaleConosco.resources
+Z:\TCC_ATUALIZADAÇOOOO\Desktop\CriadoParaVoce\CriadoParaVoce\obj\Debug\CriadoParaVoce.Funcionalidade.FrmFaleConsulta.resources
+C:\Users\Ecileide\Desktop\TCC_ATUALIZADAÇOOOO\Desktop\CriadoParaVoce\CriadoParaVoce\bin\Debug\CriadoParaVoce.exe.config
+C:\Users\Ecileide\Desktop\TCC_ATUALIZADAÇOOOO\Desktop\CriadoParaVoce\CriadoParaVoce\bin\Debug\CriadoParaVoce.exe
+C:\Users\Ecileide\Desktop\TCC_ATUALIZADAÇOOOO\Desktop\CriadoParaVoce\CriadoParaVoce\bin\Debug\CriadoParaVoce.pdb
+C:\Users\Ecileide\Desktop\TCC_ATUALIZADAÇOOOO\Desktop\CriadoParaVoce\CriadoParaVoce\bin\Debug\BLL.dll
+C:\Users\Ecileide\Desktop\TCC_ATUALIZADAÇOOOO\Desktop\CriadoParaVoce\CriadoParaVoce\bin\Debug\TCC.dll
+C:\Users\Ecileide\Desktop\TCC_ATUALIZADAÇOOOO\Desktop\CriadoParaVoce\CriadoParaVoce\bin\Debug\Telas.exe
+C:\Users\Ecileide\Desktop\TCC_ATUALIZADAÇOOOO\Desktop\CriadoParaVoce\CriadoParaVoce\bin\Debug\BLL.pdb
+C:\Users\Ecileide\Desktop\TCC_ATUALIZADAÇOOOO\Desktop\CriadoParaVoce\CriadoParaVoce\bin\Debug\TCC.pdb
+C:\Users\Ecileide\Desktop\TCC_ATUALIZADAÇOOOO\Desktop\CriadoParaVoce\CriadoParaVoce\bin\Debug\Telas.pdb
+C:\Users\Ecileide\Desktop\TCC_ATUALIZADAÇOOOO\Desktop\CriadoParaVoce\CriadoParaVoce\bin\Debug\Telas.exe.config
+C:\Users\Ecileide\Desktop\TCC_ATUALIZADAÇOOOO\Desktop\CriadoParaVoce\CriadoParaVoce\obj\Debug\CriadoParaVoce.csprojAssemblyReference.cache
+C:\Users\Ecileide\Desktop\TCC_ATUALIZADAÇOOOO\Desktop\CriadoParaVoce\CriadoParaVoce\obj\Debug\CriadoParaVoce.Cargo.FrmCargoCadastro.resources
+C:\Users\Ecileide\Desktop\TCC_ATUALIZADAÇOOOO\Desktop\CriadoParaVoce\CriadoParaVoce\obj\Debug\CriadoParaVoce.Cargo.FrmCargoConsulta.resources
+C:\Users\Ecileide\Desktop\TCC_ATUALIZADAÇOOOO\Desktop\CriadoParaVoce\CriadoParaVoce\obj\Debug\CriadoParaVoce.Categoria.FrmCadastroCategoria.resources
+C:\Users\Ecileide\Desktop\TCC_ATUALIZADAÇOOOO\Desktop\CriadoParaVoce\CriadoParaVoce\obj\Debug\ControleFarmacia.Negocio.Categoria.FrmConsultaCategoria.resources
+C:\Users\Ecileide\Desktop\TCC_ATUALIZADAÇOOOO\Desktop\CriadoParaVoce\CriadoParaVoce\obj\Debug\CorretoraConvenios.Cliente.FrmClienteCadastro.resources
+C:\Users\Ecileide\Desktop\TCC_ATUALIZADAÇOOOO\Desktop\CriadoParaVoce\CriadoParaVoce\obj\Debug\CriadoParaVoce.Cliente.FrmClienteConsulta.resources
+C:\Users\Ecileide\Desktop\TCC_ATUALIZADAÇOOOO\Desktop\CriadoParaVoce\CriadoParaVoce\obj\Debug\AppProva.ContasPagar.FrmCadastroLancamentoContas.resources
+C:\Users\Ecileide\Desktop\TCC_ATUALIZADAÇOOOO\Desktop\CriadoParaVoce\CriadoParaVoce\obj\Debug\AppProva.ContasPagar.FrmCadastroNomeTitulo.resources
+C:\Users\Ecileide\Desktop\TCC_ATUALIZADAÇOOOO\Desktop\CriadoParaVoce\CriadoParaVoce\obj\Debug\AppProva.ContasPagar.FrmGestaoContasPagar.resources
+C:\Users\Ecileide\Desktop\TCC_ATUALIZADAÇOOOO\Desktop\CriadoParaVoce\CriadoParaVoce\obj\Debug\AppProva.ContasPagar.FrmListagemNomeTitulo.resources
+C:\Users\Ecileide\Desktop\TCC_ATUALIZADAÇOOOO\Desktop\CriadoParaVoce\CriadoParaVoce\obj\Debug\CriadoParaVoce.Empresa.FrmEmpresa.resources
+C:\Users\Ecileide\Desktop\TCC_ATUALIZADAÇOOOO\Desktop\CriadoParaVoce\CriadoParaVoce\obj\Debug\CriadoParaVoce.Form1.resources
+C:\Users\Ecileide\Desktop\TCC_ATUALIZADAÇOOOO\Desktop\CriadoParaVoce\CriadoParaVoce\obj\Debug\CriadoParaVoce.Fornecedor.FrmCadastroFornecedor.resources
+C:\Users\Ecileide\Desktop\TCC_ATUALIZADAÇOOOO\Desktop\CriadoParaVoce\CriadoParaVoce\obj\Debug\ControleFarmacia.Negocio.Fornecedor.FrmConsultaFornecedor.resources
+C:\Users\Ecileide\Desktop\TCC_ATUALIZADAÇOOOO\Desktop\CriadoParaVoce\CriadoParaVoce\obj\Debug\CriadoParaVoce.FrmApresentacao.resources
+C:\Users\Ecileide\Desktop\TCC_ATUALIZADAÇOOOO\Desktop\CriadoParaVoce\CriadoParaVoce\obj\Debug\CriadoParaVoce.FrmLogin.resources
+C:\Users\Ecileide\Desktop\TCC_ATUALIZADAÇOOOO\Desktop\CriadoParaVoce\CriadoParaVoce\obj\Debug\CriadoParaVoce.FrmSistema.resources
+C:\Users\Ecileide\Desktop\TCC_ATUALIZADAÇOOOO\Desktop\CriadoParaVoce\CriadoParaVoce\obj\Debug\CriadoParaVoce.Funcionalidade.FrmConsultaDaVenda.resources
+C:\Users\Ecileide\Desktop\TCC_ATUALIZADAÇOOOO\Desktop\CriadoParaVoce\CriadoParaVoce\obj\Debug\CriadoParaVoce.Funcionalidade.FrmConsultaGasto.resources
+C:\Users\Ecileide\Desktop\TCC_ATUALIZADAÇOOOO\Desktop\CriadoParaVoce\CriadoParaVoce\obj\Debug\CriadoParaVoce.Funcionalidade.FrmConsultaVenda.resources
+C:\Users\Ecileide\Desktop\TCC_ATUALIZADAÇOOOO\Desktop\CriadoParaVoce\CriadoParaVoce\obj\Debug\CriadoParaVoce.Funcionalidade.FrmFaleConosco.resources
+C:\Users\Ecileide\Desktop\TCC_ATUALIZADAÇOOOO\Desktop\CriadoParaVoce\CriadoParaVoce\obj\Debug\CriadoParaVoce.Funcionalidade.FrmFaleConsulta.resources
+C:\Users\Ecileide\Desktop\TCC_ATUALIZADAÇOOOO\Desktop\CriadoParaVoce\CriadoParaVoce\obj\Debug\CriadoParaVoce.Funcionalidade.FrmGastos.resources
+C:\Users\Ecileide\Desktop\TCC_ATUALIZADAÇOOOO\Desktop\CriadoParaVoce\CriadoParaVoce\obj\Debug\CriadoParaVoce.Funcionalidade.FrmRelatorio.resources
+C:\Users\Ecileide\Desktop\TCC_ATUALIZADAÇOOOO\Desktop\CriadoParaVoce\CriadoParaVoce\obj\Debug\CriadoParaVoce.Funcionalidade.FrmVenda.resources
+C:\Users\Ecileide\Desktop\TCC_ATUALIZADAÇOOOO\Desktop\CriadoParaVoce\CriadoParaVoce\obj\Debug\Telas_Inf2DM.Funcionalidades.FrmVender.resources
+C:\Users\Ecileide\Desktop\TCC_ATUALIZADAÇOOOO\Desktop\CriadoParaVoce\CriadoParaVoce\obj\Debug\CriadoParaVoce.Funcionário.FrmFuncionarioCadastro.resources
+C:\Users\Ecileide\Desktop\TCC_ATUALIZADAÇOOOO\Desktop\CriadoParaVoce\CriadoParaVoce\obj\Debug\CorretoraConvenios.Funcionário.FrmFuncionarioConsulta.resources
+C:\Users\Ecileide\Desktop\TCC_ATUALIZADAÇOOOO\Desktop\CriadoParaVoce\CriadoParaVoce\obj\Debug\CriadoParaVoce.Produto.FrmProdutoCadastro.resources
+C:\Users\Ecileide\Desktop\TCC_ATUALIZADAÇOOOO\Desktop\CriadoParaVoce\CriadoParaVoce\obj\Debug\CriadoParaVoce.Produto.FrmProdutoConsulta.resources
+C:\Users\Ecileide\Desktop\TCC_ATUALIZADAÇOOOO\Desktop\CriadoParaVoce\CriadoParaVoce\obj\Debug\CriadoParaVoce.Properties.Resources.resources
+C:\Users\Ecileide\Desktop\TCC_ATUALIZADAÇOOOO\Desktop\CriadoParaVoce\CriadoParaVoce\obj\Debug\CorretoraConvenios.Sistema.FrmConsultaCep.resources
+C:\Users\Ecileide\Desktop\TCC_ATUALIZADAÇOOOO\Desktop\CriadoParaVoce\CriadoParaVoce\obj\Debug\CriadoParaVoce.csproj.GenerateResource.cache
+C:\Users\Ecileide\Desktop\TCC_ATUALIZADAÇOOOO\Desktop\CriadoParaVoce\CriadoParaVoce\obj\Debug\CriadoParaVoce.csproj.CoreCompileInputs.cache
+C:\Users\Ecileide\Desktop\TCC_ATUALIZADAÇOOOO\Desktop\CriadoParaVoce\CriadoParaVoce\obj\Debug\CriadoParaVoce.csproj.CopyComplete
+C:\Users\Ecileide\Desktop\TCC_ATUALIZADAÇOOOO\Desktop\CriadoParaVoce\CriadoParaVoce\obj\Debug\CriadoParaVoce.exe
+C:\Users\Ecileide\Desktop\TCC_ATUALIZADAÇOOOO\Desktop\CriadoParaVoce\CriadoParaVoce\obj\Debug\CriadoParaVoce.pdb
+Z:\Finalizado\TCC_ATUALIZADAÇOOOO\Desktop\CriadoParaVoce\CriadoParaVoce\bin\Debug\CriadoParaVoce.exe.config
+Z:\Finalizado\TCC_ATUALIZADAÇOOOO\Desktop\CriadoParaVoce\CriadoParaVoce\bin\Debug\CriadoParaVoce.exe
+Z:\Finalizado\TCC_ATUALIZADAÇOOOO\Desktop\CriadoParaVoce\CriadoParaVoce\bin\Debug\CriadoParaVoce.pdb
+Z:\Finalizado\TCC_ATUALIZADAÇOOOO\Desktop\CriadoParaVoce\CriadoParaVoce\bin\Debug\BLL.dll
+Z:\Finalizado\TCC_ATUALIZADAÇOOOO\Desktop\CriadoParaVoce\CriadoParaVoce\bin\Debug\TCC.dll
+Z:\Finalizado\TCC_ATUALIZADAÇOOOO\Desktop\CriadoParaVoce\CriadoParaVoce\bin\Debug\Telas.exe
+Z:\Finalizado\TCC_ATUALIZADAÇOOOO\Desktop\CriadoParaVoce\CriadoParaVoce\bin\Debug\BLL.pdb
+Z:\Finalizado\TCC_ATUALIZADAÇOOOO\Desktop\CriadoParaVoce\CriadoParaVoce\bin\Debug\TCC.pdb
+Z:\Finalizado\TCC_ATUALIZADAÇOOOO\Desktop\CriadoParaVoce\CriadoParaVoce\bin\Debug\Telas.pdb
+Z:\Finalizado\TCC_ATUALIZADAÇOOOO\Desktop\CriadoParaVoce\CriadoParaVoce\bin\Debug\Telas.exe.config
+Z:\Finalizado\TCC_ATUALIZADAÇOOOO\Desktop\CriadoParaVoce\CriadoParaVoce\obj\Debug\CriadoParaVoce.csprojAssemblyReference.cache
+Z:\Finalizado\TCC_ATUALIZADAÇOOOO\Desktop\CriadoParaVoce\CriadoParaVoce\obj\Debug\CriadoParaVoce.Cargo.FrmCargoCadastro.resources
+Z:\Finalizado\TCC_ATUALIZADAÇOOOO\Desktop\CriadoParaVoce\CriadoParaVoce\obj\Debug\CriadoParaVoce.Cargo.FrmCargoConsulta.resources
+Z:\Finalizado\TCC_ATUALIZADAÇOOOO\Desktop\CriadoParaVoce\CriadoParaVoce\obj\Debug\CriadoParaVoce.Categoria.FrmCadastroCategoria.resources
+Z:\Finalizado\TCC_ATUALIZADAÇOOOO\Desktop\CriadoParaVoce\CriadoParaVoce\obj\Debug\ControleFarmacia.Negocio.Categoria.FrmConsultaCategoria.resources
+Z:\Finalizado\TCC_ATUALIZADAÇOOOO\Desktop\CriadoParaVoce\CriadoParaVoce\obj\Debug\CorretoraConvenios.Cliente.FrmClienteCadastro.resources
+Z:\Finalizado\TCC_ATUALIZADAÇOOOO\Desktop\CriadoParaVoce\CriadoParaVoce\obj\Debug\CriadoParaVoce.Cliente.FrmClienteConsulta.resources
+Z:\Finalizado\TCC_ATUALIZADAÇOOOO\Desktop\CriadoParaVoce\CriadoParaVoce\obj\Debug\AppProva.ContasPagar.FrmCadastroLancamentoContas.resources
+Z:\Finalizado\TCC_ATUALIZADAÇOOOO\Desktop\CriadoParaVoce\CriadoParaVoce\obj\Debug\AppProva.ContasPagar.FrmCadastroNomeTitulo.resources
+Z:\Finalizado\TCC_ATUALIZADAÇOOOO\Desktop\CriadoParaVoce\CriadoParaVoce\obj\Debug\AppProva.ContasPagar.FrmGestaoContasPagar.resources
+Z:\Finalizado\TCC_ATUALIZADAÇOOOO\Desktop\CriadoParaVoce\CriadoParaVoce\obj\Debug\AppProva.ContasPagar.FrmListagemNomeTitulo.resources
+Z:\Finalizado\TCC_ATUALIZADAÇOOOO\Desktop\CriadoParaVoce\CriadoParaVoce\obj\Debug\CriadoParaVoce.Empresa.FrmEmpresa.resources
+Z:\Finalizado\TCC_ATUALIZADAÇOOOO\Desktop\CriadoParaVoce\CriadoParaVoce\obj\Debug\CriadoParaVoce.Form1.resources
+Z:\Finalizado\TCC_ATUALIZADAÇOOOO\Desktop\CriadoParaVoce\CriadoParaVoce\obj\Debug\CriadoParaVoce.Fornecedor.FrmCadastroFornecedor.resources
+Z:\Finalizado\TCC_ATUALIZADAÇOOOO\Desktop\CriadoParaVoce\CriadoParaVoce\obj\Debug\ControleFarmacia.Negocio.Fornecedor.FrmConsultaFornecedor.resources
+Z:\Finalizado\TCC_ATUALIZADAÇOOOO\Desktop\CriadoParaVoce\CriadoParaVoce\obj\Debug\CriadoParaVoce.FrmApresentacao.resources
+Z:\Finalizado\TCC_ATUALIZADAÇOOOO\Desktop\CriadoParaVoce\CriadoParaVoce\obj\Debug\CriadoParaVoce.FrmLogin.resources
+Z:\Finalizado\TCC_ATUALIZADAÇOOOO\Desktop\CriadoParaVoce\CriadoParaVoce\obj\Debug\CriadoParaVoce.FrmSistema.resources
+Z:\Finalizado\TCC_ATUALIZADAÇOOOO\Desktop\CriadoParaVoce\CriadoParaVoce\obj\Debug\CriadoParaVoce.Funcionalidade.FrmConsultaDaVenda.resources
+Z:\Finalizado\TCC_ATUALIZADAÇOOOO\Desktop\CriadoParaVoce\CriadoParaVoce\obj\Debug\CriadoParaVoce.Funcionalidade.FrmConsultaGasto.resources
+Z:\Finalizado\TCC_ATUALIZADAÇOOOO\Desktop\CriadoParaVoce\CriadoParaVoce\obj\Debug\CriadoParaVoce.Funcionalidade.FrmConsultaVenda.resources
+Z:\Finalizado\TCC_ATUALIZADAÇOOOO\Desktop\CriadoParaVoce\CriadoParaVoce\obj\Debug\CriadoParaVoce.Funcionalidade.FrmFaleConosco.resources
+Z:\Finalizado\TCC_ATUALIZADAÇOOOO\Desktop\CriadoParaVoce\CriadoParaVoce\obj\Debug\CriadoParaVoce.Funcionalidade.FrmFaleConsulta.resources
+Z:\Finalizado\TCC_ATUALIZADAÇOOOO\Desktop\CriadoParaVoce\CriadoParaVoce\obj\Debug\CriadoParaVoce.Funcionalidade.FrmGastos.resources
+Z:\Finalizado\TCC_ATUALIZADAÇOOOO\Desktop\CriadoParaVoce\CriadoParaVoce\obj\Debug\CriadoParaVoce.Funcionalidade.FrmRelatorio.resources
+Z:\Finalizado\TCC_ATUALIZADAÇOOOO\Desktop\CriadoParaVoce\CriadoParaVoce\obj\Debug\CriadoParaVoce.Funcionalidade.FrmVenda.resources
+Z:\Finalizado\TCC_ATUALIZADAÇOOOO\Desktop\CriadoParaVoce\CriadoParaVoce\obj\Debug\Telas_Inf2DM.Funcionalidades.FrmVender.resources
+Z:\Finalizado\TCC_ATUALIZADAÇOOOO\Desktop\CriadoParaVoce\CriadoParaVoce\obj\Debug\CriadoParaVoce.Funcionário.FrmFuncionarioCadastro.resources
+Z:\Finalizado\TCC_ATUALIZADAÇOOOO\Desktop\CriadoParaVoce\CriadoParaVoce\obj\Debug\CorretoraConvenios.Funcionário.FrmFuncionarioConsulta.resources
+Z:\Finalizado\TCC_ATUALIZADAÇOOOO\Desktop\CriadoParaVoce\CriadoParaVoce\obj\Debug\CriadoParaVoce.Produto.FrmProdutoCadastro.resources
+Z:\Finalizado\TCC_ATUALIZADAÇOOOO\Desktop\CriadoParaVoce\CriadoParaVoce\obj\Debug\CriadoParaVoce.Produto.FrmProdutoConsulta.resources
+Z:\Finalizado\TCC_ATUALIZADAÇOOOO\Desktop\CriadoParaVoce\CriadoParaVoce\obj\Debug\CriadoParaVoce.Properties.Resources.resources
+Z:\Finalizado\TCC_ATUALIZADAÇOOOO\Desktop\CriadoParaVoce\CriadoParaVoce\obj\Debug\CorretoraConvenios.Sistema.FrmConsultaCep.resources
+Z:\Finalizado\TCC_ATUALIZADAÇOOOO\Desktop\CriadoParaVoce\CriadoParaVoce\obj\Debug\CriadoParaVoce.csproj.GenerateResource.cache
+Z:\Finalizado\TCC_ATUALIZADAÇOOOO\Desktop\CriadoParaVoce\CriadoParaVoce\obj\Debug\CriadoParaVoce.csproj.CoreCompileInputs.cache
+Z:\Finalizado\TCC_ATUALIZADAÇOOOO\Desktop\CriadoParaVoce\CriadoParaVoce\obj\Debug\CriadoParaVoce.csproj.CopyComplete
+Z:\Finalizado\TCC_ATUALIZADAÇOOOO\Desktop\CriadoParaVoce\CriadoParaVoce\obj\Debug\CriadoParaVoce.exe
+Z:\Finalizado\TCC_ATUALIZADAÇOOOO\Desktop\CriadoParaVoce\CriadoParaVoce\obj\Debug\CriadoParaVoce.pdb
+I:\INF3DM\Felipe_61734\Finalizado\TCC_ATUALIZADAÇOOOO\Desktop\CriadoParaVoce\CriadoParaVoce\bin\Debug\CriadoParaVoce.exe.config
+I:\INF3DM\Felipe_61734\Finalizado\TCC_ATUALIZADAÇOOOO\Desktop\CriadoParaVoce\CriadoParaVoce\bin\Debug\CriadoParaVoce.exe
+I:\INF3DM\Felipe_61734\Finalizado\TCC_ATUALIZADAÇOOOO\Desktop\CriadoParaVoce\CriadoParaVoce\bin\Debug\CriadoParaVoce.pdb
+I:\INF3DM\Felipe_61734\Finalizado\TCC_ATUALIZADAÇOOOO\Desktop\CriadoParaVoce\CriadoParaVoce\bin\Debug\BLL.dll
+I:\INF3DM\Felipe_61734\Finalizado\TCC_ATUALIZADAÇOOOO\Desktop\CriadoParaVoce\CriadoParaVoce\bin\Debug\TCC.dll
+I:\INF3DM\Felipe_61734\Finalizado\TCC_ATUALIZADAÇOOOO\Desktop\CriadoParaVoce\CriadoParaVoce\bin\Debug\Telas.exe
+I:\INF3DM\Felipe_61734\Finalizado\TCC_ATUALIZADAÇOOOO\Desktop\CriadoParaVoce\CriadoParaVoce\bin\Debug\BLL.pdb
+I:\INF3DM\Felipe_61734\Finalizado\TCC_ATUALIZADAÇOOOO\Desktop\CriadoParaVoce\CriadoParaVoce\bin\Debug\TCC.pdb
+I:\INF3DM\Felipe_61734\Finalizado\TCC_ATUALIZADAÇOOOO\Desktop\CriadoParaVoce\CriadoParaVoce\bin\Debug\Telas.pdb
+I:\INF3DM\Felipe_61734\Finalizado\TCC_ATUALIZADAÇOOOO\Desktop\CriadoParaVoce\CriadoParaVoce\bin\Debug\Telas.exe.config
+I:\INF3DM\Felipe_61734\Finalizado\TCC_ATUALIZADAÇOOOO\Desktop\CriadoParaVoce\CriadoParaVoce\obj\Debug\CriadoParaVoce.csprojAssemblyReference.cache
+I:\INF3DM\Felipe_61734\Finalizado\TCC_ATUALIZADAÇOOOO\Desktop\CriadoParaVoce\CriadoParaVoce\obj\Debug\CriadoParaVoce.Cargo.FrmCargoCadastro.resources
+I:\INF3DM\Felipe_61734\Finalizado\TCC_ATUALIZADAÇOOOO\Desktop\CriadoParaVoce\CriadoParaVoce\obj\Debug\CriadoParaVoce.Cargo.FrmCargoConsulta.resources
+I:\INF3DM\Felipe_61734\Finalizado\TCC_ATUALIZADAÇOOOO\Desktop\CriadoParaVoce\CriadoParaVoce\obj\Debug\CriadoParaVoce.Categoria.FrmCadastroCategoria.resources
+I:\INF3DM\Felipe_61734\Finalizado\TCC_ATUALIZADAÇOOOO\Desktop\CriadoParaVoce\CriadoParaVoce\obj\Debug\ControleFarmacia.Negocio.Categoria.FrmConsultaCategoria.resources
+I:\INF3DM\Felipe_61734\Finalizado\TCC_ATUALIZADAÇOOOO\Desktop\CriadoParaVoce\CriadoParaVoce\obj\Debug\CorretoraConvenios.Cliente.FrmClienteCadastro.resources
+I:\INF3DM\Felipe_61734\Finalizado\TCC_ATUALIZADAÇOOOO\Desktop\CriadoParaVoce\CriadoParaVoce\obj\Debug\CriadoParaVoce.Cliente.FrmClienteConsulta.resources
+I:\INF3DM\Felipe_61734\Finalizado\TCC_ATUALIZADAÇOOOO\Desktop\CriadoParaVoce\CriadoParaVoce\obj\Debug\AppProva.ContasPagar.FrmCadastroLancamentoContas.resources
+I:\INF3DM\Felipe_61734\Finalizado\TCC_ATUALIZADAÇOOOO\Desktop\CriadoParaVoce\CriadoParaVoce\obj\Debug\AppProva.ContasPagar.FrmCadastroNomeTitulo.resources
+I:\INF3DM\Felipe_61734\Finalizado\TCC_ATUALIZADAÇOOOO\Desktop\CriadoParaVoce\CriadoParaVoce\obj\Debug\AppProva.ContasPagar.FrmGestaoContasPagar.resources
+I:\INF3DM\Felipe_61734\Finalizado\TCC_ATUALIZADAÇOOOO\Desktop\CriadoParaVoce\CriadoParaVoce\obj\Debug\AppProva.ContasPagar.FrmListagemNomeTitulo.resources
+I:\INF3DM\Felipe_61734\Finalizado\TCC_ATUALIZADAÇOOOO\Desktop\CriadoParaVoce\CriadoParaVoce\obj\Debug\CriadoParaVoce.Empresa.FrmEmpresa.resources
+I:\INF3DM\Felipe_61734\Finalizado\TCC_ATUALIZADAÇOOOO\Desktop\CriadoParaVoce\CriadoParaVoce\obj\Debug\CriadoParaVoce.Form1.resources
+I:\INF3DM\Felipe_61734\Finalizado\TCC_ATUALIZADAÇOOOO\Desktop\CriadoParaVoce\CriadoParaVoce\obj\Debug\CriadoParaVoce.Fornecedor.FrmCadastroFornecedor.resources
+I:\INF3DM\Felipe_61734\Finalizado\TCC_ATUALIZADAÇOOOO\Desktop\CriadoParaVoce\CriadoParaVoce\obj\Debug\ControleFarmacia.Negocio.Fornecedor.FrmConsultaFornecedor.resources
+I:\INF3DM\Felipe_61734\Finalizado\TCC_ATUALIZADAÇOOOO\Desktop\CriadoParaVoce\CriadoParaVoce\obj\Debug\CriadoParaVoce.FrmApresentacao.resources
+I:\INF3DM\Felipe_61734\Finalizado\TCC_ATUALIZADAÇOOOO\Desktop\CriadoParaVoce\CriadoParaVoce\obj\Debug\CriadoParaVoce.FrmLogin.resources
+I:\INF3DM\Felipe_61734\Finalizado\TCC_ATUALIZADAÇOOOO\Desktop\CriadoParaVoce\CriadoParaVoce\obj\Debug\CriadoParaVoce.FrmSistema.resources
+I:\INF3DM\Felipe_61734\Finalizado\TCC_ATUALIZADAÇOOOO\Desktop\CriadoParaVoce\CriadoParaVoce\obj\Debug\CriadoParaVoce.Funcionalidade.FrmConsultaDaVenda.resources
+I:\INF3DM\Felipe_61734\Finalizado\TCC_ATUALIZADAÇOOOO\Desktop\CriadoParaVoce\CriadoParaVoce\obj\Debug\CriadoParaVoce.Funcionalidade.FrmConsultaGasto.resources
+I:\INF3DM\Felipe_61734\Finalizado\TCC_ATUALIZADAÇOOOO\Desktop\CriadoParaVoce\CriadoParaVoce\obj\Debug\CriadoParaVoce.Funcionalidade.FrmConsultaVenda.resources
+I:\INF3DM\Felipe_61734\Finalizado\TCC_ATUALIZADAÇOOOO\Desktop\CriadoParaVoce\CriadoParaVoce\obj\Debug\CriadoParaVoce.Funcionalidade.FrmFaleConosco.resources
+I:\INF3DM\Felipe_61734\Finalizado\TCC_ATUALIZADAÇOOOO\Desktop\CriadoParaVoce\CriadoParaVoce\obj\Debug\CriadoParaVoce.Funcionalidade.FrmFaleConsulta.resources
+I:\INF3DM\Felipe_61734\Finalizado\TCC_ATUALIZADAÇOOOO\Desktop\CriadoParaVoce\CriadoParaVoce\obj\Debug\CriadoParaVoce.Funcionalidade.FrmGastos.resources
+I:\INF3DM\Felipe_61734\Finalizado\TCC_ATUALIZADAÇOOOO\Desktop\CriadoParaVoce\CriadoParaVoce\obj\Debug\CriadoParaVoce.Funcionalidade.FrmRelatorio.resources
+I:\INF3DM\Felipe_61734\Finalizado\TCC_ATUALIZADAÇOOOO\Desktop\CriadoParaVoce\CriadoParaVoce\obj\Debug\CriadoParaVoce.Funcionalidade.FrmVenda.resources
+I:\INF3DM\Felipe_61734\Finalizado\TCC_ATUALIZADAÇOOOO\Desktop\CriadoParaVoce\CriadoParaVoce\obj\Debug\Telas_Inf2DM.Funcionalidades.FrmVender.resources
+I:\INF3DM\Felipe_61734\Finalizado\TCC_ATUALIZADAÇOOOO\Desktop\CriadoParaVoce\CriadoParaVoce\obj\Debug\CriadoParaVoce.Funcionário.FrmFuncionarioCadastro.resources
+I:\INF3DM\Felipe_61734\Finalizado\TCC_ATUALIZADAÇOOOO\Desktop\CriadoParaVoce\CriadoParaVoce\obj\Debug\CorretoraConvenios.Funcionário.FrmFuncionarioConsulta.resources
+I:\INF3DM\Felipe_61734\Finalizado\TCC_ATUALIZADAÇOOOO\Desktop\CriadoParaVoce\CriadoParaVoce\obj\Debug\CriadoParaVoce.Produto.FrmProdutoCadastro.resources
+I:\INF3DM\Felipe_61734\Finalizado\TCC_ATUALIZADAÇOOOO\Desktop\CriadoParaVoce\CriadoParaVoce\obj\Debug\CriadoParaVoce.Produto.FrmProdutoConsulta.resources
+I:\INF3DM\Felipe_61734\Finalizado\TCC_ATUALIZADAÇOOOO\Desktop\CriadoParaVoce\CriadoParaVoce\obj\Debug\CriadoParaVoce.Properties.Resources.resources
+I:\INF3DM\Felipe_61734\Finalizado\TCC_ATUALIZADAÇOOOO\Desktop\CriadoParaVoce\CriadoParaVoce\obj\Debug\CorretoraConvenios.Sistema.FrmConsultaCep.resources
+I:\INF3DM\Felipe_61734\Finalizado\TCC_ATUALIZADAÇOOOO\Desktop\CriadoParaVoce\CriadoParaVoce\obj\Debug\CriadoParaVoce.csproj.GenerateResource.cache
+I:\INF3DM\Felipe_61734\Finalizado\TCC_ATUALIZADAÇOOOO\Desktop\CriadoParaVoce\CriadoParaVoce\obj\Debug\CriadoParaVoce.csproj.CoreCompileInputs.cache
+I:\INF3DM\Felipe_61734\Finalizado\TCC_ATUALIZADAÇOOOO\Desktop\CriadoParaVoce\CriadoParaVoce\obj\Debug\CriadoParaVoce.csproj.CopyComplete
+I:\INF3DM\Felipe_61734\Finalizado\TCC_ATUALIZADAÇOOOO\Desktop\CriadoParaVoce\CriadoParaVoce\obj\Debug\CriadoParaVoce.exe
+I:\INF3DM\Felipe_61734\Finalizado\TCC_ATUALIZADAÇOOOO\Desktop\CriadoParaVoce\CriadoParaVoce\obj\Debug\CriadoParaVoce.pdb
+Z:\TCC\Desktop\CriadoParaVoce\CriadoParaVoce\bin\Debug\CriadoParaVoce.exe.config
+Z:\TCC\Desktop\CriadoParaVoce\CriadoParaVoce\bin\Debug\CriadoParaVoce.exe
+Z:\TCC\Desktop\CriadoParaVoce\CriadoParaVoce\bin\Debug\CriadoParaVoce.pdb
+Z:\TCC\Desktop\CriadoParaVoce\CriadoParaVoce\bin\Debug\BLL.dll
+Z:\TCC\Desktop\CriadoParaVoce\CriadoParaVoce\bin\Debug\TCC.dll
+Z:\TCC\Desktop\CriadoParaVoce\CriadoParaVoce\bin\Debug\Telas.exe
+Z:\TCC\Desktop\CriadoParaVoce\CriadoParaVoce\bin\Debug\BLL.pdb
+Z:\TCC\Desktop\CriadoParaVoce\CriadoParaVoce\bin\Debug\TCC.pdb
+Z:\TCC\Desktop\CriadoParaVoce\CriadoParaVoce\bin\Debug\Telas.pdb
+Z:\TCC\Desktop\CriadoParaVoce\CriadoParaVoce\bin\Debug\Telas.exe.config
+Z:\TCC\Desktop\CriadoParaVoce\CriadoParaVoce\obj\Debug\CriadoParaVoce.csprojAssemblyReference.cache
+Z:\TCC\Desktop\CriadoParaVoce\CriadoParaVoce\obj\Debug\CriadoParaVoce.Cargo.FrmCargoCadastro.resources
+Z:\TCC\Desktop\CriadoParaVoce\CriadoParaVoce\obj\Debug\CriadoParaVoce.Cargo.FrmCargoConsulta.resources
+Z:\TCC\Desktop\CriadoParaVoce\CriadoParaVoce\obj\Debug\CriadoParaVoce.Categoria.FrmCadastroCategoria.resources
+Z:\TCC\Desktop\CriadoParaVoce\CriadoParaVoce\obj\Debug\ControleFarmacia.Negocio.Categoria.FrmConsultaCategoria.resources
+Z:\TCC\Desktop\CriadoParaVoce\CriadoParaVoce\obj\Debug\CorretoraConvenios.Cliente.FrmClienteCadastro.resources
+Z:\TCC\Desktop\CriadoParaVoce\CriadoParaVoce\obj\Debug\CriadoParaVoce.Cliente.FrmClienteConsulta.resources
+Z:\TCC\Desktop\CriadoParaVoce\CriadoParaVoce\obj\Debug\AppProva.ContasPagar.FrmCadastroLancamentoContas.resources
+Z:\TCC\Desktop\CriadoParaVoce\CriadoParaVoce\obj\Debug\AppProva.ContasPagar.FrmCadastroNomeTitulo.resources
+Z:\TCC\Desktop\CriadoParaVoce\CriadoParaVoce\obj\Debug\AppProva.ContasPagar.FrmGestaoContasPagar.resources
+Z:\TCC\Desktop\CriadoParaVoce\CriadoParaVoce\obj\Debug\AppProva.ContasPagar.FrmListagemNomeTitulo.resources
+Z:\TCC\Desktop\CriadoParaVoce\CriadoParaVoce\obj\Debug\CriadoParaVoce.Empresa.FrmEmpresa.resources
+Z:\TCC\Desktop\CriadoParaVoce\CriadoParaVoce\obj\Debug\CriadoParaVoce.Form1.resources
+Z:\TCC\Desktop\CriadoParaVoce\CriadoParaVoce\obj\Debug\CriadoParaVoce.Fornecedor.FrmCadastroFornecedor.resources
+Z:\TCC\Desktop\CriadoParaVoce\CriadoParaVoce\obj\Debug\ControleFarmacia.Negocio.Fornecedor.FrmConsultaFornecedor.resources
+Z:\TCC\Desktop\CriadoParaVoce\CriadoParaVoce\obj\Debug\CriadoParaVoce.FrmApresentacao.resources
+Z:\TCC\Desktop\CriadoParaVoce\CriadoParaVoce\obj\Debug\CriadoParaVoce.FrmLogin.resources
+Z:\TCC\Desktop\CriadoParaVoce\CriadoParaVoce\obj\Debug\CriadoParaVoce.FrmSistema.resources
+Z:\TCC\Desktop\CriadoParaVoce\CriadoParaVoce\obj\Debug\CriadoParaVoce.Funcionalidade.FrmConsultaDaVenda.resources
+Z:\TCC\Desktop\CriadoParaVoce\CriadoParaVoce\obj\Debug\CriadoParaVoce.Funcionalidade.FrmConsultaGasto.resources
+Z:\TCC\Desktop\CriadoParaVoce\CriadoParaVoce\obj\Debug\CriadoParaVoce.Funcionalidade.FrmConsultaVenda.resources
+Z:\TCC\Desktop\CriadoParaVoce\CriadoParaVoce\obj\Debug\CriadoParaVoce.Funcionalidade.FrmFaleConosco.resources
+Z:\TCC\Desktop\CriadoParaVoce\CriadoParaVoce\obj\Debug\CriadoParaVoce.Funcionalidade.FrmFaleConsulta.resources
+Z:\TCC\Desktop\CriadoParaVoce\CriadoParaVoce\obj\Debug\CriadoParaVoce.Funcionalidade.FrmGastos.resources
+Z:\TCC\Desktop\CriadoParaVoce\CriadoParaVoce\obj\Debug\CriadoParaVoce.Funcionalidade.FrmRelatorio.resources
+Z:\TCC\Desktop\CriadoParaVoce\CriadoParaVoce\obj\Debug\CriadoParaVoce.Funcionalidade.FrmVenda.resources
+Z:\TCC\Desktop\CriadoParaVoce\CriadoParaVoce\obj\Debug\Telas_Inf2DM.Funcionalidades.FrmVender.resources
+Z:\TCC\Desktop\CriadoParaVoce\CriadoParaVoce\obj\Debug\CriadoParaVoce.Funcionário.FrmFuncionarioCadastro.resources
+Z:\TCC\Desktop\CriadoParaVoce\CriadoParaVoce\obj\Debug\CorretoraConvenios.Funcionário.FrmFuncionarioConsulta.resources
+Z:\TCC\Desktop\CriadoParaVoce\CriadoParaVoce\obj\Debug\CriadoParaVoce.Produto.FrmProdutoCadastro.resources
+Z:\TCC\Desktop\CriadoParaVoce\CriadoParaVoce\obj\Debug\CriadoParaVoce.Produto.FrmProdutoConsulta.resources
+Z:\TCC\Desktop\CriadoParaVoce\CriadoParaVoce\obj\Debug\CriadoParaVoce.Properties.Resources.resources
+Z:\TCC\Desktop\CriadoParaVoce\CriadoParaVoce\obj\Debug\CorretoraConvenios.Sistema.FrmConsultaCep.resources
+Z:\TCC\Desktop\CriadoParaVoce\CriadoParaVoce\obj\Debug\CriadoParaVoce.csproj.GenerateResource.cache
+Z:\TCC\Desktop\CriadoParaVoce\CriadoParaVoce\obj\Debug\CriadoParaVoce.csproj.CoreCompileInputs.cache
+Z:\TCC\Desktop\CriadoParaVoce\CriadoParaVoce\obj\Debug\CriadoParaVoce.csproj.CopyComplete
+Z:\TCC\Desktop\CriadoParaVoce\CriadoParaVoce\obj\Debug\CriadoParaVoce.exe
+Z:\TCC\Desktop\CriadoParaVoce\CriadoParaVoce\obj\Debug\CriadoParaVoce.pdb

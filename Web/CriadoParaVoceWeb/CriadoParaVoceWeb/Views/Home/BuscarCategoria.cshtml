@@ -1,0 +1,44 @@
+﻿
+@{
+    Layout = null;
+}
+@model IEnumerable<CriadoParaVoceWeb.Models.tbCategoria>
+
+<!DOCTYPE html>
+
+<html>
+<meta name="viewport" content="width=device-width" />
+<title>Categorias</title>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+@*<link href="layout/styles/layout.css" rel="stylesheet" type="text/css" media="all">*@
+<link href="~/Content/layout.css" rel="stylesheet" />
+</head>
+<body>
+    <h2>Banana iaru</h2>
+    <p>
+        @Html.ActionLink("Incluir Nova Categoria", "CadastrarFuncionario", "Login", new { @class = "btn btn-success" })
+    </p>
+    @*Criando Tabela que será preenchida com o laço*@
+    <table class="table">
+        <tr>
+            <th>@Html.DisplayNameFor(Model => Model.CategoriaID)</th>
+            <th>@Html.DisplayNameFor(Model => Model.DescricaoCategoria)</th>
+            <th>@Html.DisplayNameFor(Model => Model.Tamanho)</th>
+            <th>@Html.DisplayNameFor(Model => Model.StatusCategoria)</th>
+        </tr>
+        @foreach (var item in Model)
+        {
+            <td>@Html.DisplayFor(ModelItem => item.CategoriaID)</td>
+            <td>@Html.DisplayFor(ModelItem => item.DescricaoCategoria)</td>
+            <td>@Html.DisplayFor(ModelItem => item.Tamanho)</td>
+            <td>@Html.DisplayFor(ModelItem => item.StatusCategoria)</td>
+            <td>
+                @Html.ActionLink("Editar", "Editar", new { id = item.CategoriaID }) |
+                @Html.ActionLink("Detalhes", "Detalhes", new { id = item.CategoriaID }) |
+                @Html.ActionLink("Deletar", "Deletar", new { id = item.CategoriaID }) |
+            </td>
+        }
+    </table>
+</body>
+</html>

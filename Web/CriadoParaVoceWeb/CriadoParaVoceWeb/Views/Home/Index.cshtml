@@ -1,0 +1,247 @@
+﻿@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <title>Criado Para Você</title>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+    @*<link href="layout/styles/layout.css" rel="stylesheet" type="text/css" media="all">*@
+    <link href="~/Content/layout.css" rel="stylesheet" />
+</head>
+<body id="top">
+    <div class="wrapper row0">
+        <div id="topbar" class="hoc clear">
+            <div class="fl_left">
+                <ul>
+                    <li>@*<i class="fa fa-phone"></i>*@ (11) 97081-2583</li>
+                    <li>@*<i class="fa fa-envelope-o"></i>*@ CriadoParaVoce@hotmail.com</li>
+
+
+
+                    @if (Session["nomeUsuarioLogado"] != null)
+                    {
+                        
+                        if (Convert.ToString(Session["perfil"]) == "adm")
+                        {
+                            <li>
+                                <a>
+                                    @Html.ActionLink(Session["nomeUsuarioLogado"].ToString(), "RelatorioMensal", "Administrador")
+                                </a>
+                            </li>
+
+                        }
+                        else
+                        {
+                            <li><a>@Html.ActionLink(Session["nomeUsuarioLogado"].ToString(), "Index", "Home")</a></li>
+                        }
+                    }
+                </ul>
+
+     </div>
+
+ </div>
+</div>
+<div class="wrapper row1">
+ <header id="header" class="hoc clear">
+     <div id="logo" class="fl_left">
+                @*<h1><a href="index.html">Criado de Você</a></h1>*@
+                                 @*<h1><a href = "~/Views/Home/Index.cshtml" > Criado Para Você</a></h1>*@
+         <img src="~/img/WhatsApp Image 2019-02-09 at 18.29.53.jpeg" width="50px" alt="Nayara" />
+                                <!--<p></p> -->
+                            </div>
+                            <div id = "quickinfo" class="fl_right">
+                                <ul class="nospace inline">
+                                    <li>
+                                        <strong></strong><br>
+                @*<img src="images/demo/WhatsApp Image 2019-02-09 at 18.29.53.jpeg" alt="" style="width:400px;  height:120px;"></*@
+                                        <img src = "~/img/WhatsApp Image 2019-02-09 at 18.29.53.jpeg" alt="" style="width:200px;  height:90px;" />
+                                </ul>
+                            </div>
+
+                        </header>
+                    </div>
+                    <div class="wrapper row2">
+                        <nav id = "mainav" class="hoc clear">
+                            <ul class="clear">
+                                <li class="active"><a href="../index.html"> Home </a></li>
+                                @*<li>
+                            <a class="drop" href="#">Produtos</a>
+                            <ul>
+                                <li><a>@Html.ActionLink("Canecas", "Caneca", "Home")</a></li>
+        @*<li><a href="">Canecas</a></li>*@
+                                @*<li><a href="">Camisas</a></li>
+                                <li><a>@Html.ActionLink("Camisas", "Camisas", "Home")</a></li>
+        @*<li><a href="">Outros</a></li>
+                                <li><a>@Html.ActionLink("Outros", "Outros", "Home")</a></li>
+                            </ul>
+                        </li>*@
+                                @*<li><a> @Html.ActionLink("Minha Conta", "Login", "Home") </a></li*@
+                                <li><a> @Html.ActionLink("Fale Conosco", "FaleConosco", "Home")</a></li>
+                                <li><a> @Html.ActionLink("Termos de Uso", "TermosDeUso", "Home")</a></li>
+                                @*BuscarLogin*@
+                                @*Cadastrar Funcionário*@
+                                @*<li><a>@Html.ActionLink("Cadastrar Funcionário", "CadastrarFuncionario", "Home")</a></li>
+        @*Buscar Categoria*@
+                                <li><a> @Html.ActionLink("Produtos", "Catalogo", "Home")</a></li>
+
+                            </ul>
+                            </nav>
+                        </div>
+                        <div class="bgded overlay" <!--style="background-image:url('images/demo/backgrounds/mapa2.png')-->>
+                                <div id = "pageintro" class="hoc clear">
+                                    <div class="flexslider basicslider">
+                                        <ul class="slides">
+                                            <li>
+                                                <article>
+                                                    <h4><p>Canecas</p></h4>
+                                                    <h3 class="heading">Veja nossas Canecas ou cria a sua própria</h3>
+                                                        <footer>
+                                                            <ul class="nospace inline pushright">
+                                                                <li><button type = "submit" class="btn-primary">@Html.ActionLink("Vizualizar Canecas", "Caneca", "Home")</button></li>
+                                                            </ul>
+                                                        </footer>
+                                                </article>
+                                            </li>
+                                            <li>
+                                                <article>
+                                                    <p>Camisas</p>
+                                                    <h3 class="heading">Veja nossas Camisas ou crie a sua própria</h3>
+                                                    <footer>
+                                                        <ul class="nospace inline pushright">
+                                                            <li><a class="btn" href="pages/Quimica.html">Visualizar Camisas</a></li>
+
+                                                        </ul>
+                                                    </footer>
+                                                </article>
+                                            </li>
+                                        <li>
+                                            <article>
+                                                <p>Outros</p>
+                                                <h3 class="heading">Deseja um chinelo personalizado ? ou uma capa de celular? </h3>
+                                                <footer>
+                                                    <ul class="nospace inline pushright">
+                                                        <li><a class="btn" href="pages/Fisica.html">Escolha aqui o que deseja</a></li>
+
+                                                    </ul>
+                                                </footer>
+                                            </article>
+                                        </li>
+                                        </ul>
+                                    </div>
+                                </div>
+                            </div>
+                        <div class="wrapper row3">
+                            <main class="hoc container clear">
+                                <ul class="nospace group services">
+                                    <li class="one_third first">
+                                        <article>
+                                            <h6 class="heading font-x3">Criado para Você</h6>
+                                            <p>Termos de Uso para compras dos nossos produtos são: [&hellip;]</p>
+                                            <footer><a class="btn" href="#">Conheça mais</a></footer>
+                                        </article>
+                                    </li>
+                                    @*<li class="one_third">
+                                        <article class="bgded overlay" style="background-image:url('../../img/historia.jpg');">
+                                            <div class="txtwrap">
+                                                <i class="block fa fa-4x fa-ioxhost"></i>
+                                                <h6 class="heading">História e Fundação</h6>
+                                                <p>Criado para você surgiu em meio a uma... [&hellip;]</p>
+                                                <footer><a>@Html &raquo;</a></footer>
+                                            </div>
+                                        </article>
+                                    </li>*@
+                                    <li class="one_third">
+                                        <article class="bgded overlay" style="background-image:url('../../img/canal.jpg');">
+                                            <div class="txtwrap">
+                                                <i class="block fa fa-4x fa-joomla"></i>
+                                                <h6 class="heading">Nossa Loja Física</h6>
+                                                <p>Criados para você possui uma sede em São Paulo, Rua Samaritá, 1015 - Jardim das Laranjeiras, São Paulo - SP, 02518-080...[&hellip;]</p>
+                                                <footer><a>@Html.ActionLink("Leia mais sobre ...", "FaleConosco", "Home") &raquo;</a></footer>
+                                            </div>
+                                        </article>
+                                    </li>
+                                    <!--<li class="one_third first">
+                                      <article class="bgded overlay" style="background-image:url('images/demo/rio.jpeg');">
+                                        <div class="txtwrap"><i class="block fa fa-4x fa-jsfiddle"></i>
+                                          <h6 class="heading">Rios de Bertioga</h6>
+                                          <p>A bacia hidrográfica de Bertioga é uma das maiores da Baixada Santista e está dividida em três rios principais: Itapanhaú, Itaguaré e Guaratuba.Conta também com os rios Itatinga e Jaguareguava, que deságuam no próprio Itapanhaú... [&hellip;]</p>
+                                          <footer><a href = "http://www.bertioga.sp.gov.br/turismo/" > Leia mais sobre &raquo;</a></footer>
+                                        </div>
+                                      </article>
+                                    </li>-->
+                                    <!--<li class="one_third">
+                                      <article class="bgded overlay" style="background-image:url('images/demo/eco.jpg');">
+                                        <div class="txtwrap"><i class="block fa fa-4x fa-language"></i>
+                                          <h6 class="heading">Ecoturismo</h6>
+                                          <p>Bertioga conta com duas trilhas abertas para atividades de ecoturismo.A Trilha do Guaratuba, com nível médio de dificuldade, tem 4 km de extensão, apresenta travessia de rio, passando por áreas de restinga baixa e alta, mata de encosta e mata...[&hellip;]</p>
+                                          <footer><a href = "http://www.bertioga.sp.gov.br/turismo/" > Leia mais sobre &raquo;</a></footer>
+                                        </div>
+                                      </article>
+                                    </li>-->
+                                    <!--<li class="one_third">
+                                      <article class="bgded overlay" style="background-image:url('images/demo/indio.jpg');">
+                                        <div class="txtwrap"><i class="block fa fa-4x fa-lastfm"></i>
+                                          <h6 class="heading">Terras indígenas do Rio Silveira</h6>
+                                          <p>Na divisa de Bertioga com o município de São Sebastião, encontra-se um registro vivo da história do Brasil.Lá, estão as Terras Indígenas do Rio Silveira, que hoje abrigam cerca de 500 índios da etnia Guarani...[&hellip;]</p>
+                                          <footer><a href = "https://www.youtube.com/watch?v=PjwakQXFXb4" > Conheça a aldeia &raquo;</a></footer>
+                                        </div>
+                                      </article>
+                                    </li>-->
+                                </ul>
+                                <div class="clear"></div>
+                            </main>
+                        </div>
+                        <div class="wrapper row3">
+
+                        </div>
+
+                        <div class="wrapper  overlay bgded" style="background-image:url('../../img/backgrounds/natureza.jpg');">
+                            <div class="hoc container clear">
+                                <div id = "testimonial" >
+                                    <blockquote >
+                                        "A beleza das coisas existe no espírito de quem as contempla."
+
+                                    </blockquote >
+                                    <strong > David Hume</strong>
+                                </div>
+                            </div>
+                        </div>
+                        </section>
+                        </div>
+                        <!--<div class="wrapper bgded overlay" style="background-image:url('images/demo/backgrounds/preto.jpg');">
+                          <section class="hoc container clear">
+                            <ul class="nospace group center">
+                              <li class="one_quarter first">
+                                <h6 class="heading font-x2"> Trabalho orientado pelas disciplinas:</h6>
+                              </li>
+                              <li class="one_quarter"><i class="block btmspace-10 fa fa-4x fa-recycle"></i> Biologia</li>
+                              <li class="one_quarter"><i class="block btmspace-10 fa fa-4x fa-rebel"></i> Química</li>
+                              <li class="one_quarter"><i class="block btmspace-10 fa fa-4x fa-connectdevelop"></i> Física</li>
+                            </ul>
+
+                          </section>
+                        </div>-->
+                        <div class="wrapper row4">
+
+                        </div>
+                @*<div class="wrapper row5">
+        <div id="copyright" class="hoc clear">
+            <p class="fl_left">Blog feito por alunos do ITB Brasilio Flores de Azevedo <a href="#"> Equipe 05º</a></p>
+        </div>
+    </div>*@
+                        <a id = "backtotop" href="#top"><i class="fa fa-chevron-up"></i></a>
+                        <!-- JAVASCRIPTS AQUIIIIIII -->
+                        <script src = "~/Scripts/jquery.min.js" ></script >
+                        <script src="~/Scripts/jquery.backtotop.js"></script>
+                        <script src = "~/Scripts/jquery.mobilemenu.js" ></script>
+                        <script src="~/Scripts/jquery.flexslider-min.js"></script>
+                @*<script src="layout/scripts/jquery.min.js"></script>
+    <script src="layout/scripts/jquery.backtotop.js"></script>
+    <script src="layout/scripts/jquery.mobilemenu.js"></script>
+    <script src="layout/scripts/jquery.flexslider-min.js"></script>*@
+</body>
+</html>

@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">CriadoPraVoce</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_produtos">Produtos</string>
+    <string name="title_login">Login</string>
+
+    <string name="codigo">Código</string>
+    <string name="descricao">Descrição</string>
+    <string name="quantidade">Qtde</string>
+    <string name="valor_unitario">Valor Unit</string>
+    <string name="status">Situação</string>
+    <string name="ativo">Ativo</string>
+    <string name="disponivel">Disponível</string>
+    <string name="indisponivel">Indisponível</string>
+    <string name="pesquisar_produto">Digite aqui seu produto...</string>
+</resources>

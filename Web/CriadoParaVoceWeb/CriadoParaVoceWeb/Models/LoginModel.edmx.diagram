@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<edmx:Edmx Version="3.0" xmlns:edmx="http://schemas.microsoft.com/ado/2009/11/edmx">
+ <!-- EF Designer content (DO NOT EDIT MANUALLY BELOW HERE) -->
+  <edmx:Designer xmlns="http://schemas.microsoft.com/ado/2009/11/edmx">
+    <!-- Diagram content (shape and connector positions) -->
+    <edmx:Diagrams>
+      <Diagram DiagramId="f1bbf95801ee4107ad9cfd3e438c9748" Name="Diagram1">
+        <EntityTypeShape EntityType="CriadoParaVoceModel.login" Width="1.5" PointX="8.25" PointY="15.875" IsExpanded="true" />
+        <EntityTypeShape EntityType="CriadoParaVoceModel.tbArte" Width="1.5" PointX="1.5" PointY="22.5" IsExpanded="true" />
+        <EntityTypeShape EntityType="CriadoParaVoceModel.tbCargo" Width="1.5" PointX="1.5" PointY="18.125" IsExpanded="true" />
+        <EntityTypeShape EntityType="CriadoParaVoceModel.tbCategoria" Width="1.5" PointX="1.5" PointY="30.875" IsExpanded="true" />
+        <EntityTypeShape EntityType="CriadoParaVoceModel.tbCliente" Width="1.5" PointX="0.75" PointY="4.875" IsExpanded="true" />
+        <EntityTypeShape EntityType="CriadoParaVoceModel.tbContatoCliente" Width="1.5" PointX="3" PointY="6" IsExpanded="true" />
+        <EntityTypeShape EntityType="CriadoParaVoceModel.tbContatoFuncionario" Width="1.5" PointX="6" PointY="10.25" IsExpanded="true" />
+        <EntityTypeShape EntityType="CriadoParaVoceModel.tbDepartamento" Width="1.5" PointX="2.75" PointY="0.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="CriadoParaVoceModel.tbFALE_CONOSCO" Width="1.5" PointX="8.25" PointY="19" IsExpanded="true" />
+        <EntityTypeShape EntityType="CriadoParaVoceModel.tbFormaDeVenda" Width="1.5" PointX="8.25" PointY="6.125" IsExpanded="true" />
+        <EntityTypeShape EntityType="CriadoParaVoceModel.tbFormasDePagamento" Width="1.5" PointX="6" PointY="2.25" IsExpanded="true" />
+        <EntityTypeShape EntityType="CriadoParaVoceModel.tbFornecedor" Width="1.5" PointX="1.5" PointY="38.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="CriadoParaVoceModel.tbFuncionario" Width="1.5" PointX="3.75" PointY="16.375" IsExpanded="true" />
+        <EntityTypeShape EntityType="CriadoParaVoceModel.tbItem_Venda" Width="1.5" PointX="11.25" PointY="5.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="CriadoParaVoceModel.tbNivelAcesso" Width="1.5" PointX="3.75" PointY="23.125" IsExpanded="true" />
+        <EntityTypeShape EntityType="CriadoParaVoceModel.tbPedido" Width="1.5" PointX="3.75" PointY="26.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="CriadoParaVoceModel.tbProduto" Width="1.5" PointX="1.5" PointY="34.5" IsExpanded="true" />
+        <EntityTypeShape EntityType="CriadoParaVoceModel.tbProdutoFinal" Width="1.5" PointX="1.5" PointY="26.375" IsExpanded="true" />
+        <EntityTypeShape EntityType="CriadoParaVoceModel.tbTipoContato" Width="1.5" PointX="0.75" PointY="1.125" IsExpanded="true" />
+        <EntityTypeShape EntityType="CriadoParaVoceModel.tbUsuario" Width="1.5" PointX="6" PointY="17.25" IsExpanded="true" />
+        <EntityTypeShape EntityType="CriadoParaVoceModel.tbVenda" Width="1.5" PointX="6" PointY="5.5" IsExpanded="true" />
+        <EntityTypeShape EntityType="CriadoParaVoceModel.tbVendedor" Width="1.5" PointX="6" PointY="28.375" IsExpanded="true" />
+        <EntityTypeShape EntityType="CriadoParaVoceModel.USUARIOWEB" Width="1.5" PointX="3" PointY="13.25" IsExpanded="true" />
+        <EntityTypeShape EntityType="CriadoParaVoceModel.tbParametrosPagamento" Width="1.5" PointX="8.75" PointY="0.75" IsExpanded="true" />
+        <AssociationConnector Association="CriadoParaVoceModel.FK_tbUsuario_tblogin" ManuallyRouted="false" />
+        <AssociationConnector Association="CriadoParaVoceModel.FK_tbArte_item_Venda" ManuallyRouted="false" />
+        <AssociationConnector Association="CriadoParaVoceModel.FK_tbArte_tbProdutoFinal" ManuallyRouted="false" />
+        <AssociationConnector Association="CriadoParaVoceModel.FK_tbCargo_tbFunc" ManuallyRouted="false" />
+        <AssociationConnector Association="CriadoParaVoceModel.FK_tbCategoria_Produto" ManuallyRouted="false" />
+        <AssociationConnector Association="CriadoParaVoceModel.FK_tbCategoria_ProdutoFinal" ManuallyRouted="false" />
+        <AssociationConnector Association="CriadoParaVoceModel.FK_Cliente_Contato" ManuallyRouted="false" />
+        <AssociationConnector Association="CriadoParaVoceModel.FK_tbCliente_USUARIOWEB" ManuallyRouted="false" />
+        <AssociationConnector Association="CriadoParaVoceModel.FK_tbCliente_Venda" ManuallyRouted="false" />
+        <AssociationConnector Association="CriadoParaVoceModel.FK_TipoContato_Contato" ManuallyRouted="false" />
+        <AssociationConnector Association="CriadoParaVoceModel.FK_Funcionario_ContatoFunc" ManuallyRouted="false" />
+        <AssociationConnector Association="CriadoParaVoceModel.FK_TipoContato_ContatoFunc" ManuallyRouted="false" />
+        <AssociationConnector Association="CriadoParaVoceModel.FK_tbUsuario_tbFale_Conosco" ManuallyRouted="false" />
+        <AssociationConnector Association="CriadoParaVoceModel.FK_tbFormaDePagamento_FormaDeVenda" ManuallyRouted="false" />
+        <AssociationConnector Association="CriadoParaVoceModel.FK_tbVenda_FormaDeVenda" ManuallyRouted="false" />
+        <AssociationConnector Association="CriadoParaVoceModel.FK_tbFornecedor_Produto" ManuallyRouted="false" />
+        <AssociationConnector Association="CriadoParaVoceModel.FK_tbFunc_tbUsuario" ManuallyRouted="false" />
+        <AssociationConnector Association="CriadoParaVoceModel.FK_tbFunc_tbVendedor" ManuallyRouted="false" />
+        <AssociationConnector Association="CriadoParaVoceModel.FK_tbFuncionario_Venda" ManuallyRouted="false" />
+        <AssociationConnector Association="CriadoParaVoceModel.FK_tbProduto_item_Venda" ManuallyRouted="false" />
+        <AssociationConnector Association="CriadoParaVoceModel.FK_tbVenda_item_Venda" ManuallyRouted="false" />
+        <AssociationConnector Association="CriadoParaVoceModel.FK_tbNivelAcesso_tbUsuario" ManuallyRouted="false" />
+        <AssociationConnector Association="CriadoParaVoceModel.FK_tbPedido_Venda" ManuallyRouted="false" />
+        <AssociationConnector Association="CriadoParaVoceModel.FK_tbProdutoFinal_Pedido" ManuallyRouted="false" />
+        <AssociationConnector Association="CriadoParaVoceModel.FK_tbProduto_tbProdutoFinal" ManuallyRouted="false" />
+      </Diagram>
+    </edmx:Diagrams>
+  </edmx:Designer>
+</edmx:Edmx>

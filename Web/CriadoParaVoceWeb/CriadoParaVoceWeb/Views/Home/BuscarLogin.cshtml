@@ -1,0 +1,46 @@
+﻿
+@{
+    Layout = null;
+}
+@model IEnumerable<CriadoParaVoceWeb.Models.USUARIOWEB>
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Buscar Login</title>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+    @*<link href="layout/styles/layout.css" rel="stylesheet" type="text/css" media="all">*@
+    <link href="~/Content/layout.css" rel="stylesheet" />
+</head>
+<body>
+    <h2>Login</h2>
+    <p>
+        @Html.ActionLink("Incluir Novo Login", "CadastrarFuncionario", "Login", new { @class = "btn btn-success"})
+    </p>
+    @*Criando Tabela que será preenchida com o laço*@
+    <table class="table">
+        <tr>
+            <th>@Html.DisplayNameFor(Model => Model.IdUsuario)</th>
+            <th>@Html.DisplayNameFor(Model => Model.Login)</th>
+            <th>@Html.DisplayNameFor(Model => Model.senha)</th>
+            <th>@Html.DisplayNameFor(Model => Model.perfil)</th>
+        </tr>
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>@Html.DisplayFor(ModelItem => item.IdUsuario)</td>
+                <td>@Html.DisplayFor(ModelItem => item.Login)</td>
+                <td>@Html.DisplayFor(ModelItem => item.senha)</td>
+                <td>@Html.DisplayFor(ModelItem => item.perfil)</td>
+                <td>
+                    @Html.ActionLink("Editar", "Editar", new { id = item.IdUsuario }) |
+                    @Html.ActionLink("Detalhes", "Detalhes", new { id = item.IdUsuario }) |
+                    @Html.ActionLink("Deletar", "Deletar", new { id = item.IdUsuario }) |
+                </td>
+            </tr>
+         }
+        </table>
+</body>
+</html>

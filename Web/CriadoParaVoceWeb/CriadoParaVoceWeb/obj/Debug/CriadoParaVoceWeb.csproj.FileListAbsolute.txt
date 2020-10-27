@@ -1,0 +1,473 @@
+Z:\Criado Para Você\Criado Para Você\CriadoParaVoceWeb\CriadoParaVoceWeb\bin\CriadoParaVoceWeb.dll.config
+Z:\Criado Para Você\Criado Para Você\CriadoParaVoceWeb\CriadoParaVoceWeb\bin\CriadoParaVoceWeb.dll
+Z:\Criado Para Você\Criado Para Você\CriadoParaVoceWeb\CriadoParaVoceWeb\bin\CriadoParaVoceWeb.pdb
+Z:\Criado Para Você\Criado Para Você\CriadoParaVoceWeb\CriadoParaVoceWeb\bin\roslyn\csc.exe
+Z:\Criado Para Você\Criado Para Você\CriadoParaVoceWeb\CriadoParaVoceWeb\bin\roslyn\csc.exe.config
+Z:\Criado Para Você\Criado Para Você\CriadoParaVoceWeb\CriadoParaVoceWeb\bin\roslyn\csc.rsp
+Z:\Criado Para Você\Criado Para Você\CriadoParaVoceWeb\CriadoParaVoceWeb\bin\roslyn\csi.exe
+Z:\Criado Para Você\Criado Para Você\CriadoParaVoceWeb\CriadoParaVoceWeb\bin\roslyn\csi.exe.config
+Z:\Criado Para Você\Criado Para Você\CriadoParaVoceWeb\CriadoParaVoceWeb\bin\roslyn\csi.rsp
+Z:\Criado Para Você\Criado Para Você\CriadoParaVoceWeb\CriadoParaVoceWeb\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+Z:\Criado Para Você\Criado Para Você\CriadoParaVoceWeb\CriadoParaVoceWeb\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+Z:\Criado Para Você\Criado Para Você\CriadoParaVoceWeb\CriadoParaVoceWeb\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+Z:\Criado Para Você\Criado Para Você\CriadoParaVoceWeb\CriadoParaVoceWeb\bin\roslyn\Microsoft.CodeAnalysis.dll
+Z:\Criado Para Você\Criado Para Você\CriadoParaVoceWeb\CriadoParaVoceWeb\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+Z:\Criado Para Você\Criado Para Você\CriadoParaVoceWeb\CriadoParaVoceWeb\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+Z:\Criado Para Você\Criado Para Você\CriadoParaVoceWeb\CriadoParaVoceWeb\bin\roslyn\Microsoft.CSharp.Core.targets
+Z:\Criado Para Você\Criado Para Você\CriadoParaVoceWeb\CriadoParaVoceWeb\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+Z:\Criado Para Você\Criado Para Você\CriadoParaVoceWeb\CriadoParaVoceWeb\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+Z:\Criado Para Você\Criado Para Você\CriadoParaVoceWeb\CriadoParaVoceWeb\bin\roslyn\Microsoft.Managed.Core.targets
+Z:\Criado Para Você\Criado Para Você\CriadoParaVoceWeb\CriadoParaVoceWeb\bin\roslyn\Microsoft.VisualBasic.Core.targets
+Z:\Criado Para Você\Criado Para Você\CriadoParaVoceWeb\CriadoParaVoceWeb\bin\roslyn\System.AppContext.dll
+Z:\Criado Para Você\Criado Para Você\CriadoParaVoceWeb\CriadoParaVoceWeb\bin\roslyn\System.Collections.Immutable.dll
+Z:\Criado Para Você\Criado Para Você\CriadoParaVoceWeb\CriadoParaVoceWeb\bin\roslyn\System.Console.dll
+Z:\Criado Para Você\Criado Para Você\CriadoParaVoceWeb\CriadoParaVoceWeb\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+Z:\Criado Para Você\Criado Para Você\CriadoParaVoceWeb\CriadoParaVoceWeb\bin\roslyn\System.Diagnostics.StackTrace.dll
+Z:\Criado Para Você\Criado Para Você\CriadoParaVoceWeb\CriadoParaVoceWeb\bin\roslyn\System.IO.Compression.dll
+Z:\Criado Para Você\Criado Para Você\CriadoParaVoceWeb\CriadoParaVoceWeb\bin\roslyn\System.IO.FileSystem.dll
+Z:\Criado Para Você\Criado Para Você\CriadoParaVoceWeb\CriadoParaVoceWeb\bin\roslyn\System.IO.FileSystem.Primitives.dll
+Z:\Criado Para Você\Criado Para Você\CriadoParaVoceWeb\CriadoParaVoceWeb\bin\roslyn\System.IO.Pipes.AccessControl.dll
+Z:\Criado Para Você\Criado Para Você\CriadoParaVoceWeb\CriadoParaVoceWeb\bin\roslyn\System.IO.Pipes.dll
+Z:\Criado Para Você\Criado Para Você\CriadoParaVoceWeb\CriadoParaVoceWeb\bin\roslyn\System.Reflection.Metadata.dll
+Z:\Criado Para Você\Criado Para Você\CriadoParaVoceWeb\CriadoParaVoceWeb\bin\roslyn\System.Security.AccessControl.dll
+Z:\Criado Para Você\Criado Para Você\CriadoParaVoceWeb\CriadoParaVoceWeb\bin\roslyn\System.Security.Claims.dll
+Z:\Criado Para Você\Criado Para Você\CriadoParaVoceWeb\CriadoParaVoceWeb\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+Z:\Criado Para Você\Criado Para Você\CriadoParaVoceWeb\CriadoParaVoceWeb\bin\roslyn\System.Security.Cryptography.Encoding.dll
+Z:\Criado Para Você\Criado Para Você\CriadoParaVoceWeb\CriadoParaVoceWeb\bin\roslyn\System.Security.Cryptography.Primitives.dll
+Z:\Criado Para Você\Criado Para Você\CriadoParaVoceWeb\CriadoParaVoceWeb\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+Z:\Criado Para Você\Criado Para Você\CriadoParaVoceWeb\CriadoParaVoceWeb\bin\roslyn\System.Security.Principal.Windows.dll
+Z:\Criado Para Você\Criado Para Você\CriadoParaVoceWeb\CriadoParaVoceWeb\bin\roslyn\System.Text.Encoding.CodePages.dll
+Z:\Criado Para Você\Criado Para Você\CriadoParaVoceWeb\CriadoParaVoceWeb\bin\roslyn\System.ValueTuple.dll
+Z:\Criado Para Você\Criado Para Você\CriadoParaVoceWeb\CriadoParaVoceWeb\bin\roslyn\System.Xml.ReaderWriter.dll
+Z:\Criado Para Você\Criado Para Você\CriadoParaVoceWeb\CriadoParaVoceWeb\bin\roslyn\System.Xml.XmlDocument.dll
+Z:\Criado Para Você\Criado Para Você\CriadoParaVoceWeb\CriadoParaVoceWeb\bin\roslyn\System.Xml.XPath.dll
+Z:\Criado Para Você\Criado Para Você\CriadoParaVoceWeb\CriadoParaVoceWeb\bin\roslyn\System.Xml.XPath.XDocument.dll
+Z:\Criado Para Você\Criado Para Você\CriadoParaVoceWeb\CriadoParaVoceWeb\bin\roslyn\vbc.exe
+Z:\Criado Para Você\Criado Para Você\CriadoParaVoceWeb\CriadoParaVoceWeb\bin\roslyn\vbc.exe.config
+Z:\Criado Para Você\Criado Para Você\CriadoParaVoceWeb\CriadoParaVoceWeb\bin\roslyn\vbc.rsp
+Z:\Criado Para Você\Criado Para Você\CriadoParaVoceWeb\CriadoParaVoceWeb\bin\roslyn\VBCSCompiler.exe
+Z:\Criado Para Você\Criado Para Você\CriadoParaVoceWeb\CriadoParaVoceWeb\bin\roslyn\VBCSCompiler.exe.config
+Z:\Criado Para Você\Criado Para Você\CriadoParaVoceWeb\CriadoParaVoceWeb\bin\EntityFramework.dll
+Z:\Criado Para Você\Criado Para Você\CriadoParaVoceWeb\CriadoParaVoceWeb\bin\EntityFramework.SqlServer.dll
+Z:\Criado Para Você\Criado Para Você\CriadoParaVoceWeb\CriadoParaVoceWeb\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+Z:\Criado Para Você\Criado Para Você\CriadoParaVoceWeb\CriadoParaVoceWeb\bin\Microsoft.Web.Infrastructure.dll
+Z:\Criado Para Você\Criado Para Você\CriadoParaVoceWeb\CriadoParaVoceWeb\bin\System.Web.Helpers.dll
+Z:\Criado Para Você\Criado Para Você\CriadoParaVoceWeb\CriadoParaVoceWeb\bin\System.Web.Mvc.dll
+Z:\Criado Para Você\Criado Para Você\CriadoParaVoceWeb\CriadoParaVoceWeb\bin\System.Web.Razor.dll
+Z:\Criado Para Você\Criado Para Você\CriadoParaVoceWeb\CriadoParaVoceWeb\bin\System.Web.Webpages.Deployment.dll
+Z:\Criado Para Você\Criado Para Você\CriadoParaVoceWeb\CriadoParaVoceWeb\bin\System.Web.Webpages.dll
+Z:\Criado Para Você\Criado Para Você\CriadoParaVoceWeb\CriadoParaVoceWeb\bin\System.Web.Webpages.Razor.dll
+Z:\Criado Para Você\Criado Para Você\CriadoParaVoceWeb\CriadoParaVoceWeb\bin\EntityFramework.xml
+Z:\Criado Para Você\Criado Para Você\CriadoParaVoceWeb\CriadoParaVoceWeb\bin\EntityFramework.SqlServer.xml
+Z:\Criado Para Você\Criado Para Você\CriadoParaVoceWeb\CriadoParaVoceWeb\bin\System.Web.Razor.xml
+Z:\Criado Para Você\Criado Para Você\CriadoParaVoceWeb\CriadoParaVoceWeb\bin\System.Web.Webpages.xml
+Z:\Criado Para Você\Criado Para Você\CriadoParaVoceWeb\CriadoParaVoceWeb\bin\System.Web.Webpages.Deployment.xml
+Z:\Criado Para Você\Criado Para Você\CriadoParaVoceWeb\CriadoParaVoceWeb\bin\System.Web.Webpages.Razor.xml
+Z:\Criado Para Você\Criado Para Você\CriadoParaVoceWeb\CriadoParaVoceWeb\bin\System.Web.Helpers.xml
+Z:\Criado Para Você\Criado Para Você\CriadoParaVoceWeb\CriadoParaVoceWeb\bin\System.Web.Mvc.xml
+Z:\Criado Para Você\Criado Para Você\CriadoParaVoceWeb\CriadoParaVoceWeb\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+Z:\Criado Para Você\Criado Para Você\CriadoParaVoceWeb\CriadoParaVoceWeb\bin\pt-br\System.Web.Razor.resources.dll
+Z:\Criado Para Você\Criado Para Você\CriadoParaVoceWeb\CriadoParaVoceWeb\bin\pt-br\System.Web.Webpages.resources.dll
+Z:\Criado Para Você\Criado Para Você\CriadoParaVoceWeb\CriadoParaVoceWeb\bin\pt-br\System.Web.Webpages.Deployment.resources.dll
+Z:\Criado Para Você\Criado Para Você\CriadoParaVoceWeb\CriadoParaVoceWeb\bin\pt-br\System.Web.Webpages.Razor.resources.dll
+Z:\Criado Para Você\Criado Para Você\CriadoParaVoceWeb\CriadoParaVoceWeb\bin\pt-br\System.Web.Helpers.resources.dll
+Z:\Criado Para Você\Criado Para Você\CriadoParaVoceWeb\CriadoParaVoceWeb\bin\pt-br\System.Web.Mvc.resources.dll
+Z:\Criado Para Você\Criado Para Você\CriadoParaVoceWeb\CriadoParaVoceWeb\obj\Debug\CriadoParaVoceWeb.csproj.CoreCompileInputs.cache
+Z:\Criado Para Você\Criado Para Você\CriadoParaVoceWeb\CriadoParaVoceWeb\obj\Debug\CriadoParaVoceWeb.csproj.CopyComplete
+Z:\Criado Para Você\Criado Para Você\CriadoParaVoceWeb\CriadoParaVoceWeb\obj\Debug\CriadoParaVoceWeb.dll
+Z:\Criado Para Você\Criado Para Você\CriadoParaVoceWeb\CriadoParaVoceWeb\obj\Debug\CriadoParaVoceWeb.pdb
+Z:\Criado Para Você\Criado Para Você\CriadoParaVoceWeb\CriadoParaVoceWeb\obj\Debug\CriadoParaVoceWeb.csprojAssemblyReference.cache
+Z:\TCC_ATUALIZADAÇOOOO\CriadoParaVoceWeb\CriadoParaVoceWeb\bin\CriadoParaVoceWeb.dll.config
+Z:\TCC_ATUALIZADAÇOOOO\CriadoParaVoceWeb\CriadoParaVoceWeb\bin\CriadoParaVoceWeb.dll
+Z:\TCC_ATUALIZADAÇOOOO\CriadoParaVoceWeb\CriadoParaVoceWeb\bin\CriadoParaVoceWeb.pdb
+Z:\TCC_ATUALIZADAÇOOOO\CriadoParaVoceWeb\CriadoParaVoceWeb\bin\roslyn\csc.exe
+Z:\TCC_ATUALIZADAÇOOOO\CriadoParaVoceWeb\CriadoParaVoceWeb\bin\roslyn\csc.exe.config
+Z:\TCC_ATUALIZADAÇOOOO\CriadoParaVoceWeb\CriadoParaVoceWeb\bin\roslyn\csc.rsp
+Z:\TCC_ATUALIZADAÇOOOO\CriadoParaVoceWeb\CriadoParaVoceWeb\bin\roslyn\csi.exe
+Z:\TCC_ATUALIZADAÇOOOO\CriadoParaVoceWeb\CriadoParaVoceWeb\bin\roslyn\csi.exe.config
+Z:\TCC_ATUALIZADAÇOOOO\CriadoParaVoceWeb\CriadoParaVoceWeb\bin\roslyn\csi.rsp
+Z:\TCC_ATUALIZADAÇOOOO\CriadoParaVoceWeb\CriadoParaVoceWeb\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+Z:\TCC_ATUALIZADAÇOOOO\CriadoParaVoceWeb\CriadoParaVoceWeb\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+Z:\TCC_ATUALIZADAÇOOOO\CriadoParaVoceWeb\CriadoParaVoceWeb\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+Z:\TCC_ATUALIZADAÇOOOO\CriadoParaVoceWeb\CriadoParaVoceWeb\bin\roslyn\Microsoft.CodeAnalysis.dll
+Z:\TCC_ATUALIZADAÇOOOO\CriadoParaVoceWeb\CriadoParaVoceWeb\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+Z:\TCC_ATUALIZADAÇOOOO\CriadoParaVoceWeb\CriadoParaVoceWeb\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+Z:\TCC_ATUALIZADAÇOOOO\CriadoParaVoceWeb\CriadoParaVoceWeb\bin\roslyn\Microsoft.CSharp.Core.targets
+Z:\TCC_ATUALIZADAÇOOOO\CriadoParaVoceWeb\CriadoParaVoceWeb\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+Z:\TCC_ATUALIZADAÇOOOO\CriadoParaVoceWeb\CriadoParaVoceWeb\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+Z:\TCC_ATUALIZADAÇOOOO\CriadoParaVoceWeb\CriadoParaVoceWeb\bin\roslyn\Microsoft.Managed.Core.targets
+Z:\TCC_ATUALIZADAÇOOOO\CriadoParaVoceWeb\CriadoParaVoceWeb\bin\roslyn\Microsoft.VisualBasic.Core.targets
+Z:\TCC_ATUALIZADAÇOOOO\CriadoParaVoceWeb\CriadoParaVoceWeb\bin\roslyn\System.AppContext.dll
+Z:\TCC_ATUALIZADAÇOOOO\CriadoParaVoceWeb\CriadoParaVoceWeb\bin\roslyn\System.Collections.Immutable.dll
+Z:\TCC_ATUALIZADAÇOOOO\CriadoParaVoceWeb\CriadoParaVoceWeb\bin\roslyn\System.Console.dll
+Z:\TCC_ATUALIZADAÇOOOO\CriadoParaVoceWeb\CriadoParaVoceWeb\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+Z:\TCC_ATUALIZADAÇOOOO\CriadoParaVoceWeb\CriadoParaVoceWeb\bin\roslyn\System.Diagnostics.StackTrace.dll
+Z:\TCC_ATUALIZADAÇOOOO\CriadoParaVoceWeb\CriadoParaVoceWeb\bin\roslyn\System.IO.Compression.dll
+Z:\TCC_ATUALIZADAÇOOOO\CriadoParaVoceWeb\CriadoParaVoceWeb\bin\roslyn\System.IO.FileSystem.dll
+Z:\TCC_ATUALIZADAÇOOOO\CriadoParaVoceWeb\CriadoParaVoceWeb\bin\roslyn\System.IO.FileSystem.Primitives.dll
+Z:\TCC_ATUALIZADAÇOOOO\CriadoParaVoceWeb\CriadoParaVoceWeb\bin\roslyn\System.IO.Pipes.AccessControl.dll
+Z:\TCC_ATUALIZADAÇOOOO\CriadoParaVoceWeb\CriadoParaVoceWeb\bin\roslyn\System.IO.Pipes.dll
+Z:\TCC_ATUALIZADAÇOOOO\CriadoParaVoceWeb\CriadoParaVoceWeb\bin\roslyn\System.Reflection.Metadata.dll
+Z:\TCC_ATUALIZADAÇOOOO\CriadoParaVoceWeb\CriadoParaVoceWeb\bin\roslyn\System.Security.AccessControl.dll
+Z:\TCC_ATUALIZADAÇOOOO\CriadoParaVoceWeb\CriadoParaVoceWeb\bin\roslyn\System.Security.Claims.dll
+Z:\TCC_ATUALIZADAÇOOOO\CriadoParaVoceWeb\CriadoParaVoceWeb\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+Z:\TCC_ATUALIZADAÇOOOO\CriadoParaVoceWeb\CriadoParaVoceWeb\bin\roslyn\System.Security.Cryptography.Encoding.dll
+Z:\TCC_ATUALIZADAÇOOOO\CriadoParaVoceWeb\CriadoParaVoceWeb\bin\roslyn\System.Security.Cryptography.Primitives.dll
+Z:\TCC_ATUALIZADAÇOOOO\CriadoParaVoceWeb\CriadoParaVoceWeb\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+Z:\TCC_ATUALIZADAÇOOOO\CriadoParaVoceWeb\CriadoParaVoceWeb\bin\roslyn\System.Security.Principal.Windows.dll
+Z:\TCC_ATUALIZADAÇOOOO\CriadoParaVoceWeb\CriadoParaVoceWeb\bin\roslyn\System.Text.Encoding.CodePages.dll
+Z:\TCC_ATUALIZADAÇOOOO\CriadoParaVoceWeb\CriadoParaVoceWeb\bin\roslyn\System.ValueTuple.dll
+Z:\TCC_ATUALIZADAÇOOOO\CriadoParaVoceWeb\CriadoParaVoceWeb\bin\roslyn\System.Xml.ReaderWriter.dll
+Z:\TCC_ATUALIZADAÇOOOO\CriadoParaVoceWeb\CriadoParaVoceWeb\bin\roslyn\System.Xml.XmlDocument.dll
+Z:\TCC_ATUALIZADAÇOOOO\CriadoParaVoceWeb\CriadoParaVoceWeb\bin\roslyn\System.Xml.XPath.dll
+Z:\TCC_ATUALIZADAÇOOOO\CriadoParaVoceWeb\CriadoParaVoceWeb\bin\roslyn\System.Xml.XPath.XDocument.dll
+Z:\TCC_ATUALIZADAÇOOOO\CriadoParaVoceWeb\CriadoParaVoceWeb\bin\roslyn\vbc.exe
+Z:\TCC_ATUALIZADAÇOOOO\CriadoParaVoceWeb\CriadoParaVoceWeb\bin\roslyn\vbc.exe.config
+Z:\TCC_ATUALIZADAÇOOOO\CriadoParaVoceWeb\CriadoParaVoceWeb\bin\roslyn\vbc.rsp
+Z:\TCC_ATUALIZADAÇOOOO\CriadoParaVoceWeb\CriadoParaVoceWeb\bin\roslyn\VBCSCompiler.exe
+Z:\TCC_ATUALIZADAÇOOOO\CriadoParaVoceWeb\CriadoParaVoceWeb\bin\roslyn\VBCSCompiler.exe.config
+Z:\TCC_ATUALIZADAÇOOOO\CriadoParaVoceWeb\CriadoParaVoceWeb\bin\EntityFramework.dll
+Z:\TCC_ATUALIZADAÇOOOO\CriadoParaVoceWeb\CriadoParaVoceWeb\bin\EntityFramework.SqlServer.dll
+Z:\TCC_ATUALIZADAÇOOOO\CriadoParaVoceWeb\CriadoParaVoceWeb\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+Z:\TCC_ATUALIZADAÇOOOO\CriadoParaVoceWeb\CriadoParaVoceWeb\bin\Microsoft.Web.Infrastructure.dll
+Z:\TCC_ATUALIZADAÇOOOO\CriadoParaVoceWeb\CriadoParaVoceWeb\bin\System.Web.Helpers.dll
+Z:\TCC_ATUALIZADAÇOOOO\CriadoParaVoceWeb\CriadoParaVoceWeb\bin\System.Web.Mvc.dll
+Z:\TCC_ATUALIZADAÇOOOO\CriadoParaVoceWeb\CriadoParaVoceWeb\bin\System.Web.Razor.dll
+Z:\TCC_ATUALIZADAÇOOOO\CriadoParaVoceWeb\CriadoParaVoceWeb\bin\System.Web.Webpages.Deployment.dll
+Z:\TCC_ATUALIZADAÇOOOO\CriadoParaVoceWeb\CriadoParaVoceWeb\bin\System.Web.Webpages.dll
+Z:\TCC_ATUALIZADAÇOOOO\CriadoParaVoceWeb\CriadoParaVoceWeb\bin\System.Web.Webpages.Razor.dll
+Z:\TCC_ATUALIZADAÇOOOO\CriadoParaVoceWeb\CriadoParaVoceWeb\bin\EntityFramework.xml
+Z:\TCC_ATUALIZADAÇOOOO\CriadoParaVoceWeb\CriadoParaVoceWeb\bin\EntityFramework.SqlServer.xml
+Z:\TCC_ATUALIZADAÇOOOO\CriadoParaVoceWeb\CriadoParaVoceWeb\bin\System.Web.Razor.xml
+Z:\TCC_ATUALIZADAÇOOOO\CriadoParaVoceWeb\CriadoParaVoceWeb\bin\System.Web.Webpages.xml
+Z:\TCC_ATUALIZADAÇOOOO\CriadoParaVoceWeb\CriadoParaVoceWeb\bin\System.Web.Webpages.Deployment.xml
+Z:\TCC_ATUALIZADAÇOOOO\CriadoParaVoceWeb\CriadoParaVoceWeb\bin\System.Web.Webpages.Razor.xml
+Z:\TCC_ATUALIZADAÇOOOO\CriadoParaVoceWeb\CriadoParaVoceWeb\bin\System.Web.Helpers.xml
+Z:\TCC_ATUALIZADAÇOOOO\CriadoParaVoceWeb\CriadoParaVoceWeb\bin\System.Web.Mvc.xml
+Z:\TCC_ATUALIZADAÇOOOO\CriadoParaVoceWeb\CriadoParaVoceWeb\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+Z:\TCC_ATUALIZADAÇOOOO\CriadoParaVoceWeb\CriadoParaVoceWeb\bin\pt-br\System.Web.Razor.resources.dll
+Z:\TCC_ATUALIZADAÇOOOO\CriadoParaVoceWeb\CriadoParaVoceWeb\bin\pt-br\System.Web.Webpages.resources.dll
+Z:\TCC_ATUALIZADAÇOOOO\CriadoParaVoceWeb\CriadoParaVoceWeb\bin\pt-br\System.Web.Webpages.Deployment.resources.dll
+Z:\TCC_ATUALIZADAÇOOOO\CriadoParaVoceWeb\CriadoParaVoceWeb\bin\pt-br\System.Web.Webpages.Razor.resources.dll
+Z:\TCC_ATUALIZADAÇOOOO\CriadoParaVoceWeb\CriadoParaVoceWeb\bin\pt-br\System.Web.Helpers.resources.dll
+Z:\TCC_ATUALIZADAÇOOOO\CriadoParaVoceWeb\CriadoParaVoceWeb\bin\pt-br\System.Web.Mvc.resources.dll
+Z:\TCC_ATUALIZADAÇOOOO\CriadoParaVoceWeb\CriadoParaVoceWeb\obj\Debug\CriadoParaVoceWeb.csproj.CoreCompileInputs.cache
+Z:\TCC_ATUALIZADAÇOOOO\CriadoParaVoceWeb\CriadoParaVoceWeb\obj\Debug\CriadoParaVoceWeb.csproj.CopyComplete
+Z:\TCC_ATUALIZADAÇOOOO\CriadoParaVoceWeb\CriadoParaVoceWeb\obj\Debug\CriadoParaVoceWeb.dll
+Z:\TCC_ATUALIZADAÇOOOO\CriadoParaVoceWeb\CriadoParaVoceWeb\obj\Debug\CriadoParaVoceWeb.pdb
+C:\Users\Ecileide\Desktop\TCC_ATUALIZADAÇOOOO\CriadoParaVoceWeb\CriadoParaVoceWeb\bin\CriadoParaVoceWeb.dll.config
+C:\Users\Ecileide\Desktop\TCC_ATUALIZADAÇOOOO\CriadoParaVoceWeb\CriadoParaVoceWeb\bin\CriadoParaVoceWeb.dll
+C:\Users\Ecileide\Desktop\TCC_ATUALIZADAÇOOOO\CriadoParaVoceWeb\CriadoParaVoceWeb\bin\CriadoParaVoceWeb.pdb
+C:\Users\Ecileide\Desktop\TCC_ATUALIZADAÇOOOO\CriadoParaVoceWeb\CriadoParaVoceWeb\bin\roslyn\csc.exe
+C:\Users\Ecileide\Desktop\TCC_ATUALIZADAÇOOOO\CriadoParaVoceWeb\CriadoParaVoceWeb\bin\roslyn\csc.exe.config
+C:\Users\Ecileide\Desktop\TCC_ATUALIZADAÇOOOO\CriadoParaVoceWeb\CriadoParaVoceWeb\bin\roslyn\csc.rsp
+C:\Users\Ecileide\Desktop\TCC_ATUALIZADAÇOOOO\CriadoParaVoceWeb\CriadoParaVoceWeb\bin\roslyn\csi.exe
+C:\Users\Ecileide\Desktop\TCC_ATUALIZADAÇOOOO\CriadoParaVoceWeb\CriadoParaVoceWeb\bin\roslyn\csi.exe.config
+C:\Users\Ecileide\Desktop\TCC_ATUALIZADAÇOOOO\CriadoParaVoceWeb\CriadoParaVoceWeb\bin\roslyn\csi.rsp
+C:\Users\Ecileide\Desktop\TCC_ATUALIZADAÇOOOO\CriadoParaVoceWeb\CriadoParaVoceWeb\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Ecileide\Desktop\TCC_ATUALIZADAÇOOOO\CriadoParaVoceWeb\CriadoParaVoceWeb\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Ecileide\Desktop\TCC_ATUALIZADAÇOOOO\CriadoParaVoceWeb\CriadoParaVoceWeb\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Ecileide\Desktop\TCC_ATUALIZADAÇOOOO\CriadoParaVoceWeb\CriadoParaVoceWeb\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Ecileide\Desktop\TCC_ATUALIZADAÇOOOO\CriadoParaVoceWeb\CriadoParaVoceWeb\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Ecileide\Desktop\TCC_ATUALIZADAÇOOOO\CriadoParaVoceWeb\CriadoParaVoceWeb\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Ecileide\Desktop\TCC_ATUALIZADAÇOOOO\CriadoParaVoceWeb\CriadoParaVoceWeb\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Ecileide\Desktop\TCC_ATUALIZADAÇOOOO\CriadoParaVoceWeb\CriadoParaVoceWeb\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Ecileide\Desktop\TCC_ATUALIZADAÇOOOO\CriadoParaVoceWeb\CriadoParaVoceWeb\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Ecileide\Desktop\TCC_ATUALIZADAÇOOOO\CriadoParaVoceWeb\CriadoParaVoceWeb\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Ecileide\Desktop\TCC_ATUALIZADAÇOOOO\CriadoParaVoceWeb\CriadoParaVoceWeb\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Ecileide\Desktop\TCC_ATUALIZADAÇOOOO\CriadoParaVoceWeb\CriadoParaVoceWeb\bin\roslyn\System.AppContext.dll
+C:\Users\Ecileide\Desktop\TCC_ATUALIZADAÇOOOO\CriadoParaVoceWeb\CriadoParaVoceWeb\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Ecileide\Desktop\TCC_ATUALIZADAÇOOOO\CriadoParaVoceWeb\CriadoParaVoceWeb\bin\roslyn\System.Console.dll
+C:\Users\Ecileide\Desktop\TCC_ATUALIZADAÇOOOO\CriadoParaVoceWeb\CriadoParaVoceWeb\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Ecileide\Desktop\TCC_ATUALIZADAÇOOOO\CriadoParaVoceWeb\CriadoParaVoceWeb\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Ecileide\Desktop\TCC_ATUALIZADAÇOOOO\CriadoParaVoceWeb\CriadoParaVoceWeb\bin\roslyn\System.IO.Compression.dll
+C:\Users\Ecileide\Desktop\TCC_ATUALIZADAÇOOOO\CriadoParaVoceWeb\CriadoParaVoceWeb\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Ecileide\Desktop\TCC_ATUALIZADAÇOOOO\CriadoParaVoceWeb\CriadoParaVoceWeb\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Ecileide\Desktop\TCC_ATUALIZADAÇOOOO\CriadoParaVoceWeb\CriadoParaVoceWeb\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\Ecileide\Desktop\TCC_ATUALIZADAÇOOOO\CriadoParaVoceWeb\CriadoParaVoceWeb\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Ecileide\Desktop\TCC_ATUALIZADAÇOOOO\CriadoParaVoceWeb\CriadoParaVoceWeb\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Ecileide\Desktop\TCC_ATUALIZADAÇOOOO\CriadoParaVoceWeb\CriadoParaVoceWeb\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Ecileide\Desktop\TCC_ATUALIZADAÇOOOO\CriadoParaVoceWeb\CriadoParaVoceWeb\bin\roslyn\System.Security.Claims.dll
+C:\Users\Ecileide\Desktop\TCC_ATUALIZADAÇOOOO\CriadoParaVoceWeb\CriadoParaVoceWeb\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Ecileide\Desktop\TCC_ATUALIZADAÇOOOO\CriadoParaVoceWeb\CriadoParaVoceWeb\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Ecileide\Desktop\TCC_ATUALIZADAÇOOOO\CriadoParaVoceWeb\CriadoParaVoceWeb\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Ecileide\Desktop\TCC_ATUALIZADAÇOOOO\CriadoParaVoceWeb\CriadoParaVoceWeb\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Ecileide\Desktop\TCC_ATUALIZADAÇOOOO\CriadoParaVoceWeb\CriadoParaVoceWeb\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Ecileide\Desktop\TCC_ATUALIZADAÇOOOO\CriadoParaVoceWeb\CriadoParaVoceWeb\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Ecileide\Desktop\TCC_ATUALIZADAÇOOOO\CriadoParaVoceWeb\CriadoParaVoceWeb\bin\roslyn\System.ValueTuple.dll
+C:\Users\Ecileide\Desktop\TCC_ATUALIZADAÇOOOO\CriadoParaVoceWeb\CriadoParaVoceWeb\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Ecileide\Desktop\TCC_ATUALIZADAÇOOOO\CriadoParaVoceWeb\CriadoParaVoceWeb\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Ecileide\Desktop\TCC_ATUALIZADAÇOOOO\CriadoParaVoceWeb\CriadoParaVoceWeb\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Ecileide\Desktop\TCC_ATUALIZADAÇOOOO\CriadoParaVoceWeb\CriadoParaVoceWeb\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Ecileide\Desktop\TCC_ATUALIZADAÇOOOO\CriadoParaVoceWeb\CriadoParaVoceWeb\bin\roslyn\vbc.exe
+C:\Users\Ecileide\Desktop\TCC_ATUALIZADAÇOOOO\CriadoParaVoceWeb\CriadoParaVoceWeb\bin\roslyn\vbc.exe.config
+C:\Users\Ecileide\Desktop\TCC_ATUALIZADAÇOOOO\CriadoParaVoceWeb\CriadoParaVoceWeb\bin\roslyn\vbc.rsp
+C:\Users\Ecileide\Desktop\TCC_ATUALIZADAÇOOOO\CriadoParaVoceWeb\CriadoParaVoceWeb\bin\roslyn\VBCSCompiler.exe
+C:\Users\Ecileide\Desktop\TCC_ATUALIZADAÇOOOO\CriadoParaVoceWeb\CriadoParaVoceWeb\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Ecileide\Desktop\TCC_ATUALIZADAÇOOOO\CriadoParaVoceWeb\CriadoParaVoceWeb\bin\EntityFramework.dll
+C:\Users\Ecileide\Desktop\TCC_ATUALIZADAÇOOOO\CriadoParaVoceWeb\CriadoParaVoceWeb\bin\EntityFramework.SqlServer.dll
+C:\Users\Ecileide\Desktop\TCC_ATUALIZADAÇOOOO\CriadoParaVoceWeb\CriadoParaVoceWeb\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Ecileide\Desktop\TCC_ATUALIZADAÇOOOO\CriadoParaVoceWeb\CriadoParaVoceWeb\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Ecileide\Desktop\TCC_ATUALIZADAÇOOOO\CriadoParaVoceWeb\CriadoParaVoceWeb\bin\System.Web.Helpers.dll
+C:\Users\Ecileide\Desktop\TCC_ATUALIZADAÇOOOO\CriadoParaVoceWeb\CriadoParaVoceWeb\bin\System.Web.Mvc.dll
+C:\Users\Ecileide\Desktop\TCC_ATUALIZADAÇOOOO\CriadoParaVoceWeb\CriadoParaVoceWeb\bin\System.Web.Razor.dll
+C:\Users\Ecileide\Desktop\TCC_ATUALIZADAÇOOOO\CriadoParaVoceWeb\CriadoParaVoceWeb\bin\System.Web.Webpages.Deployment.dll
+C:\Users\Ecileide\Desktop\TCC_ATUALIZADAÇOOOO\CriadoParaVoceWeb\CriadoParaVoceWeb\bin\System.Web.Webpages.dll
+C:\Users\Ecileide\Desktop\TCC_ATUALIZADAÇOOOO\CriadoParaVoceWeb\CriadoParaVoceWeb\bin\System.Web.Webpages.Razor.dll
+C:\Users\Ecileide\Desktop\TCC_ATUALIZADAÇOOOO\CriadoParaVoceWeb\CriadoParaVoceWeb\bin\EntityFramework.xml
+C:\Users\Ecileide\Desktop\TCC_ATUALIZADAÇOOOO\CriadoParaVoceWeb\CriadoParaVoceWeb\bin\EntityFramework.SqlServer.xml
+C:\Users\Ecileide\Desktop\TCC_ATUALIZADAÇOOOO\CriadoParaVoceWeb\CriadoParaVoceWeb\bin\System.Web.Razor.xml
+C:\Users\Ecileide\Desktop\TCC_ATUALIZADAÇOOOO\CriadoParaVoceWeb\CriadoParaVoceWeb\bin\System.Web.Webpages.xml
+C:\Users\Ecileide\Desktop\TCC_ATUALIZADAÇOOOO\CriadoParaVoceWeb\CriadoParaVoceWeb\bin\System.Web.Webpages.Deployment.xml
+C:\Users\Ecileide\Desktop\TCC_ATUALIZADAÇOOOO\CriadoParaVoceWeb\CriadoParaVoceWeb\bin\System.Web.Webpages.Razor.xml
+C:\Users\Ecileide\Desktop\TCC_ATUALIZADAÇOOOO\CriadoParaVoceWeb\CriadoParaVoceWeb\bin\System.Web.Helpers.xml
+C:\Users\Ecileide\Desktop\TCC_ATUALIZADAÇOOOO\CriadoParaVoceWeb\CriadoParaVoceWeb\bin\System.Web.Mvc.xml
+C:\Users\Ecileide\Desktop\TCC_ATUALIZADAÇOOOO\CriadoParaVoceWeb\CriadoParaVoceWeb\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Ecileide\Desktop\TCC_ATUALIZADAÇOOOO\CriadoParaVoceWeb\CriadoParaVoceWeb\bin\pt-br\System.Web.Razor.resources.dll
+C:\Users\Ecileide\Desktop\TCC_ATUALIZADAÇOOOO\CriadoParaVoceWeb\CriadoParaVoceWeb\bin\pt-br\System.Web.Webpages.resources.dll
+C:\Users\Ecileide\Desktop\TCC_ATUALIZADAÇOOOO\CriadoParaVoceWeb\CriadoParaVoceWeb\bin\pt-br\System.Web.Webpages.Deployment.resources.dll
+C:\Users\Ecileide\Desktop\TCC_ATUALIZADAÇOOOO\CriadoParaVoceWeb\CriadoParaVoceWeb\bin\pt-br\System.Web.Webpages.Razor.resources.dll
+C:\Users\Ecileide\Desktop\TCC_ATUALIZADAÇOOOO\CriadoParaVoceWeb\CriadoParaVoceWeb\bin\pt-br\System.Web.Helpers.resources.dll
+C:\Users\Ecileide\Desktop\TCC_ATUALIZADAÇOOOO\CriadoParaVoceWeb\CriadoParaVoceWeb\bin\pt-br\System.Web.Mvc.resources.dll
+C:\Users\Ecileide\Desktop\TCC_ATUALIZADAÇOOOO\CriadoParaVoceWeb\CriadoParaVoceWeb\obj\Debug\CriadoParaVoceWeb.csprojAssemblyReference.cache
+C:\Users\Ecileide\Desktop\TCC_ATUALIZADAÇOOOO\CriadoParaVoceWeb\CriadoParaVoceWeb\obj\Debug\CriadoParaVoceWeb.csproj.CoreCompileInputs.cache
+C:\Users\Ecileide\Desktop\TCC_ATUALIZADAÇOOOO\CriadoParaVoceWeb\CriadoParaVoceWeb\obj\Debug\CriadoParaVoceWeb.csproj.CopyComplete
+C:\Users\Ecileide\Desktop\TCC_ATUALIZADAÇOOOO\CriadoParaVoceWeb\CriadoParaVoceWeb\obj\Debug\CriadoParaVoceWeb.dll
+C:\Users\Ecileide\Desktop\TCC_ATUALIZADAÇOOOO\CriadoParaVoceWeb\CriadoParaVoceWeb\obj\Debug\CriadoParaVoceWeb.pdb
+I:\INF3DM\Felipe_61734\Finalizado\TCC_ATUALIZADAÇOOOO\CriadoParaVoceWeb\CriadoParaVoceWeb\bin\CriadoParaVoceWeb.dll.config
+I:\INF3DM\Felipe_61734\Finalizado\TCC_ATUALIZADAÇOOOO\CriadoParaVoceWeb\CriadoParaVoceWeb\bin\CriadoParaVoceWeb.dll
+I:\INF3DM\Felipe_61734\Finalizado\TCC_ATUALIZADAÇOOOO\CriadoParaVoceWeb\CriadoParaVoceWeb\bin\CriadoParaVoceWeb.pdb
+I:\INF3DM\Felipe_61734\Finalizado\TCC_ATUALIZADAÇOOOO\CriadoParaVoceWeb\CriadoParaVoceWeb\bin\roslyn\csc.exe
+I:\INF3DM\Felipe_61734\Finalizado\TCC_ATUALIZADAÇOOOO\CriadoParaVoceWeb\CriadoParaVoceWeb\bin\roslyn\csc.exe.config
+I:\INF3DM\Felipe_61734\Finalizado\TCC_ATUALIZADAÇOOOO\CriadoParaVoceWeb\CriadoParaVoceWeb\bin\roslyn\csc.rsp
+I:\INF3DM\Felipe_61734\Finalizado\TCC_ATUALIZADAÇOOOO\CriadoParaVoceWeb\CriadoParaVoceWeb\bin\roslyn\csi.exe
+I:\INF3DM\Felipe_61734\Finalizado\TCC_ATUALIZADAÇOOOO\CriadoParaVoceWeb\CriadoParaVoceWeb\bin\roslyn\csi.exe.config
+I:\INF3DM\Felipe_61734\Finalizado\TCC_ATUALIZADAÇOOOO\CriadoParaVoceWeb\CriadoParaVoceWeb\bin\roslyn\csi.rsp
+I:\INF3DM\Felipe_61734\Finalizado\TCC_ATUALIZADAÇOOOO\CriadoParaVoceWeb\CriadoParaVoceWeb\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+I:\INF3DM\Felipe_61734\Finalizado\TCC_ATUALIZADAÇOOOO\CriadoParaVoceWeb\CriadoParaVoceWeb\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+I:\INF3DM\Felipe_61734\Finalizado\TCC_ATUALIZADAÇOOOO\CriadoParaVoceWeb\CriadoParaVoceWeb\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+I:\INF3DM\Felipe_61734\Finalizado\TCC_ATUALIZADAÇOOOO\CriadoParaVoceWeb\CriadoParaVoceWeb\bin\roslyn\Microsoft.CodeAnalysis.dll
+I:\INF3DM\Felipe_61734\Finalizado\TCC_ATUALIZADAÇOOOO\CriadoParaVoceWeb\CriadoParaVoceWeb\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+I:\INF3DM\Felipe_61734\Finalizado\TCC_ATUALIZADAÇOOOO\CriadoParaVoceWeb\CriadoParaVoceWeb\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+I:\INF3DM\Felipe_61734\Finalizado\TCC_ATUALIZADAÇOOOO\CriadoParaVoceWeb\CriadoParaVoceWeb\bin\roslyn\Microsoft.CSharp.Core.targets
+I:\INF3DM\Felipe_61734\Finalizado\TCC_ATUALIZADAÇOOOO\CriadoParaVoceWeb\CriadoParaVoceWeb\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+I:\INF3DM\Felipe_61734\Finalizado\TCC_ATUALIZADAÇOOOO\CriadoParaVoceWeb\CriadoParaVoceWeb\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+I:\INF3DM\Felipe_61734\Finalizado\TCC_ATUALIZADAÇOOOO\CriadoParaVoceWeb\CriadoParaVoceWeb\bin\roslyn\Microsoft.Managed.Core.targets
+I:\INF3DM\Felipe_61734\Finalizado\TCC_ATUALIZADAÇOOOO\CriadoParaVoceWeb\CriadoParaVoceWeb\bin\roslyn\Microsoft.VisualBasic.Core.targets
+I:\INF3DM\Felipe_61734\Finalizado\TCC_ATUALIZADAÇOOOO\CriadoParaVoceWeb\CriadoParaVoceWeb\bin\roslyn\System.AppContext.dll
+I:\INF3DM\Felipe_61734\Finalizado\TCC_ATUALIZADAÇOOOO\CriadoParaVoceWeb\CriadoParaVoceWeb\bin\roslyn\System.Collections.Immutable.dll
+I:\INF3DM\Felipe_61734\Finalizado\TCC_ATUALIZADAÇOOOO\CriadoParaVoceWeb\CriadoParaVoceWeb\bin\roslyn\System.Console.dll
+I:\INF3DM\Felipe_61734\Finalizado\TCC_ATUALIZADAÇOOOO\CriadoParaVoceWeb\CriadoParaVoceWeb\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+I:\INF3DM\Felipe_61734\Finalizado\TCC_ATUALIZADAÇOOOO\CriadoParaVoceWeb\CriadoParaVoceWeb\bin\roslyn\System.Diagnostics.StackTrace.dll
+I:\INF3DM\Felipe_61734\Finalizado\TCC_ATUALIZADAÇOOOO\CriadoParaVoceWeb\CriadoParaVoceWeb\bin\roslyn\System.IO.Compression.dll
+I:\INF3DM\Felipe_61734\Finalizado\TCC_ATUALIZADAÇOOOO\CriadoParaVoceWeb\CriadoParaVoceWeb\bin\roslyn\System.IO.FileSystem.dll
+I:\INF3DM\Felipe_61734\Finalizado\TCC_ATUALIZADAÇOOOO\CriadoParaVoceWeb\CriadoParaVoceWeb\bin\roslyn\System.IO.FileSystem.Primitives.dll
+I:\INF3DM\Felipe_61734\Finalizado\TCC_ATUALIZADAÇOOOO\CriadoParaVoceWeb\CriadoParaVoceWeb\bin\roslyn\System.IO.Pipes.AccessControl.dll
+I:\INF3DM\Felipe_61734\Finalizado\TCC_ATUALIZADAÇOOOO\CriadoParaVoceWeb\CriadoParaVoceWeb\bin\roslyn\System.IO.Pipes.dll
+I:\INF3DM\Felipe_61734\Finalizado\TCC_ATUALIZADAÇOOOO\CriadoParaVoceWeb\CriadoParaVoceWeb\bin\roslyn\System.Reflection.Metadata.dll
+I:\INF3DM\Felipe_61734\Finalizado\TCC_ATUALIZADAÇOOOO\CriadoParaVoceWeb\CriadoParaVoceWeb\bin\roslyn\System.Security.AccessControl.dll
+I:\INF3DM\Felipe_61734\Finalizado\TCC_ATUALIZADAÇOOOO\CriadoParaVoceWeb\CriadoParaVoceWeb\bin\roslyn\System.Security.Claims.dll
+I:\INF3DM\Felipe_61734\Finalizado\TCC_ATUALIZADAÇOOOO\CriadoParaVoceWeb\CriadoParaVoceWeb\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+I:\INF3DM\Felipe_61734\Finalizado\TCC_ATUALIZADAÇOOOO\CriadoParaVoceWeb\CriadoParaVoceWeb\bin\roslyn\System.Security.Cryptography.Encoding.dll
+I:\INF3DM\Felipe_61734\Finalizado\TCC_ATUALIZADAÇOOOO\CriadoParaVoceWeb\CriadoParaVoceWeb\bin\roslyn\System.Security.Cryptography.Primitives.dll
+I:\INF3DM\Felipe_61734\Finalizado\TCC_ATUALIZADAÇOOOO\CriadoParaVoceWeb\CriadoParaVoceWeb\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+I:\INF3DM\Felipe_61734\Finalizado\TCC_ATUALIZADAÇOOOO\CriadoParaVoceWeb\CriadoParaVoceWeb\bin\roslyn\System.Security.Principal.Windows.dll
+I:\INF3DM\Felipe_61734\Finalizado\TCC_ATUALIZADAÇOOOO\CriadoParaVoceWeb\CriadoParaVoceWeb\bin\roslyn\System.Text.Encoding.CodePages.dll
+I:\INF3DM\Felipe_61734\Finalizado\TCC_ATUALIZADAÇOOOO\CriadoParaVoceWeb\CriadoParaVoceWeb\bin\roslyn\System.ValueTuple.dll
+I:\INF3DM\Felipe_61734\Finalizado\TCC_ATUALIZADAÇOOOO\CriadoParaVoceWeb\CriadoParaVoceWeb\bin\roslyn\System.Xml.ReaderWriter.dll
+I:\INF3DM\Felipe_61734\Finalizado\TCC_ATUALIZADAÇOOOO\CriadoParaVoceWeb\CriadoParaVoceWeb\bin\roslyn\System.Xml.XmlDocument.dll
+I:\INF3DM\Felipe_61734\Finalizado\TCC_ATUALIZADAÇOOOO\CriadoParaVoceWeb\CriadoParaVoceWeb\bin\roslyn\System.Xml.XPath.dll
+I:\INF3DM\Felipe_61734\Finalizado\TCC_ATUALIZADAÇOOOO\CriadoParaVoceWeb\CriadoParaVoceWeb\bin\roslyn\System.Xml.XPath.XDocument.dll
+I:\INF3DM\Felipe_61734\Finalizado\TCC_ATUALIZADAÇOOOO\CriadoParaVoceWeb\CriadoParaVoceWeb\bin\roslyn\vbc.exe
+I:\INF3DM\Felipe_61734\Finalizado\TCC_ATUALIZADAÇOOOO\CriadoParaVoceWeb\CriadoParaVoceWeb\bin\roslyn\vbc.exe.config
+I:\INF3DM\Felipe_61734\Finalizado\TCC_ATUALIZADAÇOOOO\CriadoParaVoceWeb\CriadoParaVoceWeb\bin\roslyn\vbc.rsp
+I:\INF3DM\Felipe_61734\Finalizado\TCC_ATUALIZADAÇOOOO\CriadoParaVoceWeb\CriadoParaVoceWeb\bin\roslyn\VBCSCompiler.exe
+I:\INF3DM\Felipe_61734\Finalizado\TCC_ATUALIZADAÇOOOO\CriadoParaVoceWeb\CriadoParaVoceWeb\bin\roslyn\VBCSCompiler.exe.config
+I:\INF3DM\Felipe_61734\Finalizado\TCC_ATUALIZADAÇOOOO\CriadoParaVoceWeb\CriadoParaVoceWeb\bin\EntityFramework.dll
+I:\INF3DM\Felipe_61734\Finalizado\TCC_ATUALIZADAÇOOOO\CriadoParaVoceWeb\CriadoParaVoceWeb\bin\EntityFramework.SqlServer.dll
+I:\INF3DM\Felipe_61734\Finalizado\TCC_ATUALIZADAÇOOOO\CriadoParaVoceWeb\CriadoParaVoceWeb\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+I:\INF3DM\Felipe_61734\Finalizado\TCC_ATUALIZADAÇOOOO\CriadoParaVoceWeb\CriadoParaVoceWeb\bin\Microsoft.Web.Infrastructure.dll
+I:\INF3DM\Felipe_61734\Finalizado\TCC_ATUALIZADAÇOOOO\CriadoParaVoceWeb\CriadoParaVoceWeb\bin\System.Web.Helpers.dll
+I:\INF3DM\Felipe_61734\Finalizado\TCC_ATUALIZADAÇOOOO\CriadoParaVoceWeb\CriadoParaVoceWeb\bin\System.Web.Mvc.dll
+I:\INF3DM\Felipe_61734\Finalizado\TCC_ATUALIZADAÇOOOO\CriadoParaVoceWeb\CriadoParaVoceWeb\bin\System.Web.Razor.dll
+I:\INF3DM\Felipe_61734\Finalizado\TCC_ATUALIZADAÇOOOO\CriadoParaVoceWeb\CriadoParaVoceWeb\bin\System.Web.Webpages.Deployment.dll
+I:\INF3DM\Felipe_61734\Finalizado\TCC_ATUALIZADAÇOOOO\CriadoParaVoceWeb\CriadoParaVoceWeb\bin\System.Web.Webpages.dll
+I:\INF3DM\Felipe_61734\Finalizado\TCC_ATUALIZADAÇOOOO\CriadoParaVoceWeb\CriadoParaVoceWeb\bin\System.Web.Webpages.Razor.dll
+I:\INF3DM\Felipe_61734\Finalizado\TCC_ATUALIZADAÇOOOO\CriadoParaVoceWeb\CriadoParaVoceWeb\bin\EntityFramework.xml
+I:\INF3DM\Felipe_61734\Finalizado\TCC_ATUALIZADAÇOOOO\CriadoParaVoceWeb\CriadoParaVoceWeb\bin\EntityFramework.SqlServer.xml
+I:\INF3DM\Felipe_61734\Finalizado\TCC_ATUALIZADAÇOOOO\CriadoParaVoceWeb\CriadoParaVoceWeb\bin\System.Web.Razor.xml
+I:\INF3DM\Felipe_61734\Finalizado\TCC_ATUALIZADAÇOOOO\CriadoParaVoceWeb\CriadoParaVoceWeb\bin\System.Web.Webpages.xml
+I:\INF3DM\Felipe_61734\Finalizado\TCC_ATUALIZADAÇOOOO\CriadoParaVoceWeb\CriadoParaVoceWeb\bin\System.Web.Webpages.Deployment.xml
+I:\INF3DM\Felipe_61734\Finalizado\TCC_ATUALIZADAÇOOOO\CriadoParaVoceWeb\CriadoParaVoceWeb\bin\System.Web.Webpages.Razor.xml
+I:\INF3DM\Felipe_61734\Finalizado\TCC_ATUALIZADAÇOOOO\CriadoParaVoceWeb\CriadoParaVoceWeb\bin\System.Web.Helpers.xml
+I:\INF3DM\Felipe_61734\Finalizado\TCC_ATUALIZADAÇOOOO\CriadoParaVoceWeb\CriadoParaVoceWeb\bin\System.Web.Mvc.xml
+I:\INF3DM\Felipe_61734\Finalizado\TCC_ATUALIZADAÇOOOO\CriadoParaVoceWeb\CriadoParaVoceWeb\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+I:\INF3DM\Felipe_61734\Finalizado\TCC_ATUALIZADAÇOOOO\CriadoParaVoceWeb\CriadoParaVoceWeb\bin\pt-br\System.Web.Razor.resources.dll
+I:\INF3DM\Felipe_61734\Finalizado\TCC_ATUALIZADAÇOOOO\CriadoParaVoceWeb\CriadoParaVoceWeb\bin\pt-br\System.Web.Webpages.resources.dll
+I:\INF3DM\Felipe_61734\Finalizado\TCC_ATUALIZADAÇOOOO\CriadoParaVoceWeb\CriadoParaVoceWeb\bin\pt-br\System.Web.Webpages.Deployment.resources.dll
+I:\INF3DM\Felipe_61734\Finalizado\TCC_ATUALIZADAÇOOOO\CriadoParaVoceWeb\CriadoParaVoceWeb\bin\pt-br\System.Web.Webpages.Razor.resources.dll
+I:\INF3DM\Felipe_61734\Finalizado\TCC_ATUALIZADAÇOOOO\CriadoParaVoceWeb\CriadoParaVoceWeb\bin\pt-br\System.Web.Helpers.resources.dll
+I:\INF3DM\Felipe_61734\Finalizado\TCC_ATUALIZADAÇOOOO\CriadoParaVoceWeb\CriadoParaVoceWeb\bin\pt-br\System.Web.Mvc.resources.dll
+I:\INF3DM\Felipe_61734\Finalizado\TCC_ATUALIZADAÇOOOO\CriadoParaVoceWeb\CriadoParaVoceWeb\obj\Debug\CriadoParaVoceWeb.csprojAssemblyReference.cache
+I:\INF3DM\Felipe_61734\Finalizado\TCC_ATUALIZADAÇOOOO\CriadoParaVoceWeb\CriadoParaVoceWeb\obj\Debug\CriadoParaVoceWeb.csproj.CoreCompileInputs.cache
+I:\INF3DM\Felipe_61734\Finalizado\TCC_ATUALIZADAÇOOOO\CriadoParaVoceWeb\CriadoParaVoceWeb\obj\Debug\CriadoParaVoceWeb.csproj.CopyComplete
+I:\INF3DM\Felipe_61734\Finalizado\TCC_ATUALIZADAÇOOOO\CriadoParaVoceWeb\CriadoParaVoceWeb\obj\Debug\CriadoParaVoceWeb.dll
+I:\INF3DM\Felipe_61734\Finalizado\TCC_ATUALIZADAÇOOOO\CriadoParaVoceWeb\CriadoParaVoceWeb\obj\Debug\CriadoParaVoceWeb.pdb
+Z:\Finalizado\TCC_ATUALIZADAÇOOOO\CriadoParaVoceWeb\CriadoParaVoceWeb\bin\CriadoParaVoceWeb.dll.config
+Z:\Finalizado\TCC_ATUALIZADAÇOOOO\CriadoParaVoceWeb\CriadoParaVoceWeb\bin\CriadoParaVoceWeb.dll
+Z:\Finalizado\TCC_ATUALIZADAÇOOOO\CriadoParaVoceWeb\CriadoParaVoceWeb\bin\CriadoParaVoceWeb.pdb
+Z:\Finalizado\TCC_ATUALIZADAÇOOOO\CriadoParaVoceWeb\CriadoParaVoceWeb\bin\roslyn\csc.exe
+Z:\Finalizado\TCC_ATUALIZADAÇOOOO\CriadoParaVoceWeb\CriadoParaVoceWeb\bin\roslyn\csc.exe.config
+Z:\Finalizado\TCC_ATUALIZADAÇOOOO\CriadoParaVoceWeb\CriadoParaVoceWeb\bin\roslyn\csc.rsp
+Z:\Finalizado\TCC_ATUALIZADAÇOOOO\CriadoParaVoceWeb\CriadoParaVoceWeb\bin\roslyn\csi.exe
+Z:\Finalizado\TCC_ATUALIZADAÇOOOO\CriadoParaVoceWeb\CriadoParaVoceWeb\bin\roslyn\csi.exe.config
+Z:\Finalizado\TCC_ATUALIZADAÇOOOO\CriadoParaVoceWeb\CriadoParaVoceWeb\bin\roslyn\csi.rsp
+Z:\Finalizado\TCC_ATUALIZADAÇOOOO\CriadoParaVoceWeb\CriadoParaVoceWeb\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+Z:\Finalizado\TCC_ATUALIZADAÇOOOO\CriadoParaVoceWeb\CriadoParaVoceWeb\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+Z:\Finalizado\TCC_ATUALIZADAÇOOOO\CriadoParaVoceWeb\CriadoParaVoceWeb\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+Z:\Finalizado\TCC_ATUALIZADAÇOOOO\CriadoParaVoceWeb\CriadoParaVoceWeb\bin\roslyn\Microsoft.CodeAnalysis.dll
+Z:\Finalizado\TCC_ATUALIZADAÇOOOO\CriadoParaVoceWeb\CriadoParaVoceWeb\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+Z:\Finalizado\TCC_ATUALIZADAÇOOOO\CriadoParaVoceWeb\CriadoParaVoceWeb\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+Z:\Finalizado\TCC_ATUALIZADAÇOOOO\CriadoParaVoceWeb\CriadoParaVoceWeb\bin\roslyn\Microsoft.CSharp.Core.targets
+Z:\Finalizado\TCC_ATUALIZADAÇOOOO\CriadoParaVoceWeb\CriadoParaVoceWeb\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+Z:\Finalizado\TCC_ATUALIZADAÇOOOO\CriadoParaVoceWeb\CriadoParaVoceWeb\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+Z:\Finalizado\TCC_ATUALIZADAÇOOOO\CriadoParaVoceWeb\CriadoParaVoceWeb\bin\roslyn\Microsoft.Managed.Core.targets
+Z:\Finalizado\TCC_ATUALIZADAÇOOOO\CriadoParaVoceWeb\CriadoParaVoceWeb\bin\roslyn\Microsoft.VisualBasic.Core.targets
+Z:\Finalizado\TCC_ATUALIZADAÇOOOO\CriadoParaVoceWeb\CriadoParaVoceWeb\bin\roslyn\System.AppContext.dll
+Z:\Finalizado\TCC_ATUALIZADAÇOOOO\CriadoParaVoceWeb\CriadoParaVoceWeb\bin\roslyn\System.Collections.Immutable.dll
+Z:\Finalizado\TCC_ATUALIZADAÇOOOO\CriadoParaVoceWeb\CriadoParaVoceWeb\bin\roslyn\System.Console.dll
+Z:\Finalizado\TCC_ATUALIZADAÇOOOO\CriadoParaVoceWeb\CriadoParaVoceWeb\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+Z:\Finalizado\TCC_ATUALIZADAÇOOOO\CriadoParaVoceWeb\CriadoParaVoceWeb\bin\roslyn\System.Diagnostics.StackTrace.dll
+Z:\Finalizado\TCC_ATUALIZADAÇOOOO\CriadoParaVoceWeb\CriadoParaVoceWeb\bin\roslyn\System.IO.Compression.dll
+Z:\Finalizado\TCC_ATUALIZADAÇOOOO\CriadoParaVoceWeb\CriadoParaVoceWeb\bin\roslyn\System.IO.FileSystem.dll
+Z:\Finalizado\TCC_ATUALIZADAÇOOOO\CriadoParaVoceWeb\CriadoParaVoceWeb\bin\roslyn\System.IO.FileSystem.Primitives.dll
+Z:\Finalizado\TCC_ATUALIZADAÇOOOO\CriadoParaVoceWeb\CriadoParaVoceWeb\bin\roslyn\System.IO.Pipes.AccessControl.dll
+Z:\Finalizado\TCC_ATUALIZADAÇOOOO\CriadoParaVoceWeb\CriadoParaVoceWeb\bin\roslyn\System.IO.Pipes.dll
+Z:\Finalizado\TCC_ATUALIZADAÇOOOO\CriadoParaVoceWeb\CriadoParaVoceWeb\bin\roslyn\System.Reflection.Metadata.dll
+Z:\Finalizado\TCC_ATUALIZADAÇOOOO\CriadoParaVoceWeb\CriadoParaVoceWeb\bin\roslyn\System.Security.AccessControl.dll
+Z:\Finalizado\TCC_ATUALIZADAÇOOOO\CriadoParaVoceWeb\CriadoParaVoceWeb\bin\roslyn\System.Security.Claims.dll
+Z:\Finalizado\TCC_ATUALIZADAÇOOOO\CriadoParaVoceWeb\CriadoParaVoceWeb\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+Z:\Finalizado\TCC_ATUALIZADAÇOOOO\CriadoParaVoceWeb\CriadoParaVoceWeb\bin\roslyn\System.Security.Cryptography.Encoding.dll
+Z:\Finalizado\TCC_ATUALIZADAÇOOOO\CriadoParaVoceWeb\CriadoParaVoceWeb\bin\roslyn\System.Security.Cryptography.Primitives.dll
+Z:\Finalizado\TCC_ATUALIZADAÇOOOO\CriadoParaVoceWeb\CriadoParaVoceWeb\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+Z:\Finalizado\TCC_ATUALIZADAÇOOOO\CriadoParaVoceWeb\CriadoParaVoceWeb\bin\roslyn\System.Security.Principal.Windows.dll
+Z:\Finalizado\TCC_ATUALIZADAÇOOOO\CriadoParaVoceWeb\CriadoParaVoceWeb\bin\roslyn\System.Text.Encoding.CodePages.dll
+Z:\Finalizado\TCC_ATUALIZADAÇOOOO\CriadoParaVoceWeb\CriadoParaVoceWeb\bin\roslyn\System.ValueTuple.dll
+Z:\Finalizado\TCC_ATUALIZADAÇOOOO\CriadoParaVoceWeb\CriadoParaVoceWeb\bin\roslyn\System.Xml.ReaderWriter.dll
+Z:\Finalizado\TCC_ATUALIZADAÇOOOO\CriadoParaVoceWeb\CriadoParaVoceWeb\bin\roslyn\System.Xml.XmlDocument.dll
+Z:\Finalizado\TCC_ATUALIZADAÇOOOO\CriadoParaVoceWeb\CriadoParaVoceWeb\bin\roslyn\System.Xml.XPath.dll
+Z:\Finalizado\TCC_ATUALIZADAÇOOOO\CriadoParaVoceWeb\CriadoParaVoceWeb\bin\roslyn\System.Xml.XPath.XDocument.dll
+Z:\Finalizado\TCC_ATUALIZADAÇOOOO\CriadoParaVoceWeb\CriadoParaVoceWeb\bin\roslyn\vbc.exe
+Z:\Finalizado\TCC_ATUALIZADAÇOOOO\CriadoParaVoceWeb\CriadoParaVoceWeb\bin\roslyn\vbc.exe.config
+Z:\Finalizado\TCC_ATUALIZADAÇOOOO\CriadoParaVoceWeb\CriadoParaVoceWeb\bin\roslyn\vbc.rsp
+Z:\Finalizado\TCC_ATUALIZADAÇOOOO\CriadoParaVoceWeb\CriadoParaVoceWeb\bin\roslyn\VBCSCompiler.exe
+Z:\Finalizado\TCC_ATUALIZADAÇOOOO\CriadoParaVoceWeb\CriadoParaVoceWeb\bin\roslyn\VBCSCompiler.exe.config
+Z:\Finalizado\TCC_ATUALIZADAÇOOOO\CriadoParaVoceWeb\CriadoParaVoceWeb\bin\EntityFramework.dll
+Z:\Finalizado\TCC_ATUALIZADAÇOOOO\CriadoParaVoceWeb\CriadoParaVoceWeb\bin\EntityFramework.SqlServer.dll
+Z:\Finalizado\TCC_ATUALIZADAÇOOOO\CriadoParaVoceWeb\CriadoParaVoceWeb\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+Z:\Finalizado\TCC_ATUALIZADAÇOOOO\CriadoParaVoceWeb\CriadoParaVoceWeb\bin\Microsoft.Web.Infrastructure.dll
+Z:\Finalizado\TCC_ATUALIZADAÇOOOO\CriadoParaVoceWeb\CriadoParaVoceWeb\bin\System.Web.Helpers.dll
+Z:\Finalizado\TCC_ATUALIZADAÇOOOO\CriadoParaVoceWeb\CriadoParaVoceWeb\bin\System.Web.Mvc.dll
+Z:\Finalizado\TCC_ATUALIZADAÇOOOO\CriadoParaVoceWeb\CriadoParaVoceWeb\bin\System.Web.Razor.dll
+Z:\Finalizado\TCC_ATUALIZADAÇOOOO\CriadoParaVoceWeb\CriadoParaVoceWeb\bin\System.Web.Webpages.Deployment.dll
+Z:\Finalizado\TCC_ATUALIZADAÇOOOO\CriadoParaVoceWeb\CriadoParaVoceWeb\bin\System.Web.Webpages.dll
+Z:\Finalizado\TCC_ATUALIZADAÇOOOO\CriadoParaVoceWeb\CriadoParaVoceWeb\bin\System.Web.Webpages.Razor.dll
+Z:\Finalizado\TCC_ATUALIZADAÇOOOO\CriadoParaVoceWeb\CriadoParaVoceWeb\bin\EntityFramework.xml
+Z:\Finalizado\TCC_ATUALIZADAÇOOOO\CriadoParaVoceWeb\CriadoParaVoceWeb\bin\EntityFramework.SqlServer.xml
+Z:\Finalizado\TCC_ATUALIZADAÇOOOO\CriadoParaVoceWeb\CriadoParaVoceWeb\bin\System.Web.Razor.xml
+Z:\Finalizado\TCC_ATUALIZADAÇOOOO\CriadoParaVoceWeb\CriadoParaVoceWeb\bin\System.Web.Webpages.xml
+Z:\Finalizado\TCC_ATUALIZADAÇOOOO\CriadoParaVoceWeb\CriadoParaVoceWeb\bin\System.Web.Webpages.Deployment.xml
+Z:\Finalizado\TCC_ATUALIZADAÇOOOO\CriadoParaVoceWeb\CriadoParaVoceWeb\bin\System.Web.Webpages.Razor.xml
+Z:\Finalizado\TCC_ATUALIZADAÇOOOO\CriadoParaVoceWeb\CriadoParaVoceWeb\bin\System.Web.Helpers.xml
+Z:\Finalizado\TCC_ATUALIZADAÇOOOO\CriadoParaVoceWeb\CriadoParaVoceWeb\bin\System.Web.Mvc.xml
+Z:\Finalizado\TCC_ATUALIZADAÇOOOO\CriadoParaVoceWeb\CriadoParaVoceWeb\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+Z:\Finalizado\TCC_ATUALIZADAÇOOOO\CriadoParaVoceWeb\CriadoParaVoceWeb\bin\pt-br\System.Web.Razor.resources.dll
+Z:\Finalizado\TCC_ATUALIZADAÇOOOO\CriadoParaVoceWeb\CriadoParaVoceWeb\bin\pt-br\System.Web.Webpages.resources.dll
+Z:\Finalizado\TCC_ATUALIZADAÇOOOO\CriadoParaVoceWeb\CriadoParaVoceWeb\bin\pt-br\System.Web.Webpages.Deployment.resources.dll
+Z:\Finalizado\TCC_ATUALIZADAÇOOOO\CriadoParaVoceWeb\CriadoParaVoceWeb\bin\pt-br\System.Web.Webpages.Razor.resources.dll
+Z:\Finalizado\TCC_ATUALIZADAÇOOOO\CriadoParaVoceWeb\CriadoParaVoceWeb\bin\pt-br\System.Web.Helpers.resources.dll
+Z:\Finalizado\TCC_ATUALIZADAÇOOOO\CriadoParaVoceWeb\CriadoParaVoceWeb\bin\pt-br\System.Web.Mvc.resources.dll
+Z:\Finalizado\TCC_ATUALIZADAÇOOOO\CriadoParaVoceWeb\CriadoParaVoceWeb\obj\Debug\CriadoParaVoceWeb.csprojAssemblyReference.cache
+Z:\Finalizado\TCC_ATUALIZADAÇOOOO\CriadoParaVoceWeb\CriadoParaVoceWeb\obj\Debug\CriadoParaVoceWeb.csproj.CoreCompileInputs.cache
+Z:\Finalizado\TCC_ATUALIZADAÇOOOO\CriadoParaVoceWeb\CriadoParaVoceWeb\obj\Debug\CriadoParaVoceWeb.csproj.CopyComplete
+Z:\Finalizado\TCC_ATUALIZADAÇOOOO\CriadoParaVoceWeb\CriadoParaVoceWeb\obj\Debug\CriadoParaVoceWeb.dll
+Z:\Finalizado\TCC_ATUALIZADAÇOOOO\CriadoParaVoceWeb\CriadoParaVoceWeb\obj\Debug\CriadoParaVoceWeb.pdb
+Z:\TCC\Web\CriadoParaVoceWeb\CriadoParaVoceWeb\bin\CriadoParaVoceWeb.dll.config
+Z:\TCC\Web\CriadoParaVoceWeb\CriadoParaVoceWeb\bin\CriadoParaVoceWeb.dll
+Z:\TCC\Web\CriadoParaVoceWeb\CriadoParaVoceWeb\bin\CriadoParaVoceWeb.pdb
+Z:\TCC\Web\CriadoParaVoceWeb\CriadoParaVoceWeb\bin\roslyn\csc.exe
+Z:\TCC\Web\CriadoParaVoceWeb\CriadoParaVoceWeb\bin\roslyn\csc.exe.config
+Z:\TCC\Web\CriadoParaVoceWeb\CriadoParaVoceWeb\bin\roslyn\csc.rsp
+Z:\TCC\Web\CriadoParaVoceWeb\CriadoParaVoceWeb\bin\roslyn\csi.exe
+Z:\TCC\Web\CriadoParaVoceWeb\CriadoParaVoceWeb\bin\roslyn\csi.exe.config
+Z:\TCC\Web\CriadoParaVoceWeb\CriadoParaVoceWeb\bin\roslyn\csi.rsp
+Z:\TCC\Web\CriadoParaVoceWeb\CriadoParaVoceWeb\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+Z:\TCC\Web\CriadoParaVoceWeb\CriadoParaVoceWeb\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+Z:\TCC\Web\CriadoParaVoceWeb\CriadoParaVoceWeb\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+Z:\TCC\Web\CriadoParaVoceWeb\CriadoParaVoceWeb\bin\roslyn\Microsoft.CodeAnalysis.dll
+Z:\TCC\Web\CriadoParaVoceWeb\CriadoParaVoceWeb\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+Z:\TCC\Web\CriadoParaVoceWeb\CriadoParaVoceWeb\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+Z:\TCC\Web\CriadoParaVoceWeb\CriadoParaVoceWeb\bin\roslyn\Microsoft.CSharp.Core.targets
+Z:\TCC\Web\CriadoParaVoceWeb\CriadoParaVoceWeb\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+Z:\TCC\Web\CriadoParaVoceWeb\CriadoParaVoceWeb\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+Z:\TCC\Web\CriadoParaVoceWeb\CriadoParaVoceWeb\bin\roslyn\Microsoft.Managed.Core.targets
+Z:\TCC\Web\CriadoParaVoceWeb\CriadoParaVoceWeb\bin\roslyn\Microsoft.VisualBasic.Core.targets
+Z:\TCC\Web\CriadoParaVoceWeb\CriadoParaVoceWeb\bin\roslyn\System.AppContext.dll
+Z:\TCC\Web\CriadoParaVoceWeb\CriadoParaVoceWeb\bin\roslyn\System.Collections.Immutable.dll
+Z:\TCC\Web\CriadoParaVoceWeb\CriadoParaVoceWeb\bin\roslyn\System.Console.dll
+Z:\TCC\Web\CriadoParaVoceWeb\CriadoParaVoceWeb\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+Z:\TCC\Web\CriadoParaVoceWeb\CriadoParaVoceWeb\bin\roslyn\System.Diagnostics.StackTrace.dll
+Z:\TCC\Web\CriadoParaVoceWeb\CriadoParaVoceWeb\bin\roslyn\System.IO.Compression.dll
+Z:\TCC\Web\CriadoParaVoceWeb\CriadoParaVoceWeb\bin\roslyn\System.IO.FileSystem.dll
+Z:\TCC\Web\CriadoParaVoceWeb\CriadoParaVoceWeb\bin\roslyn\System.IO.FileSystem.Primitives.dll
+Z:\TCC\Web\CriadoParaVoceWeb\CriadoParaVoceWeb\bin\roslyn\System.IO.Pipes.AccessControl.dll
+Z:\TCC\Web\CriadoParaVoceWeb\CriadoParaVoceWeb\bin\roslyn\System.IO.Pipes.dll
+Z:\TCC\Web\CriadoParaVoceWeb\CriadoParaVoceWeb\bin\roslyn\System.Reflection.Metadata.dll
+Z:\TCC\Web\CriadoParaVoceWeb\CriadoParaVoceWeb\bin\roslyn\System.Security.AccessControl.dll
+Z:\TCC\Web\CriadoParaVoceWeb\CriadoParaVoceWeb\bin\roslyn\System.Security.Claims.dll
+Z:\TCC\Web\CriadoParaVoceWeb\CriadoParaVoceWeb\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+Z:\TCC\Web\CriadoParaVoceWeb\CriadoParaVoceWeb\bin\roslyn\System.Security.Cryptography.Encoding.dll
+Z:\TCC\Web\CriadoParaVoceWeb\CriadoParaVoceWeb\bin\roslyn\System.Security.Cryptography.Primitives.dll
+Z:\TCC\Web\CriadoParaVoceWeb\CriadoParaVoceWeb\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+Z:\TCC\Web\CriadoParaVoceWeb\CriadoParaVoceWeb\bin\roslyn\System.Security.Principal.Windows.dll
+Z:\TCC\Web\CriadoParaVoceWeb\CriadoParaVoceWeb\bin\roslyn\System.Text.Encoding.CodePages.dll
+Z:\TCC\Web\CriadoParaVoceWeb\CriadoParaVoceWeb\bin\roslyn\System.ValueTuple.dll
+Z:\TCC\Web\CriadoParaVoceWeb\CriadoParaVoceWeb\bin\roslyn\System.Xml.ReaderWriter.dll
+Z:\TCC\Web\CriadoParaVoceWeb\CriadoParaVoceWeb\bin\roslyn\System.Xml.XmlDocument.dll
+Z:\TCC\Web\CriadoParaVoceWeb\CriadoParaVoceWeb\bin\roslyn\System.Xml.XPath.dll
+Z:\TCC\Web\CriadoParaVoceWeb\CriadoParaVoceWeb\bin\roslyn\System.Xml.XPath.XDocument.dll
+Z:\TCC\Web\CriadoParaVoceWeb\CriadoParaVoceWeb\bin\roslyn\vbc.exe
+Z:\TCC\Web\CriadoParaVoceWeb\CriadoParaVoceWeb\bin\roslyn\vbc.exe.config
+Z:\TCC\Web\CriadoParaVoceWeb\CriadoParaVoceWeb\bin\roslyn\vbc.rsp
+Z:\TCC\Web\CriadoParaVoceWeb\CriadoParaVoceWeb\bin\roslyn\VBCSCompiler.exe
+Z:\TCC\Web\CriadoParaVoceWeb\CriadoParaVoceWeb\bin\roslyn\VBCSCompiler.exe.config
+Z:\TCC\Web\CriadoParaVoceWeb\CriadoParaVoceWeb\bin\EntityFramework.dll
+Z:\TCC\Web\CriadoParaVoceWeb\CriadoParaVoceWeb\bin\EntityFramework.SqlServer.dll
+Z:\TCC\Web\CriadoParaVoceWeb\CriadoParaVoceWeb\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+Z:\TCC\Web\CriadoParaVoceWeb\CriadoParaVoceWeb\bin\Microsoft.Web.Infrastructure.dll
+Z:\TCC\Web\CriadoParaVoceWeb\CriadoParaVoceWeb\bin\System.Web.Helpers.dll
+Z:\TCC\Web\CriadoParaVoceWeb\CriadoParaVoceWeb\bin\System.Web.Mvc.dll
+Z:\TCC\Web\CriadoParaVoceWeb\CriadoParaVoceWeb\bin\System.Web.Razor.dll
+Z:\TCC\Web\CriadoParaVoceWeb\CriadoParaVoceWeb\bin\System.Web.Webpages.Deployment.dll
+Z:\TCC\Web\CriadoParaVoceWeb\CriadoParaVoceWeb\bin\System.Web.Webpages.dll
+Z:\TCC\Web\CriadoParaVoceWeb\CriadoParaVoceWeb\bin\System.Web.Webpages.Razor.dll
+Z:\TCC\Web\CriadoParaVoceWeb\CriadoParaVoceWeb\bin\EntityFramework.xml
+Z:\TCC\Web\CriadoParaVoceWeb\CriadoParaVoceWeb\bin\EntityFramework.SqlServer.xml
+Z:\TCC\Web\CriadoParaVoceWeb\CriadoParaVoceWeb\bin\System.Web.Razor.xml
+Z:\TCC\Web\CriadoParaVoceWeb\CriadoParaVoceWeb\bin\System.Web.Webpages.xml
+Z:\TCC\Web\CriadoParaVoceWeb\CriadoParaVoceWeb\bin\System.Web.Webpages.Deployment.xml
+Z:\TCC\Web\CriadoParaVoceWeb\CriadoParaVoceWeb\bin\System.Web.Webpages.Razor.xml
+Z:\TCC\Web\CriadoParaVoceWeb\CriadoParaVoceWeb\bin\System.Web.Helpers.xml
+Z:\TCC\Web\CriadoParaVoceWeb\CriadoParaVoceWeb\bin\System.Web.Mvc.xml
+Z:\TCC\Web\CriadoParaVoceWeb\CriadoParaVoceWeb\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+Z:\TCC\Web\CriadoParaVoceWeb\CriadoParaVoceWeb\bin\pt-br\System.Web.Razor.resources.dll
+Z:\TCC\Web\CriadoParaVoceWeb\CriadoParaVoceWeb\bin\pt-br\System.Web.Webpages.resources.dll
+Z:\TCC\Web\CriadoParaVoceWeb\CriadoParaVoceWeb\bin\pt-br\System.Web.Webpages.Deployment.resources.dll
+Z:\TCC\Web\CriadoParaVoceWeb\CriadoParaVoceWeb\bin\pt-br\System.Web.Webpages.Razor.resources.dll
+Z:\TCC\Web\CriadoParaVoceWeb\CriadoParaVoceWeb\bin\pt-br\System.Web.Helpers.resources.dll
+Z:\TCC\Web\CriadoParaVoceWeb\CriadoParaVoceWeb\bin\pt-br\System.Web.Mvc.resources.dll
+Z:\TCC\Web\CriadoParaVoceWeb\CriadoParaVoceWeb\obj\Debug\CriadoParaVoceWeb.csprojAssemblyReference.cache
+Z:\TCC\Web\CriadoParaVoceWeb\CriadoParaVoceWeb\obj\Debug\CriadoParaVoceWeb.csproj.CoreCompileInputs.cache
+Z:\TCC\Web\CriadoParaVoceWeb\CriadoParaVoceWeb\obj\Debug\CriadoParaVoceWeb.csproj.CopyComplete
+Z:\TCC\Web\CriadoParaVoceWeb\CriadoParaVoceWeb\obj\Debug\CriadoParaVoceWeb.dll
+Z:\TCC\Web\CriadoParaVoceWeb\CriadoParaVoceWeb\obj\Debug\CriadoParaVoceWeb.pdb

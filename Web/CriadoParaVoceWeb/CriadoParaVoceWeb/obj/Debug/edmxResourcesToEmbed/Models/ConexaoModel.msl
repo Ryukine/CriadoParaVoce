@@ -1,0 +1,320 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="CriadoParaVoceModelStoreContainer" CdmEntityContainer="CriadoParaVoceEntities">
+    <EntitySetMapping Name="tbCargo">
+      <EntityTypeMapping TypeName="CriadoParaVoceModel.tbCargo">
+        <MappingFragment StoreEntitySet="tbCargo">
+          <ScalarProperty Name="CodigoCargo" ColumnName="CodigoCargo" />
+          <ScalarProperty Name="NomeCargo" ColumnName="NomeCargo" />
+          <ScalarProperty Name="DescricaoCargo" ColumnName="DescricaoCargo" />
+          <ScalarProperty Name="StatusCargo" ColumnName="StatusCargo" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="tbCategoria">
+      <EntityTypeMapping TypeName="CriadoParaVoceModel.tbCategoria">
+        <MappingFragment StoreEntitySet="tbCategoria">
+          <ScalarProperty Name="DescricaoCategoria" ColumnName="DescricaoCategoria" />
+          <ScalarProperty Name="Tamanho" ColumnName="Tamanho" />
+          <ScalarProperty Name="CategoriaID" ColumnName="CategoriaID" />
+          <ScalarProperty Name="StatusCategoria" ColumnName="StatusCategoria" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="tbCliente">
+      <EntityTypeMapping TypeName="CriadoParaVoceModel.tbCliente">
+        <MappingFragment StoreEntitySet="tbCliente">
+          <ScalarProperty Name="CodigoCliente" ColumnName="CodigoCliente" />
+          <ScalarProperty Name="NomeCliente" ColumnName="NomeCliente" />
+          <ScalarProperty Name="Sexo" ColumnName="Sexo" />
+          <ScalarProperty Name="EmailCliente" ColumnName="EmailCliente" />
+          <ScalarProperty Name="CpfCliente" ColumnName="CpfCliente" />
+          <ScalarProperty Name="Telefone" ColumnName="Telefone" />
+          <ScalarProperty Name="DataNascimento" ColumnName="DataNascimento" />
+          <ScalarProperty Name="Logradouro" ColumnName="Logradouro" />
+          <ScalarProperty Name="CEP" ColumnName="CEP" />
+          <ScalarProperty Name="UF" ColumnName="UF" />
+          <ScalarProperty Name="Cidade" ColumnName="Cidade" />
+          <ScalarProperty Name="Bairro" ColumnName="Bairro" />
+          <ScalarProperty Name="Numero" ColumnName="Numero" />
+          <ScalarProperty Name="Complemento" ColumnName="Complemento" />
+          <ScalarProperty Name="ObsCliente" ColumnName="ObsCliente" />
+          <ScalarProperty Name="StatusCliente" ColumnName="StatusCliente" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="tbContatoCliente">
+      <EntityTypeMapping TypeName="CriadoParaVoceModel.tbContatoCliente">
+        <MappingFragment StoreEntitySet="tbContatoCliente">
+          <ScalarProperty Name="IdContato" ColumnName="IdContato" />
+          <ScalarProperty Name="ConteudoContato" ColumnName="ConteudoContato" />
+          <ScalarProperty Name="StatusContato" ColumnName="StatusContato" />
+          <ScalarProperty Name="CodigoCliente" ColumnName="CodigoCliente" />
+          <ScalarProperty Name="CodigoTipoContato" ColumnName="CodigoTipoContato" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="tbContatoFuncionario">
+      <EntityTypeMapping TypeName="CriadoParaVoceModel.tbContatoFuncionario">
+        <MappingFragment StoreEntitySet="tbContatoFuncionario">
+          <ScalarProperty Name="IdContato" ColumnName="IdContato" />
+          <ScalarProperty Name="ConteudoContato" ColumnName="ConteudoContato" />
+          <ScalarProperty Name="StatusContato" ColumnName="StatusContato" />
+          <ScalarProperty Name="CodigoFuncionario" ColumnName="CodigoFuncionario" />
+          <ScalarProperty Name="CodigoTipoContato" ColumnName="CodigoTipoContato" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="tbDepartamento">
+      <EntityTypeMapping TypeName="CriadoParaVoceModel.tbDepartamento">
+        <MappingFragment StoreEntitySet="tbDepartamento">
+          <ScalarProperty Name="CodigoDepartamento" ColumnName="CodigoDepartamento" />
+          <ScalarProperty Name="NomeDepartamento" ColumnName="NomeDepartamento" />
+          <ScalarProperty Name="DescricaoDepartamento" ColumnName="DescricaoDepartamento" />
+          <ScalarProperty Name="StatusDepartamento" ColumnName="StatusDepartamento" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="tbFormaDeVenda">
+      <EntityTypeMapping TypeName="CriadoParaVoceModel.tbFormaDeVenda">
+        <MappingFragment StoreEntitySet="tbFormaDeVenda">
+          <ScalarProperty Name="CodigoFormaVenda" ColumnName="CodigoFormaVenda" />
+          <ScalarProperty Name="CodigoPagamento" ColumnName="CodigoPagamento" />
+          <ScalarProperty Name="CodigoVenda" ColumnName="CodigoVenda" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="tbFormasDePagamento">
+      <EntityTypeMapping TypeName="CriadoParaVoceModel.tbFormasDePagamento">
+        <MappingFragment StoreEntitySet="tbFormasDePagamento">
+          <ScalarProperty Name="CodigoPagamento" ColumnName="CodigoPagamento" />
+          <ScalarProperty Name="DescricaoPagamento" ColumnName="DescricaoPagamento" />
+          <ScalarProperty Name="StatusPagamento" ColumnName="StatusPagamento" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="tbFornecedor">
+      <EntityTypeMapping TypeName="CriadoParaVoceModel.tbFornecedor">
+        <MappingFragment StoreEntitySet="tbFornecedor">
+          <ScalarProperty Name="FornecedorId" ColumnName="FornecedorId" />
+          <ScalarProperty Name="Descricao" ColumnName="Descricao" />
+          <ScalarProperty Name="Site" ColumnName="Site" />
+          <ScalarProperty Name="StatusFornecedor" ColumnName="StatusFornecedor" />
+          <ScalarProperty Name="Contato" ColumnName="Contato" />
+          <ScalarProperty Name="Cnpj" ColumnName="Cnpj" />
+          <ScalarProperty Name="Inscricao" ColumnName="Inscricao" />
+          <ScalarProperty Name="Email" ColumnName="Email" />
+          <ScalarProperty Name="Whatsapp" ColumnName="Whatsapp" />
+          <ScalarProperty Name="TelefoneFixo" ColumnName="TelefoneFixo" />
+          <ScalarProperty Name="TelefoneCelular" ColumnName="TelefoneCelular" />
+          <ScalarProperty Name="Logradouro" ColumnName="Logradouro" />
+          <ScalarProperty Name="CEP" ColumnName="CEP" />
+          <ScalarProperty Name="UF" ColumnName="UF" />
+          <ScalarProperty Name="Cidade" ColumnName="Cidade" />
+          <ScalarProperty Name="Bairro" ColumnName="Bairro" />
+          <ScalarProperty Name="Numero" ColumnName="Numero" />
+          <ScalarProperty Name="Complemento" ColumnName="Complemento" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="tbFuncionario">
+      <EntityTypeMapping TypeName="CriadoParaVoceModel.tbFuncionario">
+        <MappingFragment StoreEntitySet="tbFuncionario">
+          <ScalarProperty Name="CodigoFunc" ColumnName="CodigoFunc" />
+          <ScalarProperty Name="NomeFuncionario" ColumnName="NomeFuncionario" />
+          <ScalarProperty Name="Sexo" ColumnName="Sexo" />
+          <ScalarProperty Name="EmailFuncionario" ColumnName="EmailFuncionario" />
+          <ScalarProperty Name="CpfFuncionario" ColumnName="CpfFuncionario" />
+          <ScalarProperty Name="NascimentoFuncionario" ColumnName="NascimentoFuncionario" />
+          <ScalarProperty Name="StatusFuncionario" ColumnName="StatusFuncionario" />
+          <ScalarProperty Name="Logradouro" ColumnName="Logradouro" />
+          <ScalarProperty Name="CEP" ColumnName="CEP" />
+          <ScalarProperty Name="UF" ColumnName="UF" />
+          <ScalarProperty Name="Cidade" ColumnName="Cidade" />
+          <ScalarProperty Name="Bairro" ColumnName="Bairro" />
+          <ScalarProperty Name="Numero" ColumnName="Numero" />
+          <ScalarProperty Name="Complemento" ColumnName="Complemento" />
+          <ScalarProperty Name="CodigoDepartamento" ColumnName="CodigoDepartamento" />
+          <ScalarProperty Name="CodigoCargo" ColumnName="CodigoCargo" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="tbItem_Venda">
+      <EntityTypeMapping TypeName="CriadoParaVoceModel.tbItem_Venda">
+        <MappingFragment StoreEntitySet="tbItem_Venda">
+          <ScalarProperty Name="CodigoProdutoFinal" ColumnName="CodigoProdutoFinal" />
+          <ScalarProperty Name="CodigoItemVenda" ColumnName="CodigoItemVenda" />
+          <ScalarProperty Name="CodigoVenda" ColumnName="CodigoVenda" />
+          <ScalarProperty Name="PrecoTotal" ColumnName="PrecoTotal" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="tbLancamento">
+      <EntityTypeMapping TypeName="CriadoParaVoceModel.tbLancamento">
+        <MappingFragment StoreEntitySet="tbLancamento">
+          <ScalarProperty Name="CodigoLancamento" ColumnName="CodigoLancamento" />
+          <ScalarProperty Name="CodigoTitulo" ColumnName="CodigoTitulo" />
+          <ScalarProperty Name="DataVencimento" ColumnName="DataVencimento" />
+          <ScalarProperty Name="ValorTitulo" ColumnName="ValorTitulo" />
+          <ScalarProperty Name="StatusPagTitulo" ColumnName="StatusPagTitulo" />
+          <ScalarProperty Name="DataPagamento" ColumnName="DataPagamento" />
+          <ScalarProperty Name="ValorPagamento" ColumnName="ValorPagamento" />
+          <ScalarProperty Name="CodigoUsuario" ColumnName="CodigoUsuario" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="tbNivelAcesso">
+      <EntityTypeMapping TypeName="CriadoParaVoceModel.tbNivelAcesso">
+        <MappingFragment StoreEntitySet="tbNivelAcesso">
+          <ScalarProperty Name="CodigoNivel" ColumnName="CodigoNivel" />
+          <ScalarProperty Name="NomeNivel" ColumnName="NomeNivel" />
+          <ScalarProperty Name="AbreviacaoNivel" ColumnName="AbreviacaoNivel" />
+          <ScalarProperty Name="StatusNivel" ColumnName="StatusNivel" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="tbPedido">
+      <EntityTypeMapping TypeName="CriadoParaVoceModel.tbPedido">
+        <MappingFragment StoreEntitySet="tbPedido">
+          <ScalarProperty Name="CodigoProdutoFinal" ColumnName="CodigoProdutoFinal" />
+          <ScalarProperty Name="PrecoTotal" ColumnName="PrecoTotal" />
+          <ScalarProperty Name="CodigoPedido" ColumnName="CodigoPedido" />
+          <ScalarProperty Name="Descricao" ColumnName="Descricao" />
+          <ScalarProperty Name="Quantidade" ColumnName="Quantidade" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="tbPeriodo">
+      <EntityTypeMapping TypeName="CriadoParaVoceModel.tbPeriodo">
+        <MappingFragment StoreEntitySet="tbPeriodo">
+          <ScalarProperty Name="CodigoPeriodo" ColumnName="CodigoPeriodo" />
+          <ScalarProperty Name="DescricaoPeriodo" ColumnName="DescricaoPeriodo" />
+          <ScalarProperty Name="ValorPeriodo" ColumnName="ValorPeriodo" />
+          <ScalarProperty Name="SinalPeriodo" ColumnName="SinalPeriodo" />
+          <ScalarProperty Name="StatusPeriodo" ColumnName="StatusPeriodo" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="tbProduto">
+      <EntityTypeMapping TypeName="CriadoParaVoceModel.tbProduto">
+        <MappingFragment StoreEntitySet="tbProduto">
+          <ScalarProperty Name="FornecedorID" ColumnName="FornecedorID" />
+          <ScalarProperty Name="CodigoProduto" ColumnName="CodigoProduto" />
+          <ScalarProperty Name="CategoriaId" ColumnName="CategoriaId" />
+          <ScalarProperty Name="NomeProduto" ColumnName="NomeProduto" />
+          <ScalarProperty Name="StatusProduto" ColumnName="StatusProduto" />
+          <ScalarProperty Name="PrecoProduto" ColumnName="PrecoProduto" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="tbTipoContato">
+      <EntityTypeMapping TypeName="CriadoParaVoceModel.tbTipoContato">
+        <MappingFragment StoreEntitySet="tbTipoContato">
+          <ScalarProperty Name="CodigoTipoContato" ColumnName="CodigoTipoContato" />
+          <ScalarProperty Name="NomeTipoContato" ColumnName="NomeTipoContato" />
+          <ScalarProperty Name="StatusTipoContato" ColumnName="StatusTipoContato" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="tbTipoTitulo">
+      <EntityTypeMapping TypeName="CriadoParaVoceModel.tbTipoTitulo">
+        <MappingFragment StoreEntitySet="tbTipoTitulo">
+          <ScalarProperty Name="CodigoTitulo" ColumnName="CodigoTitulo" />
+          <ScalarProperty Name="DescricaoTitulo" ColumnName="DescricaoTitulo" />
+          <ScalarProperty Name="StatusTitulo" ColumnName="StatusTitulo" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="tbUsuario">
+      <EntityTypeMapping TypeName="CriadoParaVoceModel.tbUsuario">
+        <MappingFragment StoreEntitySet="tbUsuario">
+          <ScalarProperty Name="CodigoUsuario" ColumnName="CodigoUsuario" />
+          <ScalarProperty Name="NomeUsuario" ColumnName="NomeUsuario" />
+          <ScalarProperty Name="NomeSistema" ColumnName="NomeSistema" />
+          <ScalarProperty Name="SenhaSistema" ColumnName="SenhaSistema" />
+          <ScalarProperty Name="PinUsuario" ColumnName="PinUsuario" />
+          <ScalarProperty Name="CodigoNivelAcesso" ColumnName="CodigoNivelAcesso" />
+          <ScalarProperty Name="StatusUsuario" ColumnName="StatusUsuario" />
+          <ScalarProperty Name="PerguntaUsuario" ColumnName="PerguntaUsuario" />
+          <ScalarProperty Name="RespostaUsuario" ColumnName="RespostaUsuario" />
+          <ScalarProperty Name="CodigoFunc" ColumnName="CodigoFunc" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="tbVenda">
+      <EntityTypeMapping TypeName="CriadoParaVoceModel.tbVenda">
+        <MappingFragment StoreEntitySet="tbVenda">
+          <ScalarProperty Name="DataVenda" ColumnName="DataVenda" />
+          <ScalarProperty Name="CodigoPedido" ColumnName="CodigoPedido" />
+          <ScalarProperty Name="CodigoVenda" ColumnName="CodigoVenda" />
+          <ScalarProperty Name="CodigoCliente" ColumnName="CodigoCliente" />
+          <ScalarProperty Name="CodigoFunc" ColumnName="CodigoFunc" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="tbVendedor">
+      <EntityTypeMapping TypeName="CriadoParaVoceModel.tbVendedor">
+        <MappingFragment StoreEntitySet="tbVendedor">
+          <ScalarProperty Name="CodigoVendedor" ColumnName="CodigoVendedor" />
+          <ScalarProperty Name="NomeVendedor" ColumnName="NomeVendedor" />
+          <ScalarProperty Name="StatusVendedor" ColumnName="StatusVendedor" />
+          <ScalarProperty Name="CodigoFunc" ColumnName="CodigoFunc" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="tbParametrosPagamento">
+      <EntityTypeMapping TypeName="CriadoParaVoceModel.tbParametrosPagamento">
+        <MappingFragment StoreEntitySet="tbParametrosPagamento">
+          <ScalarProperty Name="CodigoParametroPagamento" ColumnName="CodigoParametroPagamento" />
+          <ScalarProperty Name="NumeroMinimoParcelasSemJurosCarnet" ColumnName="NumeroMinimoParcelasSemJurosCarnet" />
+          <ScalarProperty Name="NumeroMaximoParcelasCarnet" ColumnName="NumeroMaximoParcelasCarnet" />
+          <ScalarProperty Name="TaxaJurosParcelasCarnet" ColumnName="TaxaJurosParcelasCarnet" />
+          <ScalarProperty Name="ValorParcelaMinimaCarnet" ColumnName="ValorParcelaMinimaCarnet" />
+          <ScalarProperty Name="NumeroParcelasCartaoCreditoSemJuros" ColumnName="NumeroParcelasCartaoCreditoSemJuros" />
+          <ScalarProperty Name="NumeroMaximoParcelasCartaoCredito" ColumnName="NumeroMaximoParcelasCartaoCredito" />
+          <ScalarProperty Name="TaxaJurosParcelasCartaoCredito" ColumnName="TaxaJurosParcelasCartaoCredito" />
+          <ScalarProperty Name="ValorParcelaMinimaPagamentoCartaoCredito" ColumnName="ValorParcelaMinimaPagamentoCartaoCredito" />
+          <ScalarProperty Name="DataAtualizacaoParametrosPagamento" ColumnName="DataAtualizacaoParametrosPagamento" />
+          <ScalarProperty Name="StatusParametroPagamento" ColumnName="StatusParametroPagamento" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="tbArte">
+      <EntityTypeMapping TypeName="CriadoParaVoceModel.tbArte">
+        <MappingFragment StoreEntitySet="tbArte">
+          <ScalarProperty Name="Largura" ColumnName="Largura" />
+          <ScalarProperty Name="Altura" ColumnName="Altura" />
+          <ScalarProperty Name="PrecoArte" ColumnName="PrecoArte" />
+          <ScalarProperty Name="arquivoArte" ColumnName="arquivoArte" />
+          <ScalarProperty Name="NomeArte" ColumnName="NomeArte" />
+          <ScalarProperty Name="IdArte" ColumnName="IdArte" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="tbProdutoFinal">
+      <EntityTypeMapping TypeName="CriadoParaVoceModel.tbProdutoFinal">
+        <MappingFragment StoreEntitySet="tbProdutoFinal">
+          <ScalarProperty Name="PrecoProdutoFinal" ColumnName="PrecoProdutoFinal" />
+          <ScalarProperty Name="StatusProdutoFinal" ColumnName="StatusProdutoFinal" />
+          <ScalarProperty Name="NomeProdutoFinal" ColumnName="NomeProdutoFinal" />
+          <ScalarProperty Name="DescricaoProd" ColumnName="DescricaoProd" />
+          <ScalarProperty Name="IdArte" ColumnName="IdArte" />
+          <ScalarProperty Name="CodigoProduto" ColumnName="CodigoProduto" />
+          <ScalarProperty Name="CategoriaId" ColumnName="CategoriaId" />
+          <ScalarProperty Name="CodigoProdutoFinal" ColumnName="CodigoProdutoFinal" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="LOGIN">
+      <EntityTypeMapping TypeName="CriadoParaVoceModel.LOGIN">
+        <MappingFragment StoreEntitySet="LOGIN">
+          <ScalarProperty Name="EMAIL" ColumnName="EMAIL" />
+          <ScalarProperty Name="CONFIRMAR" ColumnName="CONFIRMAR" />
+          <ScalarProperty Name="SENHA" ColumnName="SENHA" />
+          <ScalarProperty Name="NOME" ColumnName="NOME" />
+          <ScalarProperty Name="ID_LOGIN" ColumnName="ID_LOGIN" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>

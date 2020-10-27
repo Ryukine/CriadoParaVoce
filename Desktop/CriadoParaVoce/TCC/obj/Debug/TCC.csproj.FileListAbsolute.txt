@@ -1,0 +1,100 @@
+Z:\2018\Lip2\Visual C#\TCC\TCC\bin\Debug\TCC.dll
+Z:\2018\Lip2\Visual C#\TCC\TCC\bin\Debug\TCC.pdb
+Z:\2018\Lip2\Visual C#\TCC\TCC\obj\Debug\TCC.dll
+Z:\2018\Lip2\Visual C#\TCC\TCC\obj\Debug\TCC.pdb
+C:\Users\Marcos.IBM-5100.001\Documents\Salvar - Thiago\Arquivos Escola\2018\Lip2\Visual C#\TCC\TCC\bin\Debug\TCC.dll
+C:\Users\Marcos.IBM-5100.001\Documents\Salvar - Thiago\Arquivos Escola\2018\Lip2\Visual C#\TCC\TCC\bin\Debug\TCC.pdb
+C:\Users\Marcos.IBM-5100.001\Documents\Salvar - Thiago\Arquivos Escola\2018\Lip2\Visual C#\TCC\TCC\obj\Debug\TCC.csproj.CoreCompileInputs.cache
+C:\Users\Marcos.IBM-5100.001\Documents\Salvar - Thiago\Arquivos Escola\2018\Lip2\Visual C#\TCC\TCC\obj\Debug\TCC.dll
+C:\Users\Marcos.IBM-5100.001\Documents\Salvar - Thiago\Arquivos Escola\2018\Lip2\Visual C#\TCC\TCC\obj\Debug\TCC.pdb
+C:\Users\Marcos.IBM-5100.001\Documents\Salvar - Thiago\Arquivos Escola\2018\Lip2\Visual C#\TCC\TCC\obj\Debug\TCC.csprojResolveAssemblyReference.cache
+Z:\TCC\TCC\bin\Debug\TCC.dll
+Z:\TCC\TCC\bin\Debug\TCC.pdb
+Z:\TCC\TCC\obj\Debug\TCC.dll
+Z:\TCC\TCC\obj\Debug\TCC.pdb
+T:\TCC\TCC\bin\Debug\TCC.dll
+T:\TCC\TCC\bin\Debug\TCC.pdb
+T:\TCC\TCC\obj\Debug\TCC.csprojAssemblyReference.cache
+T:\TCC\TCC\obj\Debug\TCC.csproj.CoreCompileInputs.cache
+T:\TCC\TCC\obj\Debug\TCC.dll
+T:\TCC\TCC\obj\Debug\TCC.pdb
+C:\Users\Thiago\Desktop\Arquivos\TCC\TCC\bin\Debug\TCC.dll
+C:\Users\Thiago\Desktop\Arquivos\TCC\TCC\bin\Debug\TCC.pdb
+C:\Users\Thiago\Desktop\Arquivos\TCC\TCC\obj\Debug\TCC.csprojAssemblyReference.cache
+C:\Users\Thiago\Desktop\Arquivos\TCC\TCC\obj\Debug\TCC.csproj.CoreCompileInputs.cache
+C:\Users\Thiago\Desktop\Arquivos\TCC\TCC\obj\Debug\TCC.dll
+C:\Users\Thiago\Desktop\Arquivos\TCC\TCC\obj\Debug\TCC.pdb
+Z:\2018\TCC\TCC\bin\Debug\TCC.dll
+Z:\2018\TCC\TCC\bin\Debug\TCC.pdb
+Z:\2018\TCC\TCC\obj\Debug\TCC.dll
+Z:\2018\TCC\TCC\obj\Debug\TCC.pdb
+Z:\2018\TCC\TCC\obj\Debug\TCC.csprojResolveAssemblyReference.cache
+C:\Users\ECILEIDE\Desktop\Escola\TCC Thiago\TCC\TCC\bin\Debug\TCC.dll
+C:\Users\ECILEIDE\Desktop\Escola\TCC Thiago\TCC\TCC\bin\Debug\TCC.pdb
+C:\Users\ECILEIDE\Desktop\Escola\TCC Thiago\TCC\TCC\obj\Debug\TCC.csproj.CoreCompileInputs.cache
+C:\Users\ECILEIDE\Desktop\Escola\TCC Thiago\TCC\TCC\obj\Debug\TCC.dll
+C:\Users\ECILEIDE\Desktop\Escola\TCC Thiago\TCC\TCC\obj\Debug\TCC.pdb
+C:\Users\Ecileide\Downloads\Thiago\TCC\TCC\bin\Debug\TCC.dll
+C:\Users\Ecileide\Downloads\Thiago\TCC\TCC\bin\Debug\TCC.pdb
+C:\Users\Ecileide\Downloads\Thiago\TCC\TCC\obj\Debug\TCC.csprojAssemblyReference.cache
+C:\Users\Ecileide\Downloads\Thiago\TCC\TCC\obj\Debug\TCC.csproj.CoreCompileInputs.cache
+C:\Users\Ecileide\Downloads\Thiago\TCC\TCC\obj\Debug\TCC.dll
+C:\Users\Ecileide\Downloads\Thiago\TCC\TCC\obj\Debug\TCC.pdb
+C:\Users\Ecileide\Downloads\Thiago\CriadoParaVoce\TCC\bin\Debug\TCC.dll
+C:\Users\Ecileide\Downloads\Thiago\CriadoParaVoce\TCC\bin\Debug\TCC.pdb
+C:\Users\Ecileide\Downloads\Thiago\CriadoParaVoce\TCC\obj\Debug\TCC.csproj.CoreCompileInputs.cache
+C:\Users\Ecileide\Downloads\Thiago\CriadoParaVoce\TCC\obj\Debug\TCC.dll
+C:\Users\Ecileide\Downloads\Thiago\CriadoParaVoce\TCC\obj\Debug\TCC.pdb
+C:\Users\Ecileide\Downloads\Thiago\CriadoParaVoce\TCC\obj\Debug\TCC.csprojAssemblyReference.cache
+C:\Users\Ecileide\Downloads\Thiago\Criado Para Você\CriadoParaVoce\TCC\bin\Debug\TCC.dll
+C:\Users\Ecileide\Downloads\Thiago\Criado Para Você\CriadoParaVoce\TCC\bin\Debug\TCC.pdb
+C:\Users\Ecileide\Downloads\Thiago\Criado Para Você\CriadoParaVoce\TCC\obj\Debug\TCC.csproj.CoreCompileInputs.cache
+C:\Users\Ecileide\Downloads\Thiago\Criado Para Você\CriadoParaVoce\TCC\obj\Debug\TCC.dll
+C:\Users\Ecileide\Downloads\Thiago\Criado Para Você\CriadoParaVoce\TCC\obj\Debug\TCC.pdb
+Z:\Thiago_27667\Criado Para Você\CriadoParaVoce\TCC\bin\Debug\TCC.dll
+Z:\Thiago_27667\Criado Para Você\CriadoParaVoce\TCC\bin\Debug\TCC.pdb
+Z:\Thiago_27667\Criado Para Você\CriadoParaVoce\TCC\obj\Debug\TCC.csprojAssemblyReference.cache
+Z:\Thiago_27667\Criado Para Você\CriadoParaVoce\TCC\obj\Debug\TCC.csproj.CoreCompileInputs.cache
+Z:\Thiago_27667\Criado Para Você\CriadoParaVoce\TCC\obj\Debug\TCC.dll
+Z:\Thiago_27667\Criado Para Você\CriadoParaVoce\TCC\obj\Debug\TCC.pdb
+Z:\Criado Para Você\Criado Para Você\CriadoParaVoce\TCC\bin\Debug\TCC.dll
+Z:\Criado Para Você\Criado Para Você\CriadoParaVoce\TCC\bin\Debug\TCC.pdb
+Z:\Criado Para Você\Criado Para Você\CriadoParaVoce\TCC\obj\Debug\TCC.csproj.CoreCompileInputs.cache
+Z:\Criado Para Você\Criado Para Você\CriadoParaVoce\TCC\obj\Debug\TCC.dll
+Z:\Criado Para Você\Criado Para Você\CriadoParaVoce\TCC\obj\Debug\TCC.pdb
+Z:\Criado Para Você\Criado Para Você\CriadoParaVoce\TCC\obj\Debug\TCC.csprojAssemblyReference.cache
+C:\Users\Ecileide\Desktop\Criado Para Você\Criado Para Você\CriadoParaVoce\TCC\bin\Debug\TCC.dll
+C:\Users\Ecileide\Desktop\Criado Para Você\Criado Para Você\CriadoParaVoce\TCC\bin\Debug\TCC.pdb
+C:\Users\Ecileide\Desktop\Criado Para Você\Criado Para Você\CriadoParaVoce\TCC\obj\Debug\TCC.csproj.CoreCompileInputs.cache
+C:\Users\Ecileide\Desktop\Criado Para Você\Criado Para Você\CriadoParaVoce\TCC\obj\Debug\TCC.dll
+C:\Users\Ecileide\Desktop\Criado Para Você\Criado Para Você\CriadoParaVoce\TCC\obj\Debug\TCC.pdb
+Z:\TCC_ATUALIZADAÇOOOO\Desktop\CriadoParaVoce\TCC\bin\Debug\TCC.dll
+Z:\TCC_ATUALIZADAÇOOOO\Desktop\CriadoParaVoce\TCC\bin\Debug\TCC.pdb
+Z:\TCC_ATUALIZADAÇOOOO\Desktop\CriadoParaVoce\TCC\obj\Debug\TCC.csproj.CoreCompileInputs.cache
+Z:\TCC_ATUALIZADAÇOOOO\Desktop\CriadoParaVoce\TCC\obj\Debug\TCC.dll
+Z:\TCC_ATUALIZADAÇOOOO\Desktop\CriadoParaVoce\TCC\obj\Debug\TCC.pdb
+Z:\TCC_ATUALIZADAÇOOOO\Desktop\CriadoParaVoce\TCC\obj\Debug\TCC.csprojAssemblyReference.cache
+C:\Users\Ecileide\Desktop\TCC_ATUALIZADAÇOOOO\Desktop\CriadoParaVoce\TCC\bin\Debug\TCC.dll
+C:\Users\Ecileide\Desktop\TCC_ATUALIZADAÇOOOO\Desktop\CriadoParaVoce\TCC\bin\Debug\TCC.pdb
+C:\Users\Ecileide\Desktop\TCC_ATUALIZADAÇOOOO\Desktop\CriadoParaVoce\TCC\obj\Debug\TCC.csprojAssemblyReference.cache
+C:\Users\Ecileide\Desktop\TCC_ATUALIZADAÇOOOO\Desktop\CriadoParaVoce\TCC\obj\Debug\TCC.csproj.CoreCompileInputs.cache
+C:\Users\Ecileide\Desktop\TCC_ATUALIZADAÇOOOO\Desktop\CriadoParaVoce\TCC\obj\Debug\TCC.dll
+C:\Users\Ecileide\Desktop\TCC_ATUALIZADAÇOOOO\Desktop\CriadoParaVoce\TCC\obj\Debug\TCC.pdb
+Z:\Finalizado\TCC_ATUALIZADAÇOOOO\Desktop\CriadoParaVoce\TCC\bin\Debug\TCC.dll
+Z:\Finalizado\TCC_ATUALIZADAÇOOOO\Desktop\CriadoParaVoce\TCC\bin\Debug\TCC.pdb
+Z:\Finalizado\TCC_ATUALIZADAÇOOOO\Desktop\CriadoParaVoce\TCC\obj\Debug\TCC.csprojAssemblyReference.cache
+Z:\Finalizado\TCC_ATUALIZADAÇOOOO\Desktop\CriadoParaVoce\TCC\obj\Debug\TCC.csproj.CoreCompileInputs.cache
+Z:\Finalizado\TCC_ATUALIZADAÇOOOO\Desktop\CriadoParaVoce\TCC\obj\Debug\TCC.dll
+Z:\Finalizado\TCC_ATUALIZADAÇOOOO\Desktop\CriadoParaVoce\TCC\obj\Debug\TCC.pdb
+I:\INF3DM\Felipe_61734\Finalizado\TCC_ATUALIZADAÇOOOO\Desktop\CriadoParaVoce\TCC\bin\Debug\TCC.dll
+I:\INF3DM\Felipe_61734\Finalizado\TCC_ATUALIZADAÇOOOO\Desktop\CriadoParaVoce\TCC\bin\Debug\TCC.pdb
+I:\INF3DM\Felipe_61734\Finalizado\TCC_ATUALIZADAÇOOOO\Desktop\CriadoParaVoce\TCC\obj\Debug\TCC.csprojAssemblyReference.cache
+I:\INF3DM\Felipe_61734\Finalizado\TCC_ATUALIZADAÇOOOO\Desktop\CriadoParaVoce\TCC\obj\Debug\TCC.csproj.CoreCompileInputs.cache
+I:\INF3DM\Felipe_61734\Finalizado\TCC_ATUALIZADAÇOOOO\Desktop\CriadoParaVoce\TCC\obj\Debug\TCC.dll
+I:\INF3DM\Felipe_61734\Finalizado\TCC_ATUALIZADAÇOOOO\Desktop\CriadoParaVoce\TCC\obj\Debug\TCC.pdb
+Z:\TCC\Desktop\CriadoParaVoce\TCC\bin\Debug\TCC.dll
+Z:\TCC\Desktop\CriadoParaVoce\TCC\bin\Debug\TCC.pdb
+Z:\TCC\Desktop\CriadoParaVoce\TCC\obj\Debug\TCC.csprojAssemblyReference.cache
+Z:\TCC\Desktop\CriadoParaVoce\TCC\obj\Debug\TCC.csproj.CoreCompileInputs.cache
+Z:\TCC\Desktop\CriadoParaVoce\TCC\obj\Debug\TCC.dll
+Z:\TCC\Desktop\CriadoParaVoce\TCC\obj\Debug\TCC.pdb
